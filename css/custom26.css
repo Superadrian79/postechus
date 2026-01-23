@@ -57,6 +57,10 @@
     padding: 10px;
 }
 
+/*Joss*/
+.prod {
+    max-width: 303px !important;
+}
 .prod, .sgamid {
     border: 1px dashed #C6C6C6;
     background-color: white;
@@ -64,11 +68,58 @@
     align-items: center;
     justify-content: center;
 }
-
-.prod {
-    max-width: 303px;
-}
 .sga {
     padding: 1rem;
     box-sizing: border-box;
+}
+.contenedor {
+    display: flex;
+    gap: 1rem;
+    width: 100%;
+}
+.blue {
+    color: #256cb5;
+}
+.pricing-price {
+    position: relative;
+    padding: 25px 0;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 1;
+}
+.sgatxt {
+    width: 450px;
+    background-color: #256cb5;
+    color: white;
+    text-align: justify;
+    display: flex;
+    align-items: center;
+}
+
+.sga {
+    padding: 1rem;
+    box-sizing: border-box;
+}
+.fancy-title.title-dotted-border {
+    background: url(images/icons/dotted.png) repeat-x center;
+}
+.title-center {
+    text-align: center;
+}
+.fancy-title {
+    position: relative;
+    margin-bottom: 30px;
+}
+.titulo {
+    font-size: 26px;
+    text-transform: uppercase;
+    color: #2d88c7;
+    font-weight: bold;
+    font-stretch: condensed;
+}
+
+
+.sgamid {
+    max-width: 325px;
+    width: 325px;
 }
