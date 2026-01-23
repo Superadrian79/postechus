@@ -92,18 +92,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- Diapositiva 1 -->
 
 <div class="swiper-slide dark">
-            <div class="container clearfix">
-            <div class="slider-caption slider-caption-center">
-                        <h2 data-caption-animate="fadeInUp"><img class="img-responsive" src="../images/postech-log1.png" alt="Postech"></h2>
-                        <p data-caption-animate="fadeInUp" data-caption-delay="200">Postech IT Solution Provider S.A de C.V. © 2019 </p>
-            </div></div>
-                                
-            <div class="video-wrap">
-            <video poster="../images/videos/tech_bg.jpg" preload="auto" loop autoplay muted>
-            <source src='../images/videos/tech_bg.mp4' type='video/mp4' /><source src='../images/videos/tech_bg.webm' type='video/webm' />
-            </video>
-            <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
-            </div>
+    <div class="container clearfix">
+        <div class="slider-caption slider-caption-center">
+            <h2 data-caption-animate="fadeInUp"><img class="img-responsive" src="../images/postech-log1.png" alt="Postech"></h2>
+            <p data-caption-animate="fadeInUp" data-caption-delay="200">Postech IT Solution Provider S.A de C.V. © 2019 </p>
+        </div>
+    </div>
+                        
+    <div class="video-wrap">
+        <video poster="../images/videos/tech_bg.jpg" preload="auto" loop autoplay muted>
+            <source src='../images/videos/tech_bg.mp4' type='video/mp4' />
+            <source src='../images/videos/tech_bg.webm' type='video/webm' />
+        </video>
+        <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);">
+        </div>
+    </div>
 </div>
 
 
