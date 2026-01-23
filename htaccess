@@ -1,0 +1,17 @@
+
+
+
+ErrorDocument 404 http://www.postech.com.mx/Postech/404.shtml
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^postech.com.mx [NC]
+RewriteRule ^(.*)$ http://www.postech.com.mx/$1 [L,R=301]
+
+
+Options +FollowSymLinks
+RewriteEngine On
+RewriteRule RewriteRule ^/(.*)$ http://www.postech.com.mx/Postech$1 [R=301,L]
+
+
+
