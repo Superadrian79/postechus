@@ -1,0 +1,356 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066CC"/>
+      <stop offset="100%" style="stop-color:#004499"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F8FAFC"/>
+      <stop offset="100%" style="stop-color:#E2E8F0"/>
+    </linearGradient>
+    <linearGradient id="cthGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1B3A4B"/>
+      <stop offset="100%" style="stop-color:#0D1B2A"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6"/>
+      <stop offset="100%" style="stop-color:#1D4ED8"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B"/>
+      <stop offset="100%" style="stop-color:#D97706"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6"/>
+      <stop offset="100%" style="stop-color:#6D28D9"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#EF4444"/>
+      <stop offset="100%" style="stop-color:#DC2626"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#14B8A6"/>
+      <stop offset="100%" style="stop-color:#0D9488"/>
+    </linearGradient>
+    
+    <!-- Shadow filter -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="3" stdDeviation="4" flood-color="#000" flood-opacity="0.15"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#FFFFFF"/>
+  
+  <!-- Subtle grid pattern -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E5E7EB" stroke-width="0.5"/>
+  </pattern>
+  <rect width="1200" height="800" fill="url(#grid)" opacity="0.5"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="70" fill="url(#headerGrad)"/>
+  <text x="600" y="35" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Arquitectura de Detección y Respuesta</text>
+  <text x="600" y="58" font-family="Arial, sans-serif" font-size="14" fill="#93C5FD" text-anchor="middle">CTH - CYBER THREAT HUNTER | Plataforma MDR</text>
+  
+  <!-- Status Panel -->
+  <g transform="translate(1000, 90)">
+    <rect x="0" y="0" width="180" height="140" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="180" height="30" rx="8" fill="#1B3A4B"/>
+    <rect x="0" y="22" width="180" height="10" fill="#1B3A4B"/>
+    <text x="90" y="20" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#FFFFFF" text-anchor="middle">ESTADO DEL SISTEMA</text>
+    
+    <circle cx="20" cy="52" r="6" fill="#10B981"/>
+    <text x="35" y="56" font-family="Arial, sans-serif" font-size="11" fill="#374151">IOCs Activos</text>
+    <text x="165" y="56" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#10B981" text-anchor="end">209,565</text>
+    
+    <circle cx="20" cy="77" r="6" fill="#3B82F6"/>
+    <text x="35" y="81" font-family="Arial, sans-serif" font-size="11" fill="#374151">Fuentes de Datos</text>
+    <text x="165" y="81" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#3B82F6" text-anchor="end">12</text>
+    
+    <circle cx="20" cy="102" r="6" fill="#F59E0B"/>
+    <text x="35" y="106" font-family="Arial, sans-serif" font-size="11" fill="#374151">Alertas Activas</text>
+    <text x="165" y="106" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#F59E0B" text-anchor="end">47</text>
+    
+    <circle cx="20" cy="127" r="6" fill="#EF4444"/>
+    <text x="35" y="131" font-family="Arial, sans-serif" font-size="11" fill="#374151">Incidentes Críticos</text>
+    <text x="165" y="131" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#EF4444" text-anchor="end">3</text>
+  </g>
+  
+  <!-- CTH Central Platform -->
+  <g transform="translate(460, 280)">
+    <rect x="0" y="0" width="280" height="200" rx="12" fill="url(#cthGrad)" filter="url(#shadow)"/>
+    <rect x="10" y="10" width="260" height="180" rx="8" fill="none" stroke="#0066CC" stroke-width="2" stroke-dasharray="4,2" opacity="0.5"/>
+    
+    <!-- CTH Logo -->
+    <text x="140" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#0066CC" text-anchor="middle">&lt;CTH/&gt;</text>
+    <text x="140" y="68" font-family="Arial, sans-serif" font-size="11" fill="#93C5FD" text-anchor="middle">Cyber Threat Hunter</text>
+    
+    <!-- Divider -->
+    <line x1="20" y1="80" x2="260" y2="80" stroke="#334155" stroke-width="1"/>
+    
+    <!-- Motores de Detección -->
+    <text x="140" y="100" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#F59E0B" text-anchor="middle">MOTORES DE DETECCIÓN</text>
+    
+    <rect x="20" y="110" width="75" height="24" rx="4" fill="#0066CC" opacity="0.8"/>
+    <text x="57" y="126" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">Correlación</text>
+    
+    <rect x="102" y="110" width="75" height="24" rx="4" fill="#10B981" opacity="0.8"/>
+    <text x="140" y="126" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">UEBA</text>
+    
+    <rect x="184" y="110" width="75" height="24" rx="4" fill="#8B5CF6" opacity="0.8"/>
+    <text x="222" y="126" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">ML/AI</text>
+    
+    <rect x="60" y="140" width="75" height="24" rx="4" fill="#F59E0B" opacity="0.8"/>
+    <text x="97" y="156" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">Threat Intel</text>
+    
+    <rect x="142" y="140" width="75" height="24" rx="4" fill="#EF4444" opacity="0.8"/>
+    <text x="180" y="156" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">SOAR</text>
+    
+    <!-- Footer -->
+    <rect x="0" y="170" width="280" height="30" rx="0" fill="#0D1B2A"/>
+    <rect x="0" y="188" width="280" height="12" rx="0 0 12 12" fill="#0D1B2A"/>
+    <text x="140" y="188" font-family="Arial, sans-serif" font-size="9" fill="#64748B" text-anchor="middle">Teliko SOC • Monitoreo 24/7/365</text>
+  </g>
+  
+  <!-- Protocols Box -->
+  <g transform="translate(20, 550)">
+    <rect x="0" y="0" width="180" height="130" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" filter="url(#shadow)"/>
+    <rect x="0" y="0" width="180" height="28" rx="8" fill="#1B3A4B"/>
+    <rect x="0" y="20" width="180" height="10" fill="#1B3A4B"/>
+    <text x="90" y="19" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#FFFFFF" text-anchor="middle">PROTOCOLOS SOPORTADOS</text>
+    
+    <!-- Protocol badges -->
+    <rect x="15" y="40" width="45" height="22" rx="4" fill="#0066CC"/>
+    <text x="37" y="55" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">Syslog</text>
+    
+    <rect x="68" y="40" width="45" height="22" rx="4" fill="#10B981"/>
+    <text x="90" y="55" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">API</text>
+    
+    <rect x="120" y="40" width="45" height="22" rx="4" fill="#8B5CF6"/>
+    <text x="143" y="55" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">Beats</text>
+    
+    <rect x="15" y="70" width="45" height="22" rx="4" fill="#F59E0B"/>
+    <text x="37" y="85" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">Kafka</text>
+    
+    <rect x="68" y="70" width="45" height="22" rx="4" fill="#EF4444"/>
+    <text x="90" y="85" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">WMI</text>
+    
+    <rect x="120" y="70" width="45" height="22" rx="4" fill="#14B8A6"/>
+    <text x="143" y="85" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">SNMP</text>
+    
+    <rect x="42" y="100" width="45" height="22" rx="4" fill="#6366F1"/>
+    <text x="64" y="115" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">Webhook</text>
+    
+    <rect x="95" y="100" width="45" height="22" rx="4" fill="#EC4899"/>
+    <text x="117" y="115" font-family="Arial, sans-serif" font-size="9" fill="#FFFFFF" text-anchor="middle">TLS</text>
+  </g>
+  
+  <!-- Data Sources - Firewall -->
+  <g transform="translate(80, 120)">
+    <rect x="0" y="0" width="130" height="90" rx="8" fill="url(#cardGrad)" stroke="#0066CC" stroke-width="2" filter="url(#shadow)"/>
+    <!-- Firewall icon -->
+    <g transform="translate(50, 15)">
+      <rect x="0" y="0" width="30" height="25" rx="3" fill="url(#blueGrad)"/>
+      <rect x="3" y="3" width="24" height="4" rx="1" fill="#93C5FD"/>
+      <rect x="3" y="10" width="24" height="4" rx="1" fill="#93C5FD"/>
+      <rect x="3" y="17" width="24" height="4" rx="1" fill="#93C5FD"/>
+    </g>
+    <text x="65" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">FIREWALL</text>
+    <text x="65" y="68" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Palo Alto • Fortinet</text>
+    <text x="65" y="80" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Check Point • Cisco</text>
+  </g>
+  
+  <!-- Data Sources - EDR -->
+  <g transform="translate(80, 400)">
+    <rect x="0" y="0" width="130" height="90" rx="8" fill="url(#cardGrad)" stroke="#10B981" stroke-width="2" filter="url(#shadow)"/>
+    <!-- Shield icon -->
+    <g transform="translate(50, 12)">
+      <path d="M15 0 L30 8 L30 18 C30 28 15 35 15 35 C15 35 0 28 0 18 L0 8 Z" fill="url(#greenGrad)"/>
+      <path d="M12 18 L15 21 L22 12" stroke="#FFFFFF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="65" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">EDR / XDR</text>
+    <text x="65" y="68" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">CrowdStrike • Defender</text>
+    <text x="65" y="80" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">SentinelOne • Cytomic</text>
+  </g>
+  
+  <!-- Data Sources - Servers -->
+  <g transform="translate(250, 540)">
+    <rect x="0" y="0" width="130" height="90" rx="8" fill="url(#cardGrad)" stroke="#8B5CF6" stroke-width="2" filter="url(#shadow)"/>
+    <!-- Server icon -->
+    <g transform="translate(45, 10)">
+      <rect x="0" y="0" width="40" height="12" rx="2" fill="url(#purpleGrad)"/>
+      <rect x="0" y="14" width="40" height="12" rx="2" fill="url(#purpleGrad)"/>
+      <circle cx="6" cy="6" r="2" fill="#FCD34D"/>
+      <circle cx="6" cy="20" r="2" fill="#10B981"/>
+      <rect x="28" y="4" width="8" height="4" rx="1" fill="#1E1B4B"/>
+      <rect x="28" y="18" width="8" height="4" rx="1" fill="#1E1B4B"/>
+    </g>
+    <text x="65" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">SERVIDORES</text>
+    <text x="65" y="68" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Windows • Linux</text>
+    <text x="65" y="80" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Físicos • Virtuales</text>
+  </g>
+  
+  <!-- Data Sources - Cloud -->
+  <g transform="translate(990, 280)">
+    <rect x="0" y="0" width="130" height="90" rx="8" fill="url(#cardGrad)" stroke="#F59E0B" stroke-width="2" filter="url(#shadow)"/>
+    <!-- Cloud icon -->
+    <g transform="translate(40, 10)">
+      <ellipse cx="25" cy="20" rx="22" ry="14" fill="url(#orangeGrad)"/>
+      <ellipse cx="15" cy="22" rx="12" ry="10" fill="url(#orangeGrad)"/>
+      <ellipse cx="35" cy="22" rx="12" ry="10" fill="url(#orangeGrad)"/>
+    </g>
+    <text x="65" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">CLOUD</text>
+    <text x="65" y="68" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">AWS • Azure • GCP</text>
+    <text x="65" y="80" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">CloudTrail • Sentinel</text>
+  </g>
+  
+  <!-- Data Sources - Identity -->
+  <g transform="translate(990, 420)">
+    <rect x="0" y="0" width="130" height="90" rx="8" fill="url(#cardGrad)" stroke="#14B8A6" stroke-width="2" filter="url(#shadow)"/>
+    <!-- Users icon -->
+    <g transform="translate(45, 10)">
+      <circle cx="20" cy="10" r="8" fill="url(#tealGrad)"/>
+      <path d="M5 32 C5 22 35 22 35 32" fill="url(#tealGrad)"/>
+      <circle cx="8" cy="14" r="5" fill="#5EEAD4"/>
+      <circle cx="32" cy="14" r="5" fill="#5EEAD4"/>
+    </g>
+    <text x="65" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">IDENTIDAD</text>
+    <text x="65" y="68" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Active Directory</text>
+    <text x="65" y="80" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Okta • Azure AD</text>
+  </g>
+  
+  <!-- Data Sources - Network -->
+  <g transform="translate(450, 540)">
+    <rect x="0" y="0" width="130" height="90" rx="8" fill="url(#cardGrad)" stroke="#6366F1" stroke-width="2" filter="url(#shadow)"/>
+    <!-- Network icon -->
+    <g transform="translate(40, 8)">
+      <rect x="10" y="0" width="30" height="20" rx="3" fill="#6366F1"/>
+      <rect x="0" y="24" width="22" height="14" rx="2" fill="#818CF8"/>
+      <rect x="28" y="24" width="22" height="14" rx="2" fill="#818CF8"/>
+      <line x1="25" y1="20" x2="11" y2="24" stroke="#6366F1" stroke-width="2"/>
+      <line x1="25" y1="20" x2="39" y2="24" stroke="#6366F1" stroke-width="2"/>
+    </g>
+    <text x="65" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">RED</text>
+    <text x="65" y="68" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Switches • Routers</text>
+    <text x="65" y="80" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">NetFlow • DNS Logs</text>
+  </g>
+  
+  <!-- Output - Dashboards -->
+  <g transform="translate(800, 540)">
+    <rect x="0" y="0" width="130" height="90" rx="8" fill="url(#cardGrad)" stroke="#EC4899" stroke-width="2" filter="url(#shadow)"/>
+    <!-- Dashboard icon -->
+    <g transform="translate(45, 10)">
+      <rect x="0" y="0" width="40" height="28" rx="3" fill="#EC4899"/>
+      <rect x="3" y="3" width="16" height="10" rx="1" fill="#FDF2F8"/>
+      <rect x="21" y="3" width="16" height="10" rx="1" fill="#FDF2F8"/>
+      <rect x="3" y="15" width="34" height="10" rx="1" fill="#FDF2F8"/>
+    </g>
+    <text x="65" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">DASHBOARDS</text>
+    <text x="65" y="68" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Ejecutivo • Operacional</text>
+    <text x="65" y="80" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Threat Intel • Reportes</text>
+  </g>
+  
+  <!-- Threat Intelligence Sources -->
+  <g transform="translate(640, 100)">
+    <rect x="0" y="0" width="160" height="100" rx="8" fill="url(#cardGrad)" stroke="#EF4444" stroke-width="2" filter="url(#shadow)"/>
+    <!-- TI icon -->
+    <g transform="translate(60, 8)">
+      <circle cx="20" cy="18" r="16" fill="url(#redGrad)"/>
+      <text x="20" y="24" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#FFFFFF" text-anchor="middle">TI</text>
+    </g>
+    <text x="80" y="55" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#1B3A4B" text-anchor="middle">THREAT INTELLIGENCE</text>
+    <text x="80" y="70" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">OTX • CISA KEV • MISP</text>
+    <text x="80" y="82" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">Talos • AbuseIPDB • NVD</text>
+    <text x="80" y="94" font-family="Arial, sans-serif" font-size="8" fill="#64748B" text-anchor="middle">12+ Fuentes Integradas</text>
+  </g>
+  
+  <!-- Connection lines -->
+  <!-- Firewall to CTH -->
+  <path d="M210 165 Q350 165 460 330" stroke="#0066CC" stroke-width="2" fill="none" stroke-dasharray="6,3">
+    <animate attributeName="stroke-dashoffset" values="18;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="210" cy="165" r="4" fill="#0066CC"/>
+  
+  <!-- EDR to CTH -->
+  <path d="M210 445 Q350 445 460 400" stroke="#10B981" stroke-width="2" fill="none" stroke-dasharray="6,3">
+    <animate attributeName="stroke-dashoffset" values="18;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="210" cy="445" r="4" fill="#10B981"/>
+  
+  <!-- Servers to CTH -->
+  <path d="M380 585 Q450 550 530 480" stroke="#8B5CF6" stroke-width="2" fill="none" stroke-dasharray="6,3">
+    <animate attributeName="stroke-dashoffset" values="18;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="380" cy="585" r="4" fill="#8B5CF6"/>
+  
+  <!-- Network to CTH -->
+  <path d="M515 540 L580 480" stroke="#6366F1" stroke-width="2" fill="none" stroke-dasharray="6,3">
+    <animate attributeName="stroke-dashoffset" values="18;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="515" cy="540" r="4" fill="#6366F1"/>
+  
+  <!-- TI to CTH -->
+  <path d="M720 200 Q650 250 620 280" stroke="#EF4444" stroke-width="2" fill="none" stroke-dasharray="6,3">
+    <animate attributeName="stroke-dashoffset" values="18;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="720" cy="200" r="4" fill="#EF4444"/>
+  
+  <!-- Cloud to CTH -->
+  <path d="M990 325 Q900 340 740 360" stroke="#F59E0B" stroke-width="2" fill="none" stroke-dasharray="6,3">
+    <animate attributeName="stroke-dashoffset" values="18;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="990" cy="325" r="4" fill="#F59E0B"/>
+  
+  <!-- Identity to CTH -->
+  <path d="M990 465 Q850 450 740 420" stroke="#14B8A6" stroke-width="2" fill="none" stroke-dasharray="6,3">
+    <animate attributeName="stroke-dashoffset" values="18;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="990" cy="465" r="4" fill="#14B8A6"/>
+  
+  <!-- CTH to Dashboards -->
+  <path d="M670 480 Q750 530 800 585" stroke="#EC4899" stroke-width="3" fill="none">
+    <animate attributeName="stroke-dashoffset" values="0;-18" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <polygon points="800,580 795,595 810,590" fill="#EC4899"/>
+  
+  <!-- Response Actions Box -->
+  <g transform="translate(640, 640)">
+    <rect x="0" y="0" width="200" height="80" rx="8" fill="#FEF3C7" stroke="#F59E0B" stroke-width="2" filter="url(#shadow)"/>
+    <text x="100" y="22" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#92400E" text-anchor="middle">RESPUESTA AUTOMATIZADA</text>
+    <text x="100" y="40" font-family="Arial, sans-serif" font-size="9" fill="#78350F" text-anchor="middle">• Aislamiento de endpoints</text>
+    <text x="100" y="54" font-family="Arial, sans-serif" font-size="9" fill="#78350F" text-anchor="middle">• Bloqueo de IPs/Dominios</text>
+    <text x="100" y="68" font-family="Arial, sans-serif" font-size="9" fill="#78350F" text-anchor="middle">• Notificaciones • Tickets</text>
+  </g>
+  
+  <!-- Legend -->
+  <g transform="translate(1000, 620)">
+    <rect x="0" y="0" width="180" height="100" rx="8" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1" filter="url(#shadow)"/>
+    <text x="90" y="20" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#374151" text-anchor="middle">LEYENDA</text>
+    
+    <line x1="15" y1="38" x2="45" y2="38" stroke="#0066CC" stroke-width="2" stroke-dasharray="6,3"/>
+    <text x="55" y="42" font-family="Arial, sans-serif" font-size="9" fill="#374151">Ingesta de datos</text>
+    
+    <line x1="15" y1="58" x2="45" y2="58" stroke="#EC4899" stroke-width="3"/>
+    <text x="55" y="62" font-family="Arial, sans-serif" font-size="9" fill="#374151">Salida / Respuesta</text>
+    
+    <circle cx="30" cy="80" r="4" fill="#10B981"/>
+    <text x="55" y="84" font-family="Arial, sans-serif" font-size="9" fill="#374151">Fuente de datos</text>
+  </g>
+  
+  <!-- Version footer -->
+  <text x="600" y="780" font-family="Arial, sans-serif" font-size="10" fill="#9CA3AF" text-anchor="middle">CTH v0.02 | TSSC - Tecnología y Servicios de Seguridad Cibernética | www.tssc.mx</text>
+  
+</svg>
