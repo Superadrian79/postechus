@@ -35,6 +35,17 @@
 		var $solutions_methodology = 'Metodología';
 		var $solutions_speech = 'Reconocimiento de Voz';
 
+		var $technologies = 'Tecnologias';
+		var $sga_security_gateway = 'SGA SECURITY GATEWAY';
+		var $it_insight = 'ITINSIGHT';
+		var $edr = 'EDR';
+		var $mdm = 'MDM';
+		var $siem = 'SIEM';
+		var $siem_compliance = 'SIEM COMPLIANCE';
+		var $tunich_ai = 'TUNICH AI';
+		var $soar = 'SOAR';
+		var $honeypot = 'HONEYPOT & SANDBOX';
+
 		var $training = 'Capacitación';
 		var $training_incident = 'Incidentes de Seguridad';
 		var $training_techniques = 'Técnicas y herramientas para evaluación de vulnerabilidad';
@@ -44,6 +55,7 @@
 		var $training_itil = 'ITIL V 3 Manejo de Servicios';
 
 		var $partnership = 'Alianzas';
+		var $tssc = 'TSSC';
 
 		var $access = 'Accesos';
 		var $access_email = 'Email';

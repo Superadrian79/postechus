@@ -72,6 +72,18 @@ class navbar {
 									<li><a href="metodologia.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_methodology.'</div></a></li>
 									<li><a href="voz.php"><div><i class="icon-line-expand"></i>'.$this->lang->solutions_speech.'</div></a></li>
 								</ul>
+
+								<li><a href="soluciones.php"><div><i class="icon-line-monitor"></i>'.$this->lang->technologies.'</div></a><ul>
+									<li><a href="cfi.php"><div><i class="icon-th"></i>'.$this->lang->sga_security_gateway.'</div></a></li>
+									<li><a href="data.php"><div><i class="icon-th"></i>'.$this->lang->it_insight.'</div></a></li>
+									<li><a href="monitoreo.php"><div><i class="icon-th"></i>'.$this->lang->edr.'</div></a></li>
+									<li><a href="nsm.php"><div><i class="icon-th"></i>'.$this->lang->mdm.'</div></a></li>
+									<li><a href="public.php"><div><i class="icon-th"></i>'.$this->lang->siem.'</div></a></li>
+									<li><a href="perimetral.php"><div><i class="icon-th"></i>'.$this->lang->siem_compliance.'</div></a></li>
+									<li><a href="IDS.php"><div><i class="icon-th"></i>'.$this->lang->tunich_ai.'</div></a></li>
+									<li><a href="analysis.php"><div><i class="icon-th"></i>'.$this->lang->soar.'</div></a></li>
+									<li><a href="reconstruction.php"><div><i class="icon-th"></i>'.$this->lang->honeypot.'</div></a></li>
+								</ul>
                             
 							<li><a href="capacitacion.php"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
 									<li><a href="incident.php"><div><i class="icon-stack"></i>'.$this->lang->training_incident.'</div></a></li>
@@ -83,15 +95,10 @@ class navbar {
 								</ul>
 							</li>
                             
-							<li><a href="alianzas.php"><div><i class="icon-line-check"></i>'.$this->lang->partnership.'</div></a>
-
-							<li><a href="mdr.php" target="_blank"><div><i class="icon-line-monitor"></i>CTH MDR Platform</div></a>
-
-							<li><a href="https://tssc.mx/" target="_blank"><div><i class="icon-line-monitor"></i>CSOC 360</div></a>
-                            
-
-                            
-							
+							<li><a href="alianzas.php"><div><i class="icon-line-check"></i>'.$this->lang->partnership.'</div></a><ul>
+									<li><a href="https://tssc.mx/"><div><i class="icon-line-monitor"></i>'.$this->lang->tssc.'</div></a></li>
+								</ul>
+							</li>
 						</ul>
 
 						<!-- Top Cart
