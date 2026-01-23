@@ -341,7 +341,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		IT Insight se instala on-premise en tu infraestructura. Tus datos nunca salen de tu red. Además, soporta SNMPv3 con encriptación y autenticación basada en roles (RBAC).</p>
 	</div>
 
-	<br><div class="center"><img src="./Tecnología y Servicios de Seguridad Cibernética S.A de C.V _ CSOC 360_files/diagrama_it_insight_v2.svg"></div>
+	<br><div class="center"><img src="../images/it_insight/diagrama_it_insight_v2.svg"></div>
 
 
 
