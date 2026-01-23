@@ -107,7 +107,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 	<h3 class="center">Monitoreo Inteligente. Respuesta Inmediata. Control Total.</h3>
 
 	<div style="background-color: #c1c1c1; padding: 15px; text-align: justify;">
-		<p>
+		<p style="margin: 0;">
 			IT Insight es la plataforma de monitoreo que transforma la gestión de tu infraestructura de TI:
 			detecta problemas antes de que impacten tu negocio, automatiza el descubrimiento de dispositivos
 			y te brinda control total con dashboards intuitivos.
@@ -341,7 +341,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		IT Insight se instala on-premise en tu infraestructura. Tus datos nunca salen de tu red. Además, soporta SNMPv3 con encriptación y autenticación basada en roles (RBAC).</p>
 	</div>
 
-	<br><div class="center"><img src="./Tecnología y Servicios de Seguridad Cibernética S.A de C.V _ CSOC 360_files/diagrama_it_insight_v2.svg"></div>
+	<br><div class="center"><img src="../images/it_insight/diagrama_it_insight_v2.svg"></div>
 
 
 

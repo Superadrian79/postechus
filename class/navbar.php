@@ -58,7 +58,7 @@ class navbar {
 									<li><a href="cfi.php"><div><i class="icon-th"></i>'.$this->lang->solutions_cfi.'</div></a></li>
 									<li><a href="data.php"><div><i class="icon-envelope-alt"></i>'.$this->lang->solutions_data.'</div></a></li>
 									<li><a href="monitoreo.php"><div><i class="icon-th"></i>'.$this->lang->solutions_monitoring.'</div></a></li>
-									<li><a href="nsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_nsm.'</div></a></li>
+									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href="public.php"><div><i class="icon-line-columns"></i>'.$this->lang->social_media_monitoring.'</div></a></li>
 									<li><a href="perimetral.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_perimetral.'</div></a></li>
 									<li><a href="IDS.php"><div><i class="icon-line-expand"></i>'.$this->lang->solutions_ids.'</div></a></li>
