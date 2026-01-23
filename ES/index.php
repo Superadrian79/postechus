@@ -95,7 +95,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container clearfix">
         <div class="slider-caption slider-caption-center">
             <h2 data-caption-animate="fadeInUp"><img class="img-responsive" src="../images/postech-log1.png" alt="Postech"></h2>
-            <p data-caption-animate="fadeInUp" data-caption-delay="200">Postech IT Solution Provider S.A de C.V. © 2019 </p>
+            <p data-caption-animate="fadeInUp" data-caption-delay="200">Postech IT Solution Provider S.A de C.V. © 2025 </p>
         </div>
     </div>
                         
