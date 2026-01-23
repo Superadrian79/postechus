@@ -50,7 +50,7 @@
 		var $access_support = 'Soporte en Línea';
 		var $access_pm = 'Oficina Virtual';
 
-		var $copyright = 'Postech IT Solution Provider S.A de C.V. © 2019 Todos los Derechos Reservados';
+		var $copyright = 'Postech IT Solution Provider S.A de C.V. © 2025 Todos los Derechos Reservados';
 		var $address = 'Montaña 80, Col. Los Pastores, Estado de México, C.P. 53340';
 		var $mail = 'ventas@postech.com.mx';
 		var $phone = '(+52) 4125 0121';

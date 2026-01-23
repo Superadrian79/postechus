@@ -3,9 +3,10 @@
 
 class footer {
 	var $lang;
-	function footer ($language, $leng) {
-		$this->lang=$leng;
-echo '
+	public function __construct($language, $leng) {
+        $this->lang = $leng;
+
+        echo '
 
 
 

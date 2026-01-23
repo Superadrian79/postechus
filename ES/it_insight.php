@@ -107,7 +107,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 	<h3 class="center">Monitoreo Inteligente. Respuesta Inmediata. Control Total.</h3>
 
 	<div style="background-color: #c1c1c1; padding: 15px; text-align: justify;">
-		<p>
+		<p style="margin: 0;">
 			IT Insight es la plataforma de monitoreo que transforma la gestión de tu infraestructura de TI:
 			detecta problemas antes de que impacten tu negocio, automatiza el descubrimiento de dispositivos
 			y te brinda control total con dashboards intuitivos.
