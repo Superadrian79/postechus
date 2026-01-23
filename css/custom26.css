@@ -56,3 +56,19 @@
 .features-table td{
     padding: 10px;
 }
+
+.prod, .sgamid {
+    border: 1px dashed #C6C6C6;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.prod {
+    max-width: 303px;
+}
+.sga {
+    padding: 1rem;
+    box-sizing: border-box;
+}

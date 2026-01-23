@@ -368,7 +368,6 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 				</div>
 			</div>
 
-		<div class="clear"></div>
 		</section><!-- #content end -->
 
 
