@@ -1,283 +1,258 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="en-US">
+<html dir="ltr" lang="es-MX" xml:lang="es-MX">
+<head>
 
-<?php
-$path_array = pathinfo($_SERVER['PHP_SELF']);
-$path = explode("/",$path_array['dirname']);
-$path =$path[count($path) - 1];
-include ('../class/head.php');
-include ("../language/$path.php");
-$lang=new language();
-$head=new head($path, $lang, $path_array['filename']);
-?>
-<body class="stretched">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBGBGN5');</script>
+<!-- End Google Tag Manager -->
+
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="robots" content="all" /><meta name="googlebot" content="index, follow" />
+  	<meta name="description" content="Postech IT Solution Provider, Soluciones en monitoreo y seguridad de la información.">
+  	<meta name="keywords" content="consultoria, servicios, TI, monitoreo, big data, servicios, analisis, seguridad, informatica, seguridad informatica, perimetral, firewall, ids, ips, telecomunicaciones, TICS, BSM, BCM, DRP, BCP, ITIL, Cobit, ISO 27001, ISO 27002, ISO 27035, cert, csirt, noc , soc, seguridad informatica, capacitacion, cursos, TT, TICs, analisis de datos, mineria de datos, dataware, hosting, housing, desarrollo, politicas, normatividad, enisa, first, alapsi, 20/20, trafico, red, reconstruccion, desencripcion, ciber defensa, ciber seguridad, firewall">
+  	<meta name="author" content="Postech IT Solutions Provider">	
+	<meta name="viewport" content="width=device-width, initial-scale=1" />	 	
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+
+
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="../favicon-152.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../favicon-144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="../favicon-120.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../favicon-114.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" 	 href="../favicon-72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="57x57"	 href="../favicon-57.png">
+
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
+
+	<!-- Stylesheets
+	============================================= -->
+	<link href="http://fonts.googleapis.com/css?family=Lato:300,400,400italic,600,700|Raleway:300,400,500,600,700|Crete+Round:400italic" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="../css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="../css/style.css" type="text/css" />
+	<link rel="stylesheet" href="../css/swiper.css" type="text/css" />
+	<link rel="stylesheet" href="../css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="../css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="../css/animate.css" type="text/css" />
+	<link rel="stylesheet" href="../css/magnific-popup.css" type="text/css" />
+
+	<link rel="stylesheet" href="../css/responsive.css" type="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!--[if lt IE 9]>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+	<![endif]-->
+
+	<!-- Document Title
+	============================================= -->
+	<title>Postech IT Solution Provider</title>
+
+</head>
+
+<body class="stretched no-transition">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBGBGN5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
 
 	<!-- Document Wrapper -->
-	<div id="wrapper">
+	<div id="wrapper" class="clearfix">
 
-		<!-- Header -->
-		<header id="header" class="full-header dark">
-			<div id="header-wrap">
-				<div class="container">
-					<div class="header-row">
 
-						<!-- Logo
-						============================================= -->
-						<div id="logo">
-							<a href="index.html">
-								<img class="logo-default" srcset="../images/logo.png, i../mages/logo@2x.png 2x" src="../images/logo@2x.png" alt="Postech Logo">
-							</a>
-						</div><!-- #logo end -->
+	<?php
+	$path_array = pathinfo($_SERVER['PHP_SELF']);
+	$path = explode("/",$path_array['dirname']);
+	$path =$path[count($path) - 1];
+	include ('../class/navbar.php');
+	include ("../language/$path.php");
+	$lang=new language();
+	$nav=new navbar($path, $lang, $path_array['filename']);
+	?>
+		<!-- Page Title
+		============================================= -->
+				<div style="background-color:#283950"><br>
+                
+                </div>
+                
+        <!-- #page-title end -->
+                
+		<section id="slider" class="slider-parallax swiper_wrapper clearfix">
+		<div class="slider-parallax-inner">
+		<div class="swiper-container swiper-parent">
+		<div class="swiper-wrapper">
+        
+        <!-- Contenedor -->
 
-						<div class="header-misc">
 
-							<!-- Top Search
-							============================================= -->
-							<div id="top-search" class="header-misc-icon">
-							<div style=" margin-right:10px;"><a href="../EN/index.php"><img style="max-width:200%;" src="../images/EN.jpg" width="22px" height="22px" alt="EN"></a></div>
-							</div><!-- #top-search end -->
 
-							<!-- Top Cart
-							============================================= -->
-							<div id="top-cart" class="header-misc-icon d-none d-sm-block">
-								<a href="#" id="top-cart-trigger"><i class="fa-solid fa-user"></i></a>
-								<div class="top-cart-content">
-									<div class="top-cart-title">
-										<h4>Shopping Cart</h4>
-									</div>
-									<div class="top-cart-items">
-										<div class="top-cart-item">
-											<div class="top-cart-item-image">
-												<a href="#"><img src="images/shop/small/1.jpg" alt="Blue Round-Neck Tshirt"></a>
-											</div>
-											<div class="top-cart-item-desc">
-												<div class="top-cart-item-desc-title">
-													<a href="#">Blue Round-Neck Tshirt with a Button</a>
-													<span class="top-cart-item-price d-block">$19.99</span>
-												</div>
-												<div class="top-cart-item-quantity">x 2</div>
-											</div>
-										</div>
-										<div class="top-cart-item">
-											<div class="top-cart-item-image">
-												<a href="#"><img src="images/shop/small/6.jpg" alt="Light Blue Denim Dress"></a>
-											</div>
-											<div class="top-cart-item-desc">
-												<div class="top-cart-item-desc-title">
-													<a href="#">Light Blue Denim Dress</a>
-													<span class="top-cart-item-price d-block">$24.99</span>
-												</div>
-												<div class="top-cart-item-quantity">x 3</div>
-											</div>
-										</div>
-									</div>
-									<div class="top-cart-action">
-										<span class="top-checkout-price">$114.95</span>
-										<a href="#" class="button button-3d button-small m-0">View Cart</a>
-									</div>
-								</div>
-							</div><!-- #top-cart end -->
+<!-- Diapositiva 1 -->
 
-						</div>
+<div class="swiper-slide dark">
+            <div class="container clearfix">
+            <div class="slider-caption slider-caption-center">
+                        <h2 data-caption-animate="fadeInUp"><img class="img-responsive" src="../images/postech-log1.png" alt="Postech"></h2>
+                        <p data-caption-animate="fadeInUp" data-caption-delay="200">Postech IT Solution Provider S.A de C.V. © 2019 </p>
+            </div></div>
+                                
+            <div class="video-wrap">
+            <video poster="../images/videos/tech_bg.jpg" preload="auto" loop autoplay muted>
+            <source src='../images/videos/tech_bg.mp4' type='video/mp4' /><source src='../images/videos/tech_bg.webm' type='video/webm' />
+            </video>
+            <div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
+            </div>
+</div>
 
-						<div class="primary-menu-trigger">
-							<button class="cnvs-hamburger" type="button" title="Open Mobile Menu">
-								<span class="cnvs-hamburger-box"><span class="cnvs-hamburger-inner"></span></span>
-							</button>
-						</div>
 
-						<!-- Primary Navigation
-						============================================= -->
-						<nav class="primary-menu">
+<!-- Diapositiva 2 -->
 
-							<ul class="menu-container">
-								<li class="menu-item">
-									<a class="menu-link" href="index.html"><div>Home</div></a>
-									<ul class="sub-menu-container">
-										<li class="menu-item"><a class="menu-link" href="niche-demos.html"><div>Niche Demos</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="onepage-demos.html"><div>One-Page Demos</div></a></li>
-									</ul>
-								</li>
+            <div class="swiper-slide dark" style="background-image: url('../images/1.jpg');">
+                <div class="container clearfix">
+                    <div class="slider-caption slider-caption-center">
+            <h2 data-caption-animate="fadeInUp" class="text2">Seguridad IT</h2>
+            <p data-caption-animate="fadeInUp" data-caption-delay="200">Comprometidos con la generación, adaptación y difusión del conocimiento de TICs y seguridad de TI dentro de las organizaciones. Nuestro objetivo es fomentar el aprendizaje a través de nuestros programas de formación empresarial.</p>
+                    </div>
+                </div>
+            </div>
+				
+<!-- Diapositiva 3 -->  
 
-								<li class="menu-item">
-									<a class="menu-link" href="#"><div>Features</div></a>
-									<ul class="sub-menu-container">
-										<li class="menu-item">
-											<a class="menu-link" href="#"><div><i class="bi-menu-button-wide-fill"></i>Headers</div></a>
-											<ul class="sub-menu-container">
-												<li class="menu-item"><a class="menu-link" href="#"><div>Custom Layouts</div></a></li>
-												<li class="menu-item"><a class="menu-link" href="header-light.html"><div>Light Version</div></a></li>
-											</ul>
-										</li>
-										<li class="menu-item mega-menu mega-menu-small"><a class="menu-link" href="#"><div><i class="bi-border-style"></i>Menu Styles</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="mega-menu.html"><div><i class="bi-layout-split"></i>Mega Menu</div></a></li>
-										<li class="menu-item-divider"></li>
-										<li class="menu-item"><a class="menu-link" href="forms.html"><div><i class="bi-postcard"></i>Forms</div></a></li>
-										<li class="menu-item"><a class="menu-link" href="contact.html"><div><i class="bi-envelope-at"></i>Contact Pages</div></a></li>
-									</ul>
-								</li>
+            <div class="swiper-slide dark" style="background-image: url('../images/2.jpg');">
+            <div class="container clearfix">
+            <div class="slider-caption slider-caption-center">
+            <h2 data-caption-animate="fadeInUp"  class="text2">Soluciones</h2>
+            <p data-caption-animate="fadeInUp" data-caption-delay="200">Utilizando herramientas, tecnología y experiencia líderes apoyamos a las organizaciones a ampliar sus capacidades contra ataques coordinados, el crecimiento de la normativa y la creciente presión para adoptar el nuevo estilo de TI.</p>
+            </div></div></div>
+        
 
-							</ul>
+<!-- Diapositiva 4 -->
+              
+            <div class="swiper-slide dark" style="background-image: url('../images/3.jpg'); background-position: center top;">
+            <div class="container clearfix">
+            <div class="slider-caption slider-caption-center">
+            <h2 data-caption-animate="fadeInUp"  class="text2">Capacitación</h2>
+            <p data-caption-animate="fadeInUp" data-caption-delay="200">Comprometidos con la generación, adaptación y difusión del conocimiento de TICs y seguridad de TI dentro de las organizaciones. Nuestro objetivo es fomentar el aprendizaje a través de nuestros programas de formación empresarial.</p>
+            </div></div></div>
 
-						</nav><!-- #primary-menu end -->
+<!-- Diapositiva 5 -->
+              
+            <div class="swiper-slide dark" style="background-image: url('../images/4.jpg'); background-position: center top;">
+            <div class="container clearfix">
+            <div class="slider-caption slider-caption-center">
+            <h2 data-caption-animate="fadeInUp"  class="text2"><a href="http://postech.tv" target="_blank"><img src="../images/postechtv.png""></a></h2>
+            <p data-caption-animate="fadeInUp" data-caption-delay="200">SOLUCIONES DE CONSULTA, REPRODUCCIÓN, ALMACENAMIENTO E INGESTA DE ARCHIVOS DE VIDEO</p>
+            </div></div></div>
 
-						<form class="top-search-form" action="search.html" method="get">
-							<input type="text" name="q" class="form-control" value="" placeholder="Type &amp; Hit Enter.." autocomplete="off">
-						</form>
+<!-- Diapositiva 6 -->
+              
+            <div class="swiper-slide dark" style="background-image: url('../images/5.jpg'); background-position: center top;">
+            <div class="container clearfix">
+            <div class="slider-caption slider-caption-center">
+            <h2 data-caption-animate="fadeInUp"  class="text2"><a href="http://csoc360.com" target="_blank"><img class="notopmargin flip animated" src="../images/csoc360.png""></a></h2>
+            <p data-caption-animate="fadeInUp" data-caption-delay="200">CSOC360 implementa soluciones integrales de seguridad y la construcción de centros capacitados para solucionar factores de vulnerabilidad empresarial</p>
+            </div></div></div>
+                        
+		</div>
+		<div id="slider-arrow-left"><i class="icon-angle-left"></i></div>
+		<div id="slider-arrow-right"><i class="icon-angle-right"></i></div>
+        <span>/</span><div id="slide-number-total"></div></div>
+		</div>
 
-					</div>
-				</div>
-			</div>
-			<div class="header-wrap-clone"></div>
-		</header><!-- #header end -->
+		</div></section>
 
-		<section id="slider" class="slider-element slider-parallax swiper_wrapper vh-75">
-			<div class="slider-inner">
 
-				<div class="swiper swiper-parent">
-					<div class="swiper-wrapper">
-
-					<div class="video-wrap no-placeholder">
-						<video poster="../images/videos/tech_bg.jpg" preload="auto" loop autoplay muted playsinline>
-							<source src='../images/videos/tech_bg.mp4' type='video/mp4'>
-							<source src='../images/videos/tech_bg.webm' type='video/webm'>
-						</video>
-						<div class="video-overlay" style="background-color: rgba(0,0,0,0.55);"></div>
-					</div>
-
-						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-caption-animate="fadeInUp"><img class="img-responsive" src="../images/postech-log1.png" alt="Postech"></h2>
-                        		<p data-caption-animate="fadeInUp" data-caption-delay="200">Postech IT Solution Provider S.A de C.V. © 2019 </p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('../images/slider/swiper/1.jpg');"></div>
-						</div>
-
-						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-animate="fadeInUp">Seguridad IT</h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Comprometidos con la generación, adaptación y difusión del conocimiento de TICs y seguridad de TI dentro de las organizaciones. Nuestro objetivo es fomentar el aprendizaje a través de nuestros programas de formación empresarial.</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('../images/1.jpg');"></div>
-						</div>
-
-						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-animate="fadeInUp">Soluciones</h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Utilizando herramientas, tecnología y experiencia líderes apoyamos a las organizaciones a ampliar sus capacidades contra ataques coordinados, el crecimiento de la normativa y la creciente presión para adoptar el nuevo estilo de TI.</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('../images/2.jpg');"></div>
-						</div>
-
-						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-animate="fadeInUp">Capacitación</h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">Comprometidos con la generación, adaptación y difusión del conocimiento de TICs y seguridad de TI dentro de las organizaciones. Nuestro objetivo es fomentar el aprendizaje a través de nuestros programas de formación empresarial.</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('../images/3.jpg');"></div>
-						</div>
-
-						<!--
-						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-animate="fadeInUp"><a href="http://postech.tv" target="_blank"><img src="../images/postechtv.png"></a></h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">SOLUCIONES DE CONSULTA, REPRODUCCIÓN, ALMACENAMIENTO E INGESTA DE ARCHIVOS DE VIDEO</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('../images/4.jpg');"></div>
-						</div>
-
-						<div class="swiper-slide dark">
-							<div class="container">
-								<div class="slider-caption slider-caption-center">
-									<h2 data-animate="fadeInUp"><a href="http://csoc360.com" target="_blank"><img class="notopmargin flip animated" src="../images/csoc360.png"></a></h2>
-									<p class="d-none d-sm-block" data-animate="fadeInUp" data-delay="200">CSOC360 implementa soluciones integrales de seguridad y la construcción de centros capacitados para solucionar factores de vulnerabilidad empresarial</p>
-								</div>
-							</div>
-							<div class="swiper-slide-bg" style="background-image: url('../images/5.jpg');"></div>
-						</div> -->
-
-					</div>
-					<div class="slider-arrow-left"><i class="uil uil-angle-left-b"></i></div>
-					<div class="slider-arrow-right"><i class="uil uil-angle-right-b"></i></div>/div>
-				</div>
-
-			</div>
-		</section>
-
-		<!-- Content -->
+		<!-- Content
+		============================================= -->
 		<section id="content">
+
 			<div class="content-wrap">
 
+				<div class="container clearfix">
 
-			
+				<div class="col_full" style="text-align:justify">
+				<h2 class="blue">Soluciones</h2>
+ 
+<p>Nuestras soluciones están enfocadas a un único objetivo. Hacer mas eficiente y productivo su negocio y así incrementar su rentabilidad y capacidad en la toma de decisiones, sin necesidad de realizar grandes inversiones. Prueba de ello es que somos una empresa que apoya 100% el uso de aplicaciones de codigo abierto con demostrada eficiencia, seguridad y estabilidad.</p>
+
+<p>Cada empresa presenta problemas o necesidades influidas por el entorno en el que trabaja. <span class="blue"><strong>POSTECH</strong></span> proporciona soluciones enfocadas en las necesidades especificas tras el análisis de cada situación, implementando mejoras que optimizan el rendimiento global del cliente.</p>
+ </div>
+                  
+      <p><div><center><img class="img-responsive" src="../images/Soluciones.jpg" alt="."></center></div> </p>          
 
 
+<div class="col_full" style="text-align:justify">
+<p>Estamos en continua busqueda de nuevas tecnologías de punta y brindamos a nuestros clientes propuestas innnovadoras en la Arquitectura de Servicios de Información, asi como en las diferentes soluciones que desarrollamos in-house, con el fin de crear un entorno eficiente y seguro para su organización.</p>
+<p>Le invitamos a explorar nuestro catalogo de soluciones y permitanos ponernos a sus órdenes atraves de nuestro departamento de ventas al correo <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a></span> ó usando nuestra <a href="contacto.php">forma de contacto en línea</a></p>
+</div>
 
 
+<div class="clear"></div>
+
+
+	<div class="col_one_third nobottommargin">
+						<div class="feature-box media-box">
+							<div class="fbox-media"> <a href="data.php"><img src="../images/imga01.jpg" alt="Data Mining"></a>
+							</div>
+							<div class="fbox-desc">
+								<h3 class="blue">ADB CONNECT ®</h3>
+								<p style="text-align:justify">Extraer, transformar y cargar (ETL) es un proceso que implica la extracción de datos de múltiples fuentes en diferentes formatos, la ejecución de la transformación que se ajuste a las necesidades del negocio y en última instancia, la carga en un sistema destino.</p>
+                                <p style="text-align:right"><a href="../ES/data.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col_one_third nobottommargin">
+						<div class="feature-box media-box">
+							<div class="fbox-media"> <a href="monitoreo.php"><img src="../images/imga02.jpg" alt="Monitoreo"></a>
+							</div>
+							<div class="fbox-desc">
+								<h3>IT – INSIGHT ®<span class="subtitle">Solución integral de monitoreo de infraestructura, equipos y servicios.</span></h3>
+								<p style="text-align:justify">Su inversión en infraestructura representa un activo vital de la empresa y de la continuidad del negocio, el mantener esas aplicaciones y servicios en línea y disponibles representa cada día más ...</p>
+                                <p style="text-align:right"><a href="monitoreo.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col_one_third nobottommargin col_last">
+						<div class="feature-box media-box">
+							<div class="fbox-media"> <a href="perimetral.php"><img src="../images/imga03.jpg" alt="Seguridad Perimetral"></a>
+							</div>
+							<div class="fbox-desc">
+								<h3>SEGURIDAD PERIMETRAL</h3>
+								<p style="text-align:justify">La seguridad lógica interna y externa son aspectos fundamentales a tener en cuenta La seguridad informática de un empresa es primordial. Los ataques por red y las pérdidas de información ocasionan un gran trastorno y afectan al correcto funcionamiento y progreso de la empresa.</p>
+                                <p style="text-align:right"><a href="perimetral.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+							</div>
+						</div>
+					</div>
+
+			  </div>
 			</div>
 		</section><!-- #content end -->
 
-		<!-- Footer -->
-		<footer id="footer" class="dark">
 
-			<!-- Copyrights -->
-			<div id="copyrights">
-				<div class="container">
 
-					<div class="row col-mb-30">
+<?php
+include ('../class/footer.php');
+$foot=new footer($path, $lang);
+?>
 
-						<div class="col-md-6 text-center text-md-start">
-							Copyrights &copy; 2023 All Rights Reserved by Canvas Inc.<br>
-							<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>
-						</div>
 
-						<div class="col-md-6 text-center text-md-end">
-							<div class="d-flex justify-content-center justify-content-md-end mb-2">
-								<a href="#" class="social-icon border-transparent si-small h-bg-facebook">
-									<i class="fa-brands fa-facebook-f"></i>
-									<i class="fa-brands fa-facebook-f"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small h-bg-x-twitter">
-									<i class="fa-brands fa-x-twitter"></i>
-									<i class="fa-brands fa-x-twitter"></i>
-								</a>
-
-								<a href="#" class="social-icon border-transparent si-small me-0 h-bg-linkedin">
-									<i class="fa-brands fa-linkedin"></i>
-									<i class="fa-brands fa-linkedin"></i>
-								</a>
-							</div>
-
-							<i class="bi-envelope"></i> info@canvas.com <span class="middot">&middot;</span> <i class="fa-solid fa-phone"></i> +1-11-6541-6369 <span class="middot">&middot;</span> <i class="bi-skype"></i> CanvasOnSkype
-						</div>
-
-					</div>
-
-				</div>
-			</div><!-- #copyrights end -->
-		</footer><!-- #footer end -->
 
 	</div><!-- #wrapper end -->
 
-	<!-- Go To Top
-	============================================= -->
-	<div id="gotoTop" class="uil uil-angle-up"></div>
 
-	<!-- JavaScripts
+
+	<!-- External JavaScripts
 	============================================= -->
-	<script src="../js/plugins.min.js"></script>
-	<script src="../js/functions.bundle.js"></script>
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript" src="../js/plugins.js"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+	<script type="text/javascript" src="../js/functions.js"></script>
 
 </body>
 </html>
