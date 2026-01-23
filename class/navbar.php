@@ -5,10 +5,11 @@
 
 class navbar {
 	public $languages=array('ES','EN');
-	var $lang;
-	function navbar ($language, $leng, $path) {
-		$this->lang=$leng;
-echo '
+	public $lang;
+	public function __construct($language, $leng, $path) {
+        $this->lang = $leng;
+
+        echo '
 
 
 
