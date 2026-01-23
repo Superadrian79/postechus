@@ -32,6 +32,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="stylesheet" href="../css/magnific-popup.css" type="text/css" />
 
 	<link rel="stylesheet" href="../css/responsive.css" type="text/css" />
+    <link rel="stylesheet" href="../css/custom26.css" type="text/css"/>
+
 
 	<!--[if lt IE 9]>
 		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>

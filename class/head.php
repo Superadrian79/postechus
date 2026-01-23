@@ -34,6 +34,8 @@ class head {
     <link rel="stylesheet" href="../css/font-icons.css">
     <link rel="stylesheet" href="../css/swiper.css">
     <link rel="stylesheet" href="../css/custom.css">
+    <link rel="stylesheet" href="../css/custom26.css">
+
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
