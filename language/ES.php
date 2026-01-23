@@ -21,7 +21,7 @@
 		var $solutions_cfi = 'CFI';
 		var $solutions_data = 'Data Mining';
 		var $solutions_monitoring = 'Monitoreo';
-		var $solutions_nsm = 'Monitoreo de Sistemas y Redes - NSM';
+		var $solutions_ncsm = 'Monitoreo de Sistemas y Redes - NSM';
 		var $social_media_monitoring  = 'Monitoreo de Redes Sociales';
 		var $solutions_perimetral = 'Seguridad Perimetral';
 		var $solutions_ids = 'IDS / IPS';
