@@ -5,13 +5,11 @@
 	{
 		var $home = 'Inicio';
 		var $home_about = 'Nosotros';
-		var $home_sucess = 'Historias de Exito';
 		var $home_contact= 'Contacto';
 
-		var $security = 'Seguridad It';
+		var $security = 'Ciberseguridad';
 		var $security_noc = 'NOC';
 		var $security_soc = 'CSOC';
-		var $security_csirt = 'CSIRT';
 		var $security_assurance = 'Assurance & Hardening';
 		var $security_pentest = 'Pentest';
 		var $security_vulnerability = 'Vulnerability Assesment';
@@ -19,21 +17,17 @@
 
 		var $solutions = 'Soluciones';
 		var $solutions_cfi = 'CFI';
-		var $solutions_data = 'Data Mining';
-		var $solutions_monitoring = 'Monitoreo';
+		var $solutions_itinsight = 'Monitoreo';
 		var $solutions_ncsm = 'Monitoreo de Sistemas y Redes - NSM';
-		var $social_media_monitoring  = 'Monitoreo de Redes Sociales';
-		var $solutions_perimetral = 'Seguridad Perimetral';
-		var $solutions_ids = 'IDS / IPS';
-		var $solutions_analysis = 'Análisis de Tráfico';
+		var $social_osint  = 'OSINT';
 		var $solutions_reconstruction = 'Reconstrucción de Tráfico';
-		var $solutions_desencription = 'Descifrado de Tráfico';
 		var $solutions_big = 'Análisis de Big Data';
-		var $solutions_incident = 'Gestión de Incidentes';
-		var $solutions_hosting = 'Hosting & Servidores Dedicados';
 		var $solutions_domains = 'Disponibilidad de Dominios';
 		var $solutions_methodology = 'Metodología';
-		var $solutions_speech = 'Reconocimiento de Voz';
+		var $solutions_cthmdr = 'CTH MDR';
+		var $solutions_cognitus = 'Cognitus';
+		var $solutions_technology = 'Tecnologia de Amenazas';
+		var $solutions_hub = 'Threat Intel HUB';
 
 		var $technologies = 'Tecnologias';
 		var $sga_security_gateway = 'SGA SECURITY GATEWAY';
@@ -45,8 +39,10 @@
 		var $tunich_ai = 'TUNICH AI';
 		var $soar = 'SOAR';
 		var $honeypot = 'HONEYPOT & SANDBOX';
+		var $ncsm = 'NCSM';
+		var $cth = 'CTH';
 
-		var $training = 'Capacitación';
+		var $training = 'Capacitación & KB';
 		var $training_incident = 'Incidentes de Seguridad';
 		var $training_techniques = 'Técnicas y herramientas para evaluación de vulnerabilidad';
 		var $training_pci = 'Fundamentos PCI DSS';

@@ -5,13 +5,11 @@
 	{
 		var $home = 'Home';
 		var $home_about = 'About Us';
-		var $home_sucess = 'Success Stories';
 		var $home_contact= 'Contact';
 
-		var $security = 'Security It';
+		var $security = 'Cybersecurity';
 		var $security_noc = 'NOC';
 		var $security_soc = 'CSOC';
-		var $security_csirt = 'CSIRT';
 		var $security_assurance = 'Assurance & Hardening';
 		var $security_pentest = 'Pentest';
 		var $security_vulnerability = 'Vulnerability Assesment';
@@ -19,21 +17,17 @@
 
 		var $solutions = 'Solutions';
 		var $solutions_cfi = 'CFI';
-		var $solutions_data = 'Data Mining';
-		var $solutions_monitoring = 'Monitoring';
+		var $solutions_itinsight = 'It Insight';
 		var $solutions_ncsm = 'NCSM';
-		var $social_media_monitoring  = 'Social Media Monitoring';
-		var $solutions_perimetral = 'Perimetral Security';
-		var $solutions_ids = 'IDS / IPS';
-		var $solutions_analysis = 'Traffic Analysis';
+		var $social_osint  = 'OSINT';
 		var $solutions_reconstruction = 'Traffic Reconstruction';
-		var $solutions_desencription = 'Traffic Desencription';
 		var $solutions_big = 'Big Data Analytics';
-		var $solutions_incident = 'Incident Management';
-		var $solutions_hosting = 'Hosting & Dedicated Servers';
 		var $solutions_domains = 'Domain Check';
 		var $solutions_methodology = 'Methodology';
-		var $solutions_speech = 'Speech Recognition';
+		var $solutions_cthmdr = 'CTH MDR';
+		var $solutions_cognitus = 'Cognitus';
+		var $solutions_technology = 'Threat Tecnology';
+		var $solutions_hub = 'Threat Intel HUB';
 
 		var $technologies = 'Technologies';
 		var $sga_security_gateway = 'SGA SECURITY GATEWAY';
@@ -45,8 +39,10 @@
 		var $tunich_ai = 'TUNICH AI';
 		var $soar = 'SOAR';
 		var $honeypot = 'HONEYPOT & SANDBOX';
+		var $ncsm = 'NCSM';
+		var $cth = 'CTH';
 
-		var $training = 'Training';
+		var $training = 'Training & KB';
 		var $training_incident = 'Incident Handling';
 		var $training_techniques = 'Techniques and Tools for Vulnerability Assessment';
 		var $training_pci = 'PCI DSS Fundaments';
