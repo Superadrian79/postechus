@@ -84,9 +84,9 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 					<div class="col_full just">
 					
 
-<p><b class="blue">Términos y Condiciones de Uso del Sitio Web www.postech.com.mx</b></p>
+<p><b class="blue">Términos y Condiciones de Uso del Sitio Web www.postech.us</b></p>
  
-<p>Los siguientes términos y condiciones (los "Términos y Condiciones") rigen el uso que usted le dé a este sitio web y a cualquiera de los contenidos disponibles por o a través de este sitio web, incluyendo cualquier contenido derivado del mismo (el "http://postech.com.mx/"). PostecH Cyber Security Solutions ("PostecH Cyber Security Solutions." o "nosotros") ha puesto a su disposición el Sitio Web. Podemos cambiar los Términos y Condiciones de vez en cuando, en cualquier momento sin ninguna notificación, sólo publicando los cambios en el Sitio Web. AL USAR EL SITIO WEB, USTED ACEPTA Y ESTÉ DE ACUERDO CON ESTOS TÉRMINOS Y CONDICIONES EN LO QUE SE REFIERE A SU USO DEL SITIO WEB. Si usted no está de acuerdo con estos Términos y Condiciones, no puede tener acceso al mismo ni usar el Sitio Web de ninguna otra manera.</p>
+<p>Los siguientes términos y condiciones (los "Términos y Condiciones") rigen el uso que usted le dé a este sitio web y a cualquiera de los contenidos disponibles por o a través de este sitio web, incluyendo cualquier contenido derivado del mismo (el "http://postech.us/"). PostecH Cyber Security Solutions ("PostecH Cyber Security Solutions." o "nosotros") ha puesto a su disposición el Sitio Web. Podemos cambiar los Términos y Condiciones de vez en cuando, en cualquier momento sin ninguna notificación, sólo publicando los cambios en el Sitio Web. AL USAR EL SITIO WEB, USTED ACEPTA Y ESTÉ DE ACUERDO CON ESTOS TÉRMINOS Y CONDICIONES EN LO QUE SE REFIERE A SU USO DEL SITIO WEB. Si usted no está de acuerdo con estos Términos y Condiciones, no puede tener acceso al mismo ni usar el Sitio Web de ninguna otra manera.</p>
 
 <p>1. Derechos de Propiedad. Entre usted y PostecH Cyber Security Solutions, PostecH Cyber Security Solutions es dueño único y exclusivo, de todos los derechos, título e intereses en y del Sitio Web, de todo el contenido (incluyendo, por ejemplo, audio, fotografías, ilustraciones, gráficos, otros medios visuales, videos, copias, textos, software, títulos, archivos de Onda de choque, etc.), códigos, datos y materiales del mismo, el aspecto y el ambiente, el diseño y la organización del Sitio Web y la compilación de los contenidos, códigos, datos y los materiales en el Sitio Web, incluyendo pero no limitado a, cualesquiera derechos de autor, derechos de marca, derechos de patente, derechos de base de datos, derechos morales, derechos sui generis y otras propiedades intelectuales y derechos patrimoniales del mismo. Su uso del Sitio Web no le otorga propiedad de ninguno de los contenidos, códigos, datos o materiales a los que pueda acceder en o a través del Sitio Web.</p>
  
@@ -163,7 +163,7 @@ Una declaración suya, hecha bajo pena de perjurio, de que la información antes
 
 <div class="col_full just">
 
-<p>Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> ó usando nuestra forma de <a href="contacto.php">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p></div>
+<p>Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.us">ventas@postech.us</a> ó usando nuestra forma de <a href="contacto.php">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p></div>
 
 <!-- -->
 				  <div class="clear"></div>
