@@ -8,8 +8,8 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />	
   	<meta name="keywords" content="consultoria, servicios, TI, monitoreo, big data, servicios, analisis, seguridad, informatica, seguridad informatica, perimetral, firewall, ids, ips, telecomunicaciones, TICS, BSM, BCM, DRP, BCP, ITIL, Cobit, ISO 27001, ISO 27002, ISO 27035, cert, csirt, noc , soc, seguridad informatica, capacitacion, cursos, TT, TICs, analisis de datos, mineria de datos, dataware, hosting, housing, desarrollo, politicas, normatividad, enisa, first, alapsi, 20/20, trafico, red, reconstruccion, desencripcion, ciber defensa, ciber seguridad, firewall" />
-  	<meta name="rights" content="POSTECH IT SOLUTION PROVIDER" />
-  	<meta name="description" content="Postech IT Solution Provider, Soluciones en monitoreo y seguridad de la información: Hacemos eficiente y productivo su negocio, sin grandes inversiones utilizando código abierto en nuetsras aplicaciones." />
+  	<meta name="rights" content="PostecH Cyber Security Solutions" />
+  	<meta name="description" content="PostecH Cyber Security Solutions, Soluciones en monitoreo y seguridad de la información: Hacemos eficiente y productivo su negocio, sin grandes inversiones utilizando código abierto en nuetsras aplicaciones." />
   	<META NAME="ROBOTS" CONTENT="All">
 
 	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="favicon-152.png">
@@ -42,7 +42,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Postech IT Solution Provider</title>
+	<title>PostecH Cyber Security Solutions</title>
 
 <style type="text/css">
 

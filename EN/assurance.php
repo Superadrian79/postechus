@@ -52,7 +52,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>assurance &amp; hardening</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions S.A de C.V.</span>
 				<ol class="breadcrumb">
 					<li><a href="seguridad.php">Security IT</a></li>
 					<li class="active">Assurance & Hardening</li>

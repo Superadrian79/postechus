@@ -14,7 +14,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta name="robots" content="all" /><meta name="googlebot" content="index, follow" />
   	<meta name="description" content="Nuestra actividad principal es el análisis, desarrollo y comercialización de soluciones de alto impacto y bajo costo.">
   	<meta name="keywords" content="telecomunicaciones, programacion, analisis de bases de datos, rdbms, almacenamiento, hardware para servidores, diseño de datacenters, virtualizacion, cloud computing, sistemas basados en open source, analisis y reconstruccion de trafico, bsm, gestion de incidentes">
-  	<meta name="author" content="Postech IT Solutions Provider">	
+  	<meta name="author" content="PostecH Cyber Security Solutions">	
 	<meta name="viewport" content="width=device-width, initial-scale=1" />	 	
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
 
@@ -37,7 +37,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Postech: Nosotros</title>
+	<title>PostecH Cyber Security Solutions</title>
 
 </head>
 
@@ -67,8 +67,9 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		<section id="page-title" class="page-title-dark">
 
 			<div class="container clearfix">
-				<h1>Acerca de</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<h1>Acerca de PostecH</h1>
+				<span>Protección Integral. Inteligencia Accionable. Innovación Mexicana.
+</span>
 				<ol class="breadcrumb">
 					<li><a href="index.php">Home</a></li>
 					<li class="active">Acerca de</li>
@@ -85,7 +86,135 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 				<div class="container clearfix">
 
-					<div class="col_full just">Somos una empresa 100% mexicana, nuestra actividad principal es el análisis, desarrollo y comercialización de soluciones de alto impacto y bajo costo, especializadas en:</div>
+					<div class="col_full just">PostecH es una empresa especializada en ciberseguridad que desarrolla y comercializa soluciones tecnológicas diseñadas para transformar la manera en que las organizaciones detectan, previenen y responden a las amenazas digitales.
+						Ofrecemos un ecosistema completo de productos que abarcan desde la inteligencia de amenazas hasta la concientización del factor humano.
+
+						<h2>Nuestra Filosofía</h2>
+
+						<p>
+							Creemos que la ciberseguridad efectiva no se trata solo de adquirir herramientas,
+							sino de convertir información en acción. Cada solución que desarrollamos está diseñada
+							con un principio central: <strong>reducir el tiempo entre la detección de una amenaza y la respuesta efectiva</strong>.
+						</p>
+
+						<p>
+							En un panorama donde los atacantes evolucionan constantemente, las organizaciones necesitan
+							más que tecnología reactiva. Necesitan inteligencia que anticipe, automatización que acelere
+							y visibilidad que empodere a sus equipos de seguridad.
+						</p>
+
+						<hr>
+
+						<h2>Nuestro Portafolio de Soluciones</h2>
+
+						<div style="overflow-x:auto;">
+							<table class="table table-bordered table-striped">
+								<thead>
+									<tr>
+										<th>Solución</th>
+										<th>Descripción</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td><strong>Threat Intel Hub</strong></td>
+										<td>
+											Plataforma de inteligencia de amenazas que agrega, correlaciona y operacionaliza
+											información de 13+ fuentes globales, generando alertas contextualizadas y reglas
+											de detección automáticas.
+										</td>
+									</tr>
+									<tr>
+										<td><strong>CTH</strong></td>
+										<td>
+											Cyber Threat Hunter. Plataforma para equipos CSOC para entrega de servicios MDR
+											(Managed Detection and Response) que combina IA, threat intelligence y analistas
+											para monitoreo y respuesta 24/7/365.
+										</td>
+									</tr>
+									<tr>
+										<td><strong>NCSM</strong></td>
+										<td>
+											Network Cyber Security Monitor basada en appliances que proporciona visibilidad
+											completa del tráfico de red para detectar amenazas que evaden las defensas perimetrales.
+										</td>
+									</tr>
+									<tr>
+										<td><strong>IT Insight</strong></td>
+										<td>
+											Plataforma de monitoreo de infraestructura que transforma la gestión de TI con
+											descubrimiento automático, alertas inteligentes y visibilidad en tiempo real.
+										</td>
+									</tr>
+									<tr>
+										<td><strong>Cognitus</strong></td>
+										<td>
+											Sistema de concientización en ciberseguridad que convierte a los colaboradores
+											en la primera línea de defensa mediante capacitación continua sobre amenazas.
+										</td>
+									</tr>
+									<tr>
+										<td><strong>Tunich AI</strong></td>
+										<td>
+											Asistente de SOC impulsado por Inteligencia Artificial Generativa que automatiza
+											el triage y enriquecimiento de tickets de seguridad, 100% on-premise.
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+
+						<hr>
+
+						<h2>Lo Que Nos Distingue</h2>
+
+						<h4>Desarrollo Propio</h4>
+						<p>
+							Nuestras soluciones son desarrolladas internamente, lo que nos permite adaptarlas a las
+							necesidades específicas del mercado latinoamericano y evolucionar rápidamente ante nuevas amenazas.
+						</p>
+
+						<h4>Enfoque en Inteligencia Accionable</h4>
+						<p>
+							No solo recopilamos datos — los transformamos en decisiones. Cada alerta incluye el contexto
+							necesario para actuar: IOCs listos para bloqueo, mapeo a MITRE ATT&CK y recomendaciones de mitigación.
+						</p>
+
+						<h4>Soberanía de Datos</h4>
+						<p>
+							Entendemos las preocupaciones de cumplimiento y privacidad. Nuestras soluciones ofrecen
+							opciones on-premise para mantener los datos sensibles dentro de la infraestructura del cliente.
+						</p>
+
+						<h4>Cumplimiento de estándares internacionales y marcos de referencia</h4>
+						<p>
+							Contenido, soporte y documentación en español. Entendemos los desafíos regulatorios y
+							diseñamos nuestras soluciones en consecuencia.
+						</p>
+
+						<h4>Integración Sin Fricción</h4>
+						<p>
+							Nuestros productos se integran nativamente con las principales plataformas del mercado:
+							Wazuh, Splunk, CrowdStrike, Microsoft Sentinel, ServiceNow y más de 50 tecnologías adicionales.
+						</p>
+
+						<hr>
+
+						<h2>Nuestro Compromiso</h2>
+
+						<p>
+							En PostecH creemos que la ciberseguridad de nivel empresarial no debe ser exclusiva de las
+							grandes corporaciones con presupuestos ilimitados. Trabajamos para democratizar el acceso
+							a capacidades avanzadas de detección, respuesta e inteligencia de amenazas.
+						</p>
+
+						<p>
+							Nuestro compromiso es con la innovación continua, el servicio de excelencia y la protección
+							efectiva de las organizaciones que confían en nosotros.
+						</p>
+
+					</div>
+					
 			
 					<div class="clear"></div>
 <!-- -->
@@ -241,7 +370,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 <div class="col_full just">
 
-<p>Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> ó usando nuestra forma de <a href="contacto.php">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p></div>
+<p>Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.us">ventas@postech.us</a> ó usando nuestra forma de <a href="contacto.php">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p></div>
 
 <!-- -->
 <!-- -->

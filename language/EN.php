@@ -13,14 +13,12 @@
 		var $security_assurance = 'Assurance & Hardening';
 		var $security_pentest = 'Pentest';
 		var $security_vulnerability = 'Vulnerability Assesment';
-		var $security_sga = 'Security Gateway SGA';
 
 		var $solutions = 'Solutions';
 		var $solutions_cfi = 'CFI';
 		var $solutions_itinsight = 'It Insight';
 		var $solutions_ncsm = 'NCSM';
 		var $social_osint  = 'OSINT';
-		var $solutions_reconstruction = 'Traffic Reconstruction';
 		var $solutions_big = 'Big Data Analytics';
 		var $solutions_domains = 'Domain Check';
 		var $solutions_methodology = 'Methodology';
@@ -58,9 +56,9 @@
 		var $access_support = 'Online Support';
 		var $access_pm = 'Group Office';
 
-		var $copyright = 'Postech IT Solution Provider S.A de C.V. © 2025 All Rights Reserved';
+		var $copyright = 'PostecH Cyber Security Solutions S.A de C.V. © 2025 All Rights Reserved';
 		var $address = 'Montaña 80, Col. Los Pastores, Estado de México, C.P. 53340';
-		var $mail = 'ventas@postech.com.mx';
+		var $mail = 'ventas@postech.us';
 		var $phone = '(+52) 4125 0121';
 		var $terms = 'Terms of Use';
 		var $privacy = 'Privacy Policies';

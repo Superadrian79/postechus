@@ -69,7 +69,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>NOC (<strong>NETWORK OPERATIONS CENTER</strong>)</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions S.A de C.V.</span>
 				<ol class="breadcrumb">
 					<li><a href="seguridad.php">Seguridad IT</a></li>
 					<li class="active">NOC</li>
@@ -234,7 +234,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 <div class="col_full just">
 
-<p>Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> ó usando nuestra forma de <a href="contacto.php">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p></div>
+<p>Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.us">ventas@postech.us</a> ó usando nuestra forma de <a href="contacto.php">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p></div>
 
 <!-- -->
 
