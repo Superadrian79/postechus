@@ -248,7 +248,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 	</ul>
 
 		<div class="center"><br>
-			<img class="img-responsive" src="../images/Cognitus_Arquitectura_Diagrama.svg">
+			<img class="img-responsive" src="../images/Cognitus_Arquitectura_Diagrama.png">
 		</div>
 
         <hr>
