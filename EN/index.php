@@ -196,12 +196,12 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 					<div class="col_one_third nobottommargin">
 						<div class="feature-box media-box">
-							<div class="fbox-media"> <a href="monitoreo.php"><img src="../images/imga02.jpg" alt="Monitoreo"></a>
+							<div class="fbox-media"> <a href="it_insight.php"><img src="../images/imga02.jpg" alt="Monitoreo"></a>
 							</div>
 							<div class="fbox-desc">
 								<h3>IT – INSIGHT ®<span class="subtitle">Comprehensive monitoring solution infrastructure, equipment and services.</span></h3>
 								<p style="text-align:justify">Your investment in infrastructure is a vital asset of the company and business continuity, keeping these applications and services available online ...</p>
-                                <p style="text-align:right"><a href="monitoreo.php"><b>Read more</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+                                <p style="text-align:right"><a href="it_insight.php"><b>Read more</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
 							</div>
 						</div>
 					</div>
