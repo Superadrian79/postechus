@@ -56,7 +56,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>PRIVACY POLICIES </h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>Postech IT Solution Provider</span>
 				<ol class="breadcrumb">
 					<li class="active">Privacy Policies</li>
 				</ol>
@@ -122,7 +122,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 <p>Contact Person Privacy and Data Protection If you have questions regarding the handling of personal data and privacy please contact by mail to:</p>
 
 <img src="../images/arr.png" alt="."> Data Protection Manager<br>
-<img src="../images/arr.png" alt="."> Postech IT Solution Provider S.A de C.V.<br>
+<img src="../images/arr.png" alt="."> Postech IT Solution Provider<br>
 <img src="../images/arr.png" alt="."> Calle Montaña 80, Col. Los Pastores.<br>
 <img src="../images/arr.png" alt="."> Naucalpan, Estado de M&eacute;xico. C.P. 53340<br><br>
 

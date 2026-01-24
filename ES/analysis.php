@@ -71,7 +71,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>Análisis de Tráfico</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>Postech IT Solution Provider</span>
 				<ol class="breadcrumb">
                 	<li><a href="soluciones-ES.html">Soluciones</a></li>
 					<li class="active">Análisis de Tráfico</li>

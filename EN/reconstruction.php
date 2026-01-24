@@ -157,7 +157,7 @@
 
 			<div class="container clearfix">
 				<h1>traffic reconstruction</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>Postech IT Solution Provider</span>
 				<ol class="breadcrumb">
                 	<li><a href="soluciones-EN.html">Solutions</a></li>
 					<li class="active">Traffic Reconstruction</li>
@@ -241,7 +241,7 @@
 				<div class="container clearfix">
 
 					<div class="col_half">
-						Postech IT Solution Provider S.A de C.V. &copy; 2016 All Rights Reserved<br>
+						Postech IT Solution Provider &copy; 2016 All Rights Reserved<br>
 						<div class="copyright-links"><a href="uso-EN.html">Terms of Use</a> / <a href="privacidad-EN.html">Privacy Policies</a></div>
 					</div>
 
