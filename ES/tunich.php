@@ -92,8 +92,8 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 						<div class="downloads-bar">
 							<div class="downloads-bar__logo"><img src="../images/tunich/tunich.jpg" alt="Tunich"></div>
 							<div class="downloads-bar__actions">
-								<a href="https://tssc.mx/docs/Folleto%20-Tunich.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
-								<a href="https://tssc.mx/docs/Ficha%20tecnica%20Tunich.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Ficha Técnica</a>
+								<a href="https://postech.us/docs/Folleto%20-Tunich%20-%20Postech.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
+								<a href="https://postech.us/docs/Tunich_Ficha%20tecnica%20-%20Postech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Ficha Técnica</a>
 							</div>
 						</div>
 		
