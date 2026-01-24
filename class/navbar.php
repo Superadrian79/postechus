@@ -74,8 +74,8 @@ class navbar {
 									<li><a href="mdm.php"><div><i class="icon-line-disc"></i>'.$this->lang->mdm.'</div></a></li>
 									<li><a href="siem.php"><div><i class="icon-line-eye"></i>'.$this->lang->siem.'</div></a></li>
 									<li><a href="siem_compliance.php"><div><i class="icon-eye-open"></i>'.$this->lang->siem_compliance.'</div></a></li>
-									<li><a href=""><div><i class="icon-lock"></i>'.$this->lang->soar.'</div></a></li>
-									<li><a href=""><div><i class="icon-wrench"></i>'.$this->lang->honeypot.'</div></a></li>
+									<li><a href="soar.php"><div><i class="icon-lock"></i>'.$this->lang->soar.'</div></a></li>
+									<li><a href="honeypot.php"><div><i class="icon-wrench"></i>'.$this->lang->honeypot.'</div></a></li>
 								</ul>
                             
 							<li><a href="#"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
