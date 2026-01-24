@@ -197,12 +197,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 	<div class="col_one_third nobottommargin">
 						<div class="feature-box media-box">
-							<div class="fbox-media"> <a href="data.php"><img src="../images/imga01.jpg" alt="Data Mining"></a>
+							<div class="fbox-media"> <a href="cth.php"><img src="../images/imga01.jpg" alt="CTH"></a>
 							</div>
 							<div class="fbox-desc">
-								<h3 class="blue">ADB CONNECT ®</h3>
-								<p style="text-align:justify">Extraer, transformar y cargar (ETL) es un proceso que implica la extracción de datos de múltiples fuentes en diferentes formatos, la ejecución de la transformación que se ajuste a las necesidades del negocio y en última instancia, la carga en un sistema destino.</p>
-                                <p style="text-align:right"><a href="../ES/data.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+								<h3 class="blue">CTH<span class="subtitle">CYBER THREAT HUNTER</span></h3>
+								<p style="text-align:justify">CTH es la plataforma MDR (Managed Detection and Response) que combina inteligencia artificial, threat intelligence en tiempo real y un equipo de analistas expertos para proteger ...</p>
+                                <p style="text-align:right"><a href="../ES/cth.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
 							</div>
 						</div>
 					</div>
@@ -221,12 +221,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col_one_third nobottommargin col_last">
 						<div class="feature-box media-box">
-							<div class="fbox-media"> <a href="perimetral.php"><img src="../images/imga03.jpg" alt="Seguridad Perimetral"></a>
+							<div class="fbox-media"> <a href="ncsm.php"><img src="../images/imga03.jpg" alt="NCSM"></a>
 							</div>
 							<div class="fbox-desc">
-								<h3>SEGURIDAD PERIMETRAL</h3>
-								<p style="text-align:justify">La seguridad lógica interna y externa son aspectos fundamentales a tener en cuenta La seguridad informática de un empresa es primordial. Los ataques por red y las pérdidas de información ocasionan un gran trastorno y afectan al correcto funcionamiento y progreso de la empresa.</p>
-                                <p style="text-align:right"><a href="perimetral.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+								<h3>NCSM</h3>
+								<p style="text-align:justify">NCSM es la solución NDR (Network Detection and Response) que transforma tu infraestructura de red en un sensor inteligente de amenazas, detectando ataques avanzados que evaden tus defensas perimetrales.</p>
+                                <p style="text-align:right"><a href="ncsm.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
 							</div>
 						</div>
 					</div>
