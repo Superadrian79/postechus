@@ -79,7 +79,7 @@ class navbar {
 								</ul>
                             
 							<li><a href="#"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
-									<li><a href="https://kb.postech.us"><div><i class="icon-stack"></i>'.$this->lang->training_kb.'</div></a></li>
+									<li><a href="https://kb.postech.us" target="_blank"><div><i class="icon-stack"></i>'.$this->lang->training_kb.'</div></a></li>
 									<li><a href="incident.php"><div><i class="icon-stack"></i>'.$this->lang->training_incident.'</div></a></li>
 					                <li><a href="tecnicas.php"><div><i class="icon-umbrella"></i>'.$this->lang->training_techniques.'</div></a></li>
 									<li><a href="fundamentos.php"><div><i class="icon-line-layout"></i>'.$this->lang->training_pci.'</div></a></li>

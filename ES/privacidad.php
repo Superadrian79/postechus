@@ -65,7 +65,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>Aviso de Privacidad </h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
 					<li class="active">Aviso de Privacidad</li>
 				</ol>
@@ -83,9 +83,9 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 					<div class="col_full just">
 					
-<p>El presente Aviso de Privacidad contiene el Contrato de Servicios celebrado por una parte entre Postech IT Solution Provider S.A de C.V. (en adelante referido como “Postech”, y por la otra los usuarios de este sitio web y los contratantes de servicios de Postech IT Solution Provider S.A de C.V. en adelante (“CLIENTE”) Al solicitar los servicios de Postech IT Solution Provider S.A de C.V. usted declara que conoce en su totalidad y acepta el siguiente contrato de Servicios.</p>
+<p>El presente Aviso de Privacidad contiene el Contrato de Servicios celebrado por una parte entre PostecH Cyber Security Solutions (en adelante referido como “Postech”, y por la otra los usuarios de este sitio web y los contratantes de servicios de PostecH Cyber Security Solutions en adelante (“CLIENTE”) Al solicitar los servicios de PostecH Cyber Security Solutions usted declara que conoce en su totalidad y acepta el siguiente contrato de Servicios.</p>
 
-<p>Postech está comprometido con el derecho a la privacidad de todos los usuarios de los sitios Web de Postech IT Solution Provider S.A de C.V. y con el propósito de mantener confidencial la información que se recopila de EL CLIENTE en sus sitios Web ha desarrollado la Política de Privacidad. Esta información personal que Postech recopila de los Clientes o usuarios, es mantenida y recopilada cuando se llena cualquiera de los formularios en línea en los sitios de Postech, así como cuando se envía un email a Postech IT Solution Provider S.A de C.V.</p>
+<p>Postech está comprometido con el derecho a la privacidad de todos los usuarios de los sitios Web de PostecH Cyber Security Solutions y con el propósito de mantener confidencial la información que se recopila de EL CLIENTE en sus sitios Web ha desarrollado la Política de Privacidad. Esta información personal que Postech recopila de los Clientes o usuarios, es mantenida y recopilada cuando se llena cualquiera de los formularios en línea en los sitios de Postech, así como cuando se envía un email a PostecH Cyber Security Solutions</p>
 
 <p>La información personal que proporciona en los formularios de contratación, formularios de contacto, llamadas telefónicas, reportes de HelpDesk, Chats, Facebook y Twitter puede identificar al CLIENTE individualmente e incluye los siguientes datos:</p>
 
@@ -107,15 +107,15 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 <p>Postech no recaba datos considerados como sensibles de acuerdo al Artículo 3 de la LEY FEDERAL DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS PARTICULARES (DOF) Postech también recopila otro tipo de información que no lo puede identificar personalmente cada vez que accede una página los sitios web de Postech.com.mx. Esta información incluye la dirección de Protocolo de Internet (IP) y el nombre de dominio. Una dirección IP es un número que asigna automáticamente la computadora del ISP a la computadora de EL CLIENTE o usuario a través del cual usted tiene acceso al Web y un nombre de dominio es el nombre de la computadora del ISP a través de la cual EL CLIENTE o usuario tiene acceso al Web. Postech  utiliza esta información añadida para medir el número de visitas a su sitio, el tiempo promedio que pasa en él cada usuario, el número de páginas visitadas y diversas otras estadísticas del uso del sitio. Este monitoreo ayuda a evaluar cómo se usa el sitio Web para mejorar en forma continua el contenido del mismo y EL CLIENTE acepta que Postech lleve a cabo el monitoreo en cuestión para dichos efectos.</p>
 
-<p>Si EL CLIENTE utiliza alguno de los formularios de registro de Postech.com.mx, éste último le hará llegar un acuse de recibo en línea para confirmar que ha recibido su contacto. Si cuando llene algún formulario decide ser parte de la lista de correos de Postech.com.mx, también puede recibir otro contacto sobre los servicios de Postech IT Solution Provider S.A de C.V. o cualquiera de sus empresas filiales con otros temas que pudieran ser de interés para EL CLIENTE. EL CLIENTE podrá cancelar su afiliación a la lista de correos cuando lo desee mediante el procedimiento que se indica en el correo que le fue enviado.</p>
+<p>Si EL CLIENTE utiliza alguno de los formularios de registro de Postech.com.mx, éste último le hará llegar un acuse de recibo en línea para confirmar que ha recibido su contacto. Si cuando llene algún formulario decide ser parte de la lista de correos de Postech.com.mx, también puede recibir otro contacto sobre los servicios de PostecH Cyber Security Solutions o cualquiera de sus empresas filiales con otros temas que pudieran ser de interés para EL CLIENTE. EL CLIENTE podrá cancelar su afiliación a la lista de correos cuando lo desee mediante el procedimiento que se indica en el correo que le fue enviado.</p>
 
 <p>Postech.com.mx. utiliza "cookies" para ayudarlo a personalizar su práctica en línea dentro de sus sitios Web. Un cookie es un archivo de texto situado por un servidor de páginas Web en el disco duro del equipo del usuario. Los cookies no se pueden utilizar para ejecutar programas o transmitir virus a su equipo; únicamente se asignan al usuario y sólo pueden ser leídos por el servidor Web que pertenece al dominio que lo emitió.</p>
 
-<p>EL CLIENTE o usuario podrá aceptar o rechazar los "cookies". La mayor parte de los exploradores Web aceptan automáticamente los cookies. No obstante, EL CLIENTE o usuario puede modificar el explorador de su computadora para rechazarlos. Si este es el caso, es posible que éste no pueda hacer uso de todas las características interactivas de los servicios de Postech IT Solution Provider S.A de C.V. y los sitios Web que visita.</p>
+<p>EL CLIENTE o usuario podrá aceptar o rechazar los "cookies". La mayor parte de los exploradores Web aceptan automáticamente los cookies. No obstante, EL CLIENTE o usuario puede modificar el explorador de su computadora para rechazarlos. Si este es el caso, es posible que éste no pueda hacer uso de todas las características interactivas de los servicios de PostecH Cyber Security Solutions y los sitios Web que visita.</p>
 
 <p>Postech.com.mx usa cookies para almacenar información para registrar algunos valores de visita a nuestro sitio y llevar estadísticas que nos permiten mejorarlo. También usa cookies para almacenar el nombre de EL CLIENTE o usuario cada vez que manda un formulario en el sitio de Postech.com.mx con el objeto de saludarle por su nombre cuando regrese a visitar el sitio en cuestión.</p>
 
-<p>Postech.com.mx utiliza la información que EL CLIENTE proporciona para contactarlo en respuesta a la solicitud realizada. Postech.com.mx puede compartir la información que se le haya proporcionado con otras empresas propiedad de Postech IT Solution Provider S.A de C.V. </p>
+<p>Postech.com.mx utiliza la información que EL CLIENTE proporciona para contactarlo en respuesta a la solicitud realizada. Postech.com.mx puede compartir la información que se le haya proporcionado con otras empresas propiedad de PostecH Cyber Security Solutions </p>
 
 <p>Limitación de uso y divulgación de la información</p>
 
@@ -124,19 +124,19 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 <p>Persona Encargada de Privacidad y Protección de Datos En caso de tener dudas respecto al manejo de sus datos personales y privacidad favor de contactar por correo postal a:</p>
 
 <img src="../images/arr.png" alt="."> Encargado de protección de datos<br>
-<img src="../images/arr.png" alt="."> Postech IT Solution Provider S.A de C.V.<br>
+<img src="../images/arr.png" alt="."> PostecH Cyber Security Solutions<br>
 <img src="../images/arr.png" alt="."> Calle Montaña 80, Col. Los Pastores.<br>
 <img src="../images/arr.png" alt="."> Naucalpan, Estado de M&eacute;xico. C.P. 53340<br><br>
 
 <p>Protección de la privacidad en línea de niños en Postech.com.</p>
 
-<p>Postech IT Solution Provider S.A de C.V. entiende la importancia de proteger la privacidad de los niños, en especial en un ambiente en línea. Postech IT Solution Provider S.A de C.V. no está diseñado intencionalmente para o dirigido a menores de 18 años. Es política de Postech IT Solution Provider S.A de C.V. nunca recopilar o mantener información intencionalmente acerca de personas menores a los 18 años de edad. Cambios a la Política de Privacidad de Postech IT Solution Provider S.A de C.V. Postech IT Solution Provider S.A de C.V. se reserva el derecho de modificar o alterar esta Política de Privacidad en cualquier momento. Cualquier cambio a esta Política de Privacidad se verá precedido por un aviso registrado en los sitios de Postech IT Solution Provider S.A de C.V. con por lo menos diez días de anticipación a la fecha de entrada en vigor de la modificación en cuestión.</p>
+<p>PostecH Cyber Security Solutions entiende la importancia de proteger la privacidad de los niños, en especial en un ambiente en línea. PostecH Cyber Security Solutions no está diseñado intencionalmente para o dirigido a menores de 18 años. Es política de PostecH Cyber Security Solutions nunca recopilar o mantener información intencionalmente acerca de personas menores a los 18 años de edad. Cambios a la Política de Privacidad de PostecH Cyber Security Solutions PostecH Cyber Security Solutions se reserva el derecho de modificar o alterar esta Política de Privacidad en cualquier momento. Cualquier cambio a esta Política de Privacidad se verá precedido por un aviso registrado en los sitios de PostecH Cyber Security Solutions con por lo menos diez días de anticipación a la fecha de entrada en vigor de la modificación en cuestión.</p>
 
 <p>Derechos de actualización, rectificación corrección y oposición</p>
 
 <p>El cliente puede modificar la información que contiene su perfil cada vez que lo desee ingresando a lso diferentes servicios ofrecidos a traves del sitio web de Postech.com.mx. De igual manera puede oponerse a que Postech tenga más su información y solicitar la cancelación de servicios y la eliminación del registro de sus datos personales.</p>
 
-<p>En caso de que no dese consentir la transmisión de los Datos Personales, o en caso de dudas respecto al tratamiento de los Datos Personales, le agradeceremos se ponga en contacto con el Centro de Atención a Clientes de Postech IT Solution Provider S.A de C.V. al numero telefonico en la Cd. de México 6274 2273</p>
+<p>En caso de que no dese consentir la transmisión de los Datos Personales, o en caso de dudas respecto al tratamiento de los Datos Personales, le agradeceremos se ponga en contacto con el Centro de Atención a Clientes de PostecH Cyber Security Solutions al numero telefonico en la Cd. de México 6274 2273</p>
 
 					</div>
 			

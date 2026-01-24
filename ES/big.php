@@ -70,7 +70,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>Análisis de big data</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
                 	<li><a href="soluciones.php">Soluciones</a></li>
 					<li class="active">Análisis de Big Data</li>

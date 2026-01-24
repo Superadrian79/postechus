@@ -69,7 +69,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>Security Gateway SGA</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
                 	<li><a href="seguridad.php">Seguridad IT</a></li>
 					<li class="active">Security Gateway SGA</li>

@@ -76,7 +76,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		<section id="page-title" class="page-title-dark">
 			<div class="container clearfix">
 				<h1>alianzas</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions</span>
 
                 <ol class="breadcrumb">
 					<li><a href="index.php">Home</a></li>

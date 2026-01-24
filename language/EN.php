@@ -56,7 +56,7 @@
 		var $access_support = 'Online Support';
 		var $access_pm = 'Group Office';
 
-		var $copyright = 'PostecH Cyber Security Solutions S.A de C.V. © 2025 All Rights Reserved';
+		var $copyright = 'PostecH Cyber Security Solutions © 2025 All Rights Reserved';
 		var $address = 'Montaña 80, Col. Los Pastores, Estado de México, C.P. 53340';
 		var $mail = 'ventas@postech.us';
 		var $phone = '(+52) 4125 0121';

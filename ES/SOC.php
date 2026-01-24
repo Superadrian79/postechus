@@ -70,7 +70,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>CSOC - CENTRO DE OPERACIONES DE SEGURIDAD </h1>
-				<span>PostecH Cyber Security Solutions S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
 					<li><a href="seguridad.php">Seguridad IT</a></li>
 					<li class="active">SOC</li>

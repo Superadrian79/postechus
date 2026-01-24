@@ -54,7 +54,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>itil v 3 management services</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
                 	<li><a href="capacitacion.php">Training</a></li>
 					<li class="active">ITIL V 3 Management Services</li>

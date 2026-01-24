@@ -140,7 +140,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 				<h1>historias de éxito</h1>
 
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions</span>
 
 				<ol class="breadcrumb">
 
