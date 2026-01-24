@@ -91,8 +91,8 @@ $nav=new navbar($path, $lang, $path_array['filename']);
                 <div class="downloads-bar">
                     <div class="downloads-bar__logo"><img src="../images/cognitus.png" alt="Logo"></div>
                     <div class="downloads-bar__actions">
-                        <a href="../docs/Folleto-Cognitus.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
-                        <a href="../docs/Ficha_Tecnica_Cognitus.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Ficha Técnica</a>
+                        <a href="https://postech.us/docs/Folleto-Cognitus.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
+                        <a href="https://postech.us/docs/Cognitus_Ficha_Tecnica_Postech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Ficha Técnica</a>
                     </div>
                 </div>
                 <p></p><hr class="hr1"><p></p>

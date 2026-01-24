@@ -91,8 +91,8 @@ $nav=new navbar($path, $lang, $path_array['filename']);
                 <div class="downloads-bar">
 					<div class="downloads-bar__logo"><img src="../images/tihub.png" alt="Logo"></div>
 					<div class="downloads-bar__actions">
-						<a href="../docs/Threat Intel Hub_FOLLETO.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
-						<a href="../docs/Ficha tecnica - Threat-Intel-Hub.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Datasheet</a>
+						<a href="https://postech.us/docs/Threat%20Intel%20Hub_FOLLETO.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
+						<a href="https://postech.us/docs/TI%20Hub_Ficha%20Tecnica%20_Postech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Datasheet</a>
 					</div>
 				</div>
                 <p></p><hr class="hr1"><p></p>

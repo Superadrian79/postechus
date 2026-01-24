@@ -91,8 +91,8 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 						<div class="downloads-bar">
 							<div class="downloads-bar__logo"><img src="../images/cth/cth.png" alt="Logo"></div>
 							<div class="downloads-bar__actions">
-								<a href="https://tssc.mx/docs/Folleto%20CTH.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
-								<a href="https://tssc.mx/docs/Ficha%20Tecnica%20CTH.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Ficha técnica</a>
+								<a href="https://postech.us/docs/Folleto%20CTH.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
+								<a href="https://postech.us/docs/CTH_Ficha%20Técnica_POstech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Ficha técnica</a>
 							</div>
 						</div>
 
