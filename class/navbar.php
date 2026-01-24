@@ -59,13 +59,13 @@ class navbar {
 									<li><a href="big.php"><div><i class="icon-user"></i>'.$this->lang->solutions_big.'</div></a></li>
 									<li><a href="domainwhois.php"><div><i class="icon-stack"></i>'.$this->lang->solutions_domains.'</div></a></li>
 									<li><a href="metodologia.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_methodology.'</div></a></li>
-									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
-									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cognitus.'</div></a></li>
-									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_technology.'</div></a></li>
+									<li><a href="cth.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
+									<li><a href="cognitus.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cognitus.'</div></a></li>
+									<li><a href="tihub.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_technology.'</div></a></li>
 								</ul>
 
 								<li><a href="#"><div><i class="icon-line-monitor"></i>'.$this->lang->technologies.'</div></a><ul>
-									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
+									<li><a href="cth.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
 									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href=""><div><i class="icon-tasks"></i>'.$this->lang->sga_security_gateway.'</div></a></li>
 									<li><a href=""><div><i class="icon-external-link"></i>'.$this->lang->it_insight.'</div></a></li>
