@@ -37,7 +37,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Monitoreo de redes Sociales</title>
+	<title>OSINT</title>
 
 </head>
 
@@ -67,11 +67,11 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		<section id="page-title" class="page-title-dark">
 
 			<div class="container clearfix">
-				<h1>Monitoreo de redes Sociales</h1>
+				<h1>OSINT</h1>
 				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
                 	<li><a href="soluciones.php">Soluciones</a></li>
-					<li class="active">Monitoreo de redes Sociales</li>
+					<li class="active">OSINT</li>
 				</ol>
 			</div>
 

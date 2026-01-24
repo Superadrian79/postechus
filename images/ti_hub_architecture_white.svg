@@ -1,0 +1,393 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <defs>
+    <!-- Gradientes -->
+    <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e40af"/>
+      <stop offset="50%" style="stop-color:#2563eb"/>
+      <stop offset="100%" style="stop-color:#1e40af"/>
+    </linearGradient>
+    
+    <linearGradient id="coreGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a"/>
+      <stop offset="100%" style="stop-color:#1e293b"/>
+    </linearGradient>
+    
+    <linearGradient id="primaryGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#dc2626"/>
+      <stop offset="100%" style="stop-color:#b91c1c"/>
+    </linearGradient>
+    
+    <linearGradient id="enrichGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c3aed"/>
+      <stop offset="100%" style="stop-color:#6d28d9"/>
+    </linearGradient>
+    
+    <linearGradient id="phishGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f59e0b"/>
+      <stop offset="100%" style="stop-color:#d97706"/>
+    </linearGradient>
+    
+    <linearGradient id="malwareGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ef4444"/>
+      <stop offset="100%" style="stop-color:#dc2626"/>
+    </linearGradient>
+    
+    <linearGradient id="aptGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#0891b2"/>
+    </linearGradient>
+    
+    <linearGradient id="siemGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+    
+    <linearGradient id="outputGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#2563eb"/>
+    </linearGradient>
+    
+    <!-- Filtros -->
+    <filter id="shadowCard" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.15"/>
+    </filter>
+    
+    <filter id="glowBlue" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Patrón de grid sutil -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#e2e8f0" stroke-width="0.5"/>
+    </pattern>
+    
+    <!-- Marcadores para flechas -->
+    <marker id="arrowCyan" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#0891b2"/>
+    </marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#059669"/>
+    </marker>
+    <marker id="arrowOrange" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#d97706"/>
+    </marker>
+    <marker id="arrowRed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#dc2626"/>
+    </marker>
+    <marker id="arrowPurple" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#7c3aed"/>
+    </marker>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#2563eb"/>
+    </marker>
+  </defs>
+  
+  <!-- Fondo blanco -->
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1400" height="70" fill="url(#headerGradient)"/>
+  <text x="700" y="35" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="28" font-weight="bold">Arquitectura de Threat Intelligence Hub</text>
+  <text x="700" y="55" text-anchor="middle" fill="#bfdbfe" font-family="Segoe UI, Arial" font-size="14">TI HUB v2.5.4 | Plataforma de Inteligencia de Amenazas y Correlación SIEM</text>
+  
+  <!-- ==================== COMPONENTE CENTRAL ==================== -->
+  <g transform="translate(500, 320)">
+    <!-- Borde exterior con glow -->
+    <rect x="-10" y="-10" width="420" height="280" rx="20" fill="none" stroke="#2563eb" stroke-width="2" opacity="0.3"/>
+    <!-- Card principal -->
+    <rect x="0" y="0" width="400" height="260" rx="15" fill="url(#coreGradient)" filter="url(#shadowCard)"/>
+    <rect x="0" y="0" width="400" height="260" rx="15" fill="none" stroke="#1e40af" stroke-width="2"/>
+    
+    <!-- Logo TI -->
+    <rect x="160" y="15" width="80" height="80" rx="15" fill="#dc2626"/>
+    <text x="200" y="55" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="28" font-weight="bold">TI</text>
+    <text x="200" y="80" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12">HUB</text>
+    
+    <!-- Título -->
+    <text x="200" y="120" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="20" font-weight="bold">Threat Intel Hub</text>
+    <text x="200" y="140" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI, Arial" font-size="11">Motor de Correlación e Inteligencia</text>
+    
+    <!-- Módulos del core -->
+    <text x="200" y="165" text-anchor="middle" fill="#60a5fa" font-family="Segoe UI, Arial" font-size="11" font-weight="bold">MÓDULOS DE PROCESAMIENTO</text>
+    
+    <rect x="20" y="175" width="85" height="30" rx="5" fill="#2563eb"/>
+    <text x="62" y="195" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="10">Collectors</text>
+    
+    <rect x="115" y="175" width="85" height="30" rx="5" fill="#7c3aed"/>
+    <text x="157" y="195" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="10">Enrichment</text>
+    
+    <rect x="210" y="175" width="85" height="30" rx="5" fill="#059669"/>
+    <text x="252" y="195" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="10">Correlator</text>
+    
+    <rect x="305" y="175" width="75" height="30" rx="5" fill="#dc2626"/>
+    <text x="342" y="195" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="10">Alerts</text>
+    
+    <!-- Sub-módulos -->
+    <rect x="20" y="215" width="115" height="30" rx="5" fill="#0d9488"/>
+    <text x="77" y="235" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="10">IOC Database</text>
+    
+    <rect x="145" y="215" width="110" height="30" rx="5" fill="#d97706"/>
+    <text x="200" y="235" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="10">Rule Generator</text>
+    
+    <rect x="265" y="215" width="115" height="30" rx="5" fill="#4f46e5"/>
+    <text x="322" y="235" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="10">Advisory Builder</text>
+  </g>
+  
+  <!-- ==================== FUENTES PRIMARIAS (Superior Izquierda) ==================== -->
+  <g transform="translate(40, 100)">
+    <rect x="0" y="0" width="190" height="140" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="190" height="35" rx="10" fill="url(#primaryGradient)"/>
+    <rect x="0" y="25" width="190" height="10" fill="url(#primaryGradient)"/>
+    <text x="95" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">FUENTES PRIMARIAS</text>
+    
+    <circle cx="25" cy="60" r="8" fill="#dc2626"/>
+    <text x="40" y="64" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">CISA KEV</text>
+    
+    <circle cx="25" cy="85" r="8" fill="#dc2626"/>
+    <text x="40" y="89" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">NVD / CVE</text>
+    
+    <circle cx="25" cy="110" r="8" fill="#dc2626"/>
+    <text x="40" y="114" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">FIRST EPSS</text>
+    
+    <text x="170" y="130" text-anchor="end" fill="#64748b" font-family="Segoe UI, Arial" font-size="9">Vulnerabilidades</text>
+  </g>
+  
+  <!-- ==================== FUENTES ENRIQUECIMIENTO (Superior) ==================== -->
+  <g transform="translate(260, 100)">
+    <rect x="0" y="0" width="190" height="140" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="190" height="35" rx="10" fill="url(#enrichGradient)"/>
+    <rect x="0" y="25" width="190" height="10" fill="url(#enrichGradient)"/>
+    <text x="95" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">ENRIQUECIMIENTO</text>
+    
+    <circle cx="25" cy="60" r="8" fill="#7c3aed"/>
+    <text x="40" y="64" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">AlienVault OTX</text>
+    
+    <circle cx="25" cy="85" r="8" fill="#7c3aed"/>
+    <text x="40" y="89" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">VirusTotal</text>
+    
+    <circle cx="25" cy="110" r="8" fill="#7c3aed"/>
+    <text x="40" y="114" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">MISP</text>
+    
+    <text x="170" y="130" text-anchor="end" fill="#64748b" font-family="Segoe UI, Arial" font-size="9">Context &amp; Intel</text>
+  </g>
+  
+  <!-- ==================== FUENTES PHISHING (Izquierda) ==================== -->
+  <g transform="translate(40, 280)">
+    <rect x="0" y="0" width="190" height="120" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="190" height="35" rx="10" fill="url(#phishGradient)"/>
+    <rect x="0" y="25" width="190" height="10" fill="url(#phishGradient)"/>
+    <text x="95" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">PHISHING</text>
+    
+    <circle cx="25" cy="60" r="8" fill="#f59e0b"/>
+    <text x="40" y="64" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">OpenPhish</text>
+    
+    <circle cx="25" cy="85" r="8" fill="#f59e0b"/>
+    <text x="40" y="89" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">PhishTank</text>
+    
+    <text x="170" y="105" text-anchor="end" fill="#64748b" font-family="Segoe UI, Arial" font-size="9">URLs Maliciosas</text>
+  </g>
+  
+  <!-- ==================== FUENTES MALWARE (Izquierda Inferior) ==================== -->
+  <g transform="translate(40, 440)">
+    <rect x="0" y="0" width="190" height="140" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="190" height="35" rx="10" fill="url(#malwareGradient)"/>
+    <rect x="0" y="25" width="190" height="10" fill="url(#malwareGradient)"/>
+    <text x="95" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">MALWARE</text>
+    
+    <circle cx="25" cy="60" r="8" fill="#ef4444"/>
+    <text x="40" y="64" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">URLhaus</text>
+    
+    <circle cx="25" cy="85" r="8" fill="#ef4444"/>
+    <text x="40" y="89" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">Spamhaus DROP</text>
+    
+    <circle cx="25" cy="110" r="8" fill="#ef4444"/>
+    <text x="40" y="114" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">Cybercrime Tracker</text>
+    
+    <text x="170" y="130" text-anchor="end" fill="#64748b" font-family="Segoe UI, Arial" font-size="9">C2 &amp; Botnets</text>
+  </g>
+  
+  <!-- ==================== FUENTES APT (Inferior) ==================== -->
+  <g transform="translate(260, 620)">
+    <rect x="0" y="0" width="190" height="120" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="190" height="35" rx="10" fill="url(#aptGradient)"/>
+    <rect x="0" y="25" width="190" height="10" fill="url(#aptGradient)"/>
+    <text x="95" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">APT / CAMPAIGNS</text>
+    
+    <circle cx="25" cy="60" r="8" fill="#06b6d4"/>
+    <text x="40" y="64" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">APTnotes</text>
+    
+    <circle cx="25" cy="85" r="8" fill="#06b6d4"/>
+    <text x="40" y="89" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11">Cisco Talos</text>
+    
+    <text x="170" y="105" text-anchor="end" fill="#64748b" font-family="Segoe UI, Arial" font-size="9">Threat Actors</text>
+  </g>
+  
+  <!-- ==================== WAZUH SIEM (Derecha) ==================== -->
+  <g transform="translate(970, 280)">
+    <rect x="0" y="0" width="200" height="180" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="200" height="35" rx="10" fill="url(#siemGradient)"/>
+    <rect x="0" y="25" width="200" height="10" fill="url(#siemGradient)"/>
+    
+    <!-- Logo Wazuh -->
+    <rect x="70" y="45" width="60" height="35" rx="8" fill="#10b981"/>
+    <text x="100" y="68" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="14" font-weight="bold">WAZUH</text>
+    
+    <text x="100" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">SIEM INTEGRATION</text>
+    
+    <text x="20" y="105" fill="#475569" font-family="Segoe UI, Arial" font-size="10">▸ API Manager</text>
+    <text x="20" y="125" fill="#475569" font-family="Segoe UI, Arial" font-size="10">▸ Indexer Search</text>
+    <text x="20" y="145" fill="#475569" font-family="Segoe UI, Arial" font-size="10">▸ Rule Injection</text>
+    <text x="20" y="165" fill="#475569" font-family="Segoe UI, Arial" font-size="10">▸ IOC Correlation</text>
+  </g>
+  
+  <!-- ==================== TIPOS DE ALERTAS (Derecha Superior) ==================== -->
+  <g transform="translate(970, 100)">
+    <rect x="0" y="0" width="200" height="160" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="200" height="35" rx="10" fill="url(#outputGradient)"/>
+    <rect x="0" y="25" width="200" height="10" fill="url(#outputGradient)"/>
+    <text x="100" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">TIPOS DE ALERTA</text>
+    
+    <rect x="15" y="45" width="12" height="12" rx="2" fill="#64748b"/>
+    <text x="35" y="55" fill="#1e293b" font-family="Segoe UI, Arial" font-size="10">Alert</text>
+    
+    <rect x="15" y="65" width="12" height="12" rx="2" fill="#3b82f6"/>
+    <text x="35" y="75" fill="#1e293b" font-family="Segoe UI, Arial" font-size="10">NVD Alert</text>
+    
+    <rect x="15" y="85" width="12" height="12" rx="2" fill="#f59e0b"/>
+    <text x="35" y="95" fill="#1e293b" font-family="Segoe UI, Arial" font-size="10">Threat Advisory</text>
+    
+    <rect x="15" y="105" width="12" height="12" rx="2" fill="#dc2626"/>
+    <text x="35" y="115" fill="#1e293b" font-family="Segoe UI, Arial" font-size="10">Threat Anticipation</text>
+    
+    <rect x="15" y="125" width="12" height="12" rx="2" fill="#10b981"/>
+    <text x="35" y="135" fill="#1e293b" font-family="Segoe UI, Arial" font-size="10">Hunting Rule Added</text>
+  </g>
+  
+  <!-- ==================== OUTPUT / NOTIFICACIONES (Derecha Inferior) ==================== -->
+  <g transform="translate(970, 480)">
+    <rect x="0" y="0" width="200" height="150" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="200" height="35" rx="10" fill="#be123c"/>
+    <rect x="0" y="25" width="200" height="10" fill="#be123c"/>
+    <text x="100" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">NOTIFICACIONES</text>
+    
+    <!-- Email icon -->
+    <rect x="75" y="45" width="50" height="35" rx="5" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1"/>
+    <path d="M80 50 L100 65 L120 50" stroke="#64748b" stroke-width="2" fill="none"/>
+    
+    <text x="100" y="100" text-anchor="middle" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Email Advisories</text>
+    <text x="100" y="115" text-anchor="middle" fill="#475569" font-family="Segoe UI, Arial" font-size="10">+ Excel IOC Attachment</text>
+    <text x="100" y="130" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Arial" font-size="9">(IPs, URLs, Domains, Hashes)</text>
+  </g>
+  
+  <!-- ==================== ESTADO DEL SISTEMA (Panel Derecho) ==================== -->
+  <g transform="translate(1200, 100)">
+    <rect x="0" y="0" width="170" height="200" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="170" height="35" rx="10" fill="#1e40af"/>
+    <rect x="0" y="25" width="170" height="10" fill="#1e40af"/>
+    <text x="85" y="23" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="11" font-weight="bold">ESTADO DEL SISTEMA</text>
+    
+    <circle cx="25" cy="60" r="8" fill="#10b981"/>
+    <text x="40" y="55" fill="#475569" font-family="Segoe UI, Arial" font-size="10">IOCs Activos</text>
+    <text x="150" y="55" text-anchor="end" fill="#10b981" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">135,847</text>
+    
+    <circle cx="25" cy="90" r="8" fill="#3b82f6"/>
+    <text x="40" y="85" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Fuentes de Datos</text>
+    <text x="150" y="85" text-anchor="end" fill="#3b82f6" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">13</text>
+    
+    <circle cx="25" cy="120" r="8" fill="#f59e0b"/>
+    <text x="40" y="115" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Alertas Pendientes</text>
+    <text x="150" y="115" text-anchor="end" fill="#f59e0b" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">24</text>
+    
+    <circle cx="25" cy="150" r="8" fill="#ef4444"/>
+    <text x="40" y="145" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Críticos</text>
+    <text x="150" y="145" text-anchor="end" fill="#ef4444" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">3</text>
+    
+    <circle cx="25" cy="180" r="8" fill="#10b981"/>
+    <text x="40" y="175" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Wazuh Rules</text>
+    <text x="150" y="175" text-anchor="end" fill="#10b981" font-family="Segoe UI, Arial" font-size="12" font-weight="bold">156</text>
+  </g>
+  
+  <!-- ==================== FLUJO DE TRIGGERS (Inferior Central) ==================== -->
+  <g transform="translate(500, 620)">
+    <rect x="0" y="0" width="400" height="120" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="0" y="0" width="400" height="30" rx="10" fill="#581c87"/>
+    <rect x="0" y="20" width="400" height="10" fill="#581c87"/>
+    <text x="200" y="20" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="11" font-weight="bold">TRIGGERS DE DETECCIÓN</text>
+    
+    <rect x="15" y="40" width="110" height="30" rx="5" fill="#dc2626"/>
+    <text x="70" y="60" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="9">KEV Addition</text>
+    
+    <rect x="135" y="40" width="110" height="30" rx="5" fill="#f59e0b"/>
+    <text x="190" y="60" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="9">IOC Detection</text>
+    
+    <rect x="255" y="40" width="130" height="30" rx="5" fill="#7c3aed"/>
+    <text x="320" y="60" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="9">Campaign Detection</text>
+    
+    <rect x="15" y="80" width="110" height="30" rx="5" fill="#ef4444"/>
+    <text x="70" y="100" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="9">Zero-Day (EPSS)</text>
+    
+    <rect x="135" y="80" width="110" height="30" rx="5" fill="#10b981"/>
+    <text x="190" y="100" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="9">SIEM Correlation</text>
+    
+    <rect x="255" y="80" width="130" height="30" rx="5" fill="#06b6d4"/>
+    <text x="320" y="100" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial" font-size="9">APT Campaign</text>
+  </g>
+  
+  <!-- ==================== CONEXIONES / FLUJOS ==================== -->
+  <!-- De Fuentes Primarias al Core -->
+  <path d="M230 170 Q350 170 490 380" stroke="#dc2626" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowRed)" opacity="0.8"/>
+  
+  <!-- De Enriquecimiento al Core -->
+  <path d="M450 170 Q480 250 500 350" stroke="#7c3aed" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowPurple)" opacity="0.8"/>
+  
+  <!-- De Phishing al Core -->
+  <path d="M230 340 L490 400" stroke="#f59e0b" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowOrange)" opacity="0.8"/>
+  
+  <!-- De Malware al Core -->
+  <path d="M230 510 Q350 480 490 450" stroke="#ef4444" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowRed)" opacity="0.8"/>
+  
+  <!-- De APT al Core -->
+  <path d="M450 650 Q480 600 600 580" stroke="#06b6d4" stroke-width="2" fill="none" stroke-dasharray="5,5" marker-end="url(#arrowCyan)" opacity="0.8"/>
+  
+  <!-- Del Core a Wazuh -->
+  <path d="M900 400 L960 380" stroke="#10b981" stroke-width="3" fill="none" marker-end="url(#arrowGreen)"/>
+  <path d="M960 420 L900 440" stroke="#0891b2" stroke-width="2" fill="none" stroke-dasharray="3,3"/>
+  
+  <!-- Del Core a Alertas -->
+  <path d="M900 350 Q940 250 970 200" stroke="#3b82f6" stroke-width="2" fill="none" marker-end="url(#arrowBlue)" opacity="0.8"/>
+  
+  <!-- Del Core a Notificaciones -->
+  <path d="M900 470 L960 530" stroke="#be123c" stroke-width="2" fill="none" marker-end="url(#arrowRed)" opacity="0.8"/>
+  
+  <!-- De Triggers al Core -->
+  <path d="M700 620 L700 590" stroke="#581c87" stroke-width="2" fill="none" stroke-dasharray="4,4"/>
+  
+  <!-- ==================== LEYENDA ==================== -->
+  <g transform="translate(1200, 340)">
+    <rect x="0" y="0" width="170" height="130" rx="10" fill="#ffffff" filter="url(#shadowCard)" stroke="#e2e8f0" stroke-width="1"/>
+    <text x="85" y="25" text-anchor="middle" fill="#1e293b" font-family="Segoe UI, Arial" font-size="11" font-weight="bold">LEYENDA</text>
+    
+    <line x1="15" y1="50" x2="55" y2="50" stroke="#7c3aed" stroke-width="2" stroke-dasharray="5,5"/>
+    <text x="65" y="54" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Ingesta de Datos</text>
+    
+    <line x1="15" y1="75" x2="55" y2="75" stroke="#10b981" stroke-width="3"/>
+    <text x="65" y="79" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Correlación SIEM</text>
+    
+    <line x1="15" y1="100" x2="55" y2="100" stroke="#be123c" stroke-width="2"/>
+    <text x="65" y="104" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Salida / Alertas</text>
+    
+    <circle cx="35" cy="120" r="6" fill="#10b981"/>
+    <text x="65" y="124" fill="#475569" font-family="Segoe UI, Arial" font-size="10">Fuente Activa</text>
+  </g>
+  
+  <!-- ==================== FOOTER ==================== -->
+  <rect x="0" y="860" width="1400" height="40" fill="#f8fafc"/>
+  <line x1="0" y1="860" x2="1400" y2="860" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="700" y="885" text-anchor="middle" fill="#64748b" font-family="Segoe UI, Arial" font-size="12">TI Hub v2.5.4 | Threat Intelligence Platform | © 2025</text>
+  
+</svg>
