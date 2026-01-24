@@ -175,7 +175,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 <div class="col_full" style="text-align:justify">
 <p>We are continually seeking new technologies and provide our customers proposals innnovadoras in Architecture Information Services , as well as in the different solutions we develop in- house , in order to create an efficient and safe environment for your organization.</p>
-<p>We invite you to explore our solutions catalog and let us get their orders through our sales department mail <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a></span> or using our <a href="contacto-EN.php">online contact form</a></p>
+<p>We invite you to explore our solutions catalog and let us get their orders through our sales department mail <a href="mailto:ventas@postech.us">ventas@postech.us</a></span> or using our <a href="contacto-EN.php">online contact form</a></p>
 </div>
 
 

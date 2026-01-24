@@ -188,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="col_full" style="text-align:justify">
 <p>Estamos en continua busqueda de nuevas tecnologías de punta y brindamos a nuestros clientes propuestas innnovadoras en la Arquitectura de Servicios de Información, asi como en las diferentes soluciones que desarrollamos in-house, con el fin de crear un entorno eficiente y seguro para su organización.</p>
-<p>Le invitamos a explorar nuestro catalogo de soluciones y permitanos ponernos a sus órdenes atraves de nuestro departamento de ventas al correo <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a></span> ó usando nuestra <a href="contacto.php">forma de contacto en línea</a></p>
+<p>Le invitamos a explorar nuestro catalogo de soluciones y permitanos ponernos a sus órdenes atraves de nuestro departamento de ventas al correo <a href="mailto:ventas@postech.us">ventas@postech.us</a></span> ó usando nuestra <a href="contacto.php">forma de contacto en línea</a></p>
 </div>
 
 

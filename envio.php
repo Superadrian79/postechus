@@ -6,7 +6,7 @@ include("mandaemail.inc");
 if ( isset($_POST['direccionenvio']) && isset($_POST['paginaconfirmacion']) ) {
     $mailTo = $_POST['direccionenvio'];
     $mailFrom = $_POST['email'];
-    $mailSubject = "Formulario de contacto postech.com.mx";
+    $mailSubject = "Formulario de contacto postech.us";
     $now = date('d-m-Y');
     $empresa = $_POST['empresa'];
 	$telefono = $_POST['telefono'];
@@ -52,7 +52,7 @@ $bodycorreo=
           <td bgcolor=\"#000000\" align=\"center\">&nbsp;</td>
         </tr>
         <tr>
-          <td bgcolor=\"#1f2532\" align=\"center\"><font face=\"Verdana, Geneva, sans-serif\" color=\"#ffd200\"><h3>TELÉFONO</h3></font></td>
+          <td bgcolor=\"#1f2532\" align=\"center\"><font face=\"Verdana, Geneva, sans-serif\" color=\"#ffd200\"><h3>TELï¿½FONO</h3></font></td>
         </tr>
         <tr>
           <td bgcolor=\"#000000\" align=\"center\"><font face=\"Verdana, Geneva, sans-serif\" color=\"#f4f4f4\">".$_POST['telefono']."</font></td>
@@ -100,11 +100,11 @@ EOT;
 
     MandaEmail($mailTo,$mailFrom,$mailSubject,$mailBody,$mailFormat);	  		  		
     
-    //***MANDA A LA PÁGINA DE CONFIRMACION Y LE PASA LO QUE TRAEN LOS CAMPOS nombre y email
+    //***MANDA A LA Pï¿½GINA DE CONFIRMACION Y LE PASA LO QUE TRAEN LOS CAMPOS nombre y email
     
     Header("Location:". $_POST['paginaconfirmacion'] . "?nombre=" . $_POST['nombre'] . "&email=" . $_POST['email']);
     
-    //*** FIN MANDA A LA PÁGINA DE CONFIRMACION Y LE PASA LO QUE TRAEN LOS CAMPOS nombre y email
+    //*** FIN MANDA A LA Pï¿½GINA DE CONFIRMACION Y LE PASA LO QUE TRAEN LOS CAMPOS nombre y email
 } else {
 
 $head = '<?xml version="1.0" encoding="UTF-8"?>';

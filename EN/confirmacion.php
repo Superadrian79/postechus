@@ -118,7 +118,7 @@
 								<div class="top-cart-items">
 									<div class="top-cart-item clearfix">
 										<div class="top-cart-item-image">
-											<a href="http://postech.com.mx/pm" target="_blank"><img src="images/correo.jpg" alt="." /></a>
+											<a href="http://postech.us/pm" target="_blank"><img src="images/correo.jpg" alt="." /></a>
 										</div>
 										<div style="padding-top:10px;">
 											Email
@@ -126,7 +126,7 @@
 									</div>
 									<div class="top-cart-item clearfix">
 										<div class="top-cart-item-image">
-											<a href="http://postech.com.mx/soporte" target="_blank"><img src="images/support.jpg" alt="." /></a>
+											<a href="http://postech.us/soporte" target="_blank"><img src="images/support.jpg" alt="." /></a>
 										</div>
 										<div style="padding-top:10px;">
 											Soporte en Línea
@@ -229,7 +229,7 @@
 					  </div>
 
 						<div class="clear"></div>
-                        <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> <span class="middot">&middot;</span> <i class="icon-headphones"></i> (+52) 4125 0121 
+                        <a href="mailto:ventas@postech.us">ventas@postech.us</a> <span class="middot">&middot;</span> <i class="icon-headphones"></i> (+52) 4125 0121 
 					</div>
 
 				</div>

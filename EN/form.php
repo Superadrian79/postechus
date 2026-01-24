@@ -110,7 +110,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
     	echo '<div class="centrado-porcentual design" style="border-bottom: 1px solid #FFF; border-top: 1px solid #FFF;">';
     	echo '<h1 style="text-align:center;font-family: verdana;">ERROR 404</h1>';
     	echo '<p style="text-align:center;font-family: verdana;"> <b>La página a la cual desea acceder no existe </b></p>';
-    	echo '<p style="text-align:center;font-family: verdana; font-size: 12px; padding-left: 20%; padding-right: 20%;">Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.com.mx" style="color: #337ab7">ventas@postech.com.mx</a> ó usando nuestra forma de <a href="http://www.postech.com.mx/Postech/ES/contacto.php" style="color: #337ab7">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p>';
+    	echo '<p style="text-align:center;font-family: verdana; font-size: 12px; padding-left: 20%; padding-right: 20%;">Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.us" style="color: #337ab7">ventas@postech.us</a> ó usando nuestra forma de <a href="http://www.postech.us/Postech/ES/contacto.php" style="color: #337ab7">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p>';
     	echo '</div>';
     }
 ?>
@@ -155,7 +155,7 @@ $cabeceras  = 'MIME-Version: 1.0' . "\r\n";
 $cabeceras .= 'Content-type: text/html; charset=utf-8' . "\r\n";
 
 // Cabeceras adicionales
-$cabeceras .= 'To: Postech <ventas@postech.com.mx>' . "\r\n";
+$cabeceras .= 'To: Postech <ventas@postech.us>' . "\r\n";
 $cabeceras .= 'From: '.$Nombre.' <'.$_POST['email'].'>' . "\r\n";
 
 	
@@ -210,7 +210,7 @@ $mensaje = "<center><h4>Enviado desde: ${_SERVER['SERVER_NAME']}${_SERVER['PHP_S
           <td bgcolor=\"#a4b2c9\">&nbsp;</td>
         </tr>
         <tr>
-          <td><img src=\"http://www.postech.us/images/mensaje_postech2.jpg\" width=\"700\" height=\"72\" alt=\"http://www.postech.com.mx/\" /></td>
+          <td><img src=\"http://www.postech.us/images/mensaje_postech2.jpg\" width=\"700\" height=\"72\" alt=\"http://www.postech.us/\" /></td>
         </tr>
       </table></td>
     </tr>

@@ -106,7 +106,7 @@ class navbar {
 								<div class="top-cart-items">
 									<div class="top-cart-item clearfix">
 										<div class="top-cart-item-image">
-											<a href="http://postech.com.mx/webmail/" target="_blank"><img src="../images/correo.jpg" alt="." /></a>
+											<a href="http://postech.us/webmail/" target="_blank"><img src="../images/correo.jpg" alt="." /></a>
 										</div>
 										<div style="padding-top:10px;">
 											'.$this->lang->access_email.'
@@ -115,7 +115,7 @@ class navbar {
 
 									<div class="top-cart-item clearfix">
 										<div class="top-cart-item-image">
-											<a href="https://pm.postech.com.mx/feng/index.php" target="_blank"><img src="../images/pm.jpg" alt="." /></a>
+											<a href="https://pm.postech.us/feng/index.php" target="_blank"><img src="../images/pm.jpg" alt="." /></a>
 										</div>
 										<div style="padding-top:10px;">
 											'.$this->lang->access_pm.'
@@ -124,7 +124,7 @@ class navbar {
 
 									<div class="top-cart-item clearfix">
 										<div class="top-cart-item-image">
-											<a href="http://postech.com.mx/soporte" target="_blank"><img src="../images/support.jpg" alt="." /></a>
+											<a href="http://postech.us/soporte" target="_blank"><img src="../images/support.jpg" alt="." /></a>
 										</div>
 										<div style="padding-top:10px;">
 											'.$this->lang->access_support.'

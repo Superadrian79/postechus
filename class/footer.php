@@ -37,7 +37,7 @@ class footer {
 
 					<div class="col_half col_last tright">
 						<div class="fright clearfix">
-						 <a href="mailto:ventas@postech.com.mx">'.$this->lang->mail.'</a>
+						 <a href="mailto:ventas@postech.us">'.$this->lang->mail.'</a>
 					  </div>
 
 						<div class="clear"></div>

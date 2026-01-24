@@ -81,9 +81,9 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 					<div class="clear"></div>
 <!-- -->
 
-<P> <b class="blue"> Terms and Conditions of Website Use www.postech.com.mx </b> </p>
+<P> <b class="blue"> Terms and Conditions of Website Use www.postech.us </b> </p>
  
-<P> The following terms and conditions ( "Terms and Conditions") govern the use you give to this website and any of the content available on or through this website, including any content derivative thereof (the " http://postech.com.mx/ "). IT Solution Provider Postech S.A. de C.V. ( "PostecH Cyber Security Solutions SA de C.V. .." or "we") has made available the Website. We may change the Terms and Conditions from time to time at any time without notice, only publishing the changes on the Website. BY USING THE WEB SITE, YOU ACCEPT AND AGREE TO THESE TERMS AND CONDITIONS WITH REGARD TO YOUR USE OF THE WEB SITE. If you do not agree to these Terms and Conditions, you may not have access to it or use the Website in any other way. </P>
+<P> The following terms and conditions ( "Terms and Conditions") govern the use you give to this website and any of the content available on or through this website, including any content derivative thereof (the " http://postech.us/ "). IT Solution Provider Postech S.A. de C.V. ( "PostecH Cyber Security Solutions SA de C.V. .." or "we") has made available the Website. We may change the Terms and Conditions from time to time at any time without notice, only publishing the changes on the Website. BY USING THE WEB SITE, YOU ACCEPT AND AGREE TO THESE TERMS AND CONDITIONS WITH REGARD TO YOUR USE OF THE WEB SITE. If you do not agree to these Terms and Conditions, you may not have access to it or use the Website in any other way. </P>
 
 <P> 1. Property rights. Between you and PostecH Cyber Security Solutions S.A. de C.V., PostecH Cyber Security Solutions S.A. de C.V. is the sole and exclusive owner of all rights, title and interest in and to the Website, all content (including, for example, audio, photographs, illustrations, graphics, other visual media, videos, copies, texts, software, titles, Shockwave files, etc.), codes, data and materials thereon, the look and feel, design and organization of the website and the compilation of the content, code, data and materials on the Site web, including but not limited to, any copyright, trademark rights, patent rights, database rights, moral rights, sui generis rights and other intellectual property and proprietary rights thereof. Your use of the Website does not give you ownership of any content, code, data or materials you may access on or through the Web site. </P>
  
@@ -155,7 +155,7 @@ A statement by you, made under penalty of perjury, that the above information in
 
 <div class="col_full just">
 
-<p>We invite you to contact our sales department mail <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> or using our form <a href="contacto.php">contact online</a> and so allow us to support you to develop a solution tailored to their needs in information technology and communications.</p>
+<p>We invite you to contact our sales department mail <a href="mailto:ventas@postech.us">ventas@postech.us</a> or using our form <a href="contacto.php">contact online</a> and so allow us to support you to develop a solution tailored to their needs in information technology and communications.</p>
 </div>
 
 <!-- -->
