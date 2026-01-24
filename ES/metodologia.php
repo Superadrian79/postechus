@@ -30,7 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<link rel="stylesheet" href="../css/font-icons.css" type="text/css" />
 	<link rel="stylesheet" href="../css/animate.css" type="text/css" />
 	<link rel="stylesheet" href="../css/magnific-popup.css" type="text/css" />
-
+	<link rel="stylesheet" href="../css/custom26.css" type="text/css" />
 	<link rel="stylesheet" href="../css/responsive.css" type="text/css" />
 
 	<!--[if lt IE 9]>
@@ -84,66 +84,177 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		<section id="content">
 
 			<div class="content-wrap">
-
-				<div class="container clearfix">
-
-					<div class="col_full just">
-
-
-
-
+			<div class="container clearfix">
+					<h1 class="blue center">Metodología de Implementación de Ciberseguridad PostecH</h1>
+					<div style="background-color: #c1c1c1; padding: 15px; text-align: justify;">
+						<p>
+						<b>Visión General</b> Nuestra metodología de implementación está alineada con el marco de referencia NIST Cybersecurity Framework (CSF) y aborda de manera integral las cinco funciones fundamentales de la ciberseguridad: Identificar, Proteger, Detectar, Responder y Recuperar.
+						Este enfoque estructurado garantiza una cobertura completa del ciclo de vida de la seguridad, abarcando todos los vectores críticos de la organización: usuarios, endpoints, red, correo electrónico, aplicaciones y nube.
+						</p>
 					</div>
+					<hr>
+					<img src="../images/metology.jpg" alt="">
+					<br>
+					<br><h3 class="center">Los Tres Pilares Fundamentales</h3>
+					<div class="justify">
+						<p>Toda implementación exitosa de ciberseguridad requiere el equilibrio de tres elementos esenciales:<br>
+						<br><b>Personas - </b> La tecnología más avanzada es ineficaz sin personal capacitado. Desarrollamos las competencias del equipo y fomentamos una cultura de seguridad en toda la organización.
+						<br><b>Procesos - </b> Establecemos procedimientos claros, flujos de trabajo definidos y políticas que aseguran consistencia y eficiencia en la operación de seguridad.
+						<br><b>Tecnología —</b> Implementamos las herramientas adecuadas para cada necesidad, integradas de manera coherente para maximizar su efectividad.</p>
+					</div>
+
+					<h3 class="blue">Fases de la Metodología</h3>
+
+					<h3>1. IDENTIFICAR — Planeación Estratégica</h3>
+					<span class="blue"> <b>Antes de implementar cualquier tecnología, es fundamental comprender el estado actual y definir el rumbo. Esta fase establece los cimientos de todo el programa de ciberseguridad.</b></span>
+					<div class="justify">
+						<br>
+						<div class="table-container">
+							<table>
+							<thead>
+								<tr>
+								<th>Actividad</th>
+								<th>Descripción</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+								<td>Definir Estrategia de Ciberseguridad</td>
+								<td>Establecemos los objetivos de seguridad alineados con las metas del negocio, identificando activos críticos y definiendo el apetito de riesgo de la organización.</td>
+								</tr>
+								<tr>
+								<td>Definir Roadmap de Ciberseguridad</td>
+								<td>Desarrollamos un plan de implementación por fases con prioridades claras, tiempos estimados y entregables medibles.</td>
+								</tr>
+								<tr>
+								<td>Identificar Gaps de Tecnología Cyber</td>
+								<td>Realizamos un análisis de brechas comparando las capacidades actuales contra las mejores prácticas y requisitos regulatorios aplicables.</td>
+								</tr>
+								<tr>
+								<td>Análisis de Vulnerabilidades &amp; Pen-Testing</td>
+								<td>Evaluamos la postura de seguridad mediante escaneos de vulnerabilidades y pruebas de penetración que simulan ataques reales.</td>
+								</tr>
+							</tbody>
+							</table>
+						</div>
+						<br>
+					</div>
+
+					<h3>2. PROTEGER — Implementación y Gestión Tecnológica</h3>
+					<span class="blue"><b>Con el diagnóstico completo, implementamos las capas de protección necesarias para reducir la superficie de ataque y fortalecer las defensas perimetrales e internas.</b></span>
+					<div class="justify">
+						<div class="table-container">
+							<table>
+							<thead>
+								<tr>
+								<th>Tecnología</th>
+								<th>Función</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+								<td>Firewall</td>
+								<td>Control de tráfico de red y segmentación</td>
+								</tr>
+								<tr>
+								<td>Antimalware</td>
+								<td>Protección contra software malicioso en endpoints</td>
+								</tr>
+								<tr>
+								<td>DLP</td>
+								<td>Prevención de fuga de datos sensibles</td>
+								</tr>
+								<tr>
+								<td>DC (Data Classification)</td>
+								<td>Clasificación y etiquetado de información</td>
+								</tr>
+								<tr>
+								<td>NAC</td>
+								<td>Control de acceso a la red basado en políticas</td>
+								</tr>
+								<tr>
+								<td>IPS/IDS</td>
+								<td>Detección y prevención de intrusiones</td>
+								</tr>
+								<tr>
+								<td>Seguridad Web</td>
+								<td>Filtrado de contenido y protección de navegación</td>
+								</tr>
+								<tr>
+								<td>DAM</td>
+								<td>Monitoreo de actividad en bases de datos</td>
+								</tr>
+								<tr>
+								<td>ATP</td>
+								<td>Protección avanzada contra amenazas dirigidas</td>
+								</tr>
+								<tr>
+								<td>WAF</td>
+								<td>Firewall de aplicaciones web</td>
+								</tr>
+							</tbody>
+							</table>
+						</div>
+					</div>
+					<br>
+					<h3>3. DETECTAR & RESPONDER — Detección Multi-Vector y Respuesta Completa</h3>
+					<span class="blue"><b>La protección nunca es absoluta. Esta fase establece las capacidades para identificar amenazas que evaden las defensas y responder de manera rápida y efectiva.</b>			</span>
+					<div class="justify">
+						<br>
+						<div class="table-container">
+							<table>
+							<thead>
+								<tr>
+								<th>Capacidad</th>
+								<th>Descripción</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+								<td>Anticipación de Amenazas</td>
+								<td>Inteligencia de amenazas proactiva que identifica riesgos emergentes antes de que impacten a la organización.</td>
+								</tr>
+								<tr>
+								<td>Monitoreo de Seguridad</td>
+								<td>Vigilancia continua 24/7 de eventos de seguridad mediante correlación y análisis en tiempo real.</td>
+								</tr>
+								<tr>
+								<td>Auto Contención</td>
+								<td>Respuesta automatizada que aísla y contiene amenazas sin intervención humana para minimizar el impacto.</td>
+								</tr>
+								<tr>
+								<td>Cacería de Amenazas</td>
+								<td>Búsqueda proactiva de indicadores de compromiso y actividad maliciosa que evade la detección automática.</td>
+								</tr>
+								<tr>
+								<td>Análisis de Incidentes</td>
+								<td>Investigación forense detallada para comprender el alcance, origen y método de los ataques.</td>
+								</tr>
+								<tr>
+								<td>Respuesta Orquestada</td>
+								<td>Playbooks automatizados que coordinan acciones de respuesta a través de múltiples tecnologías.</td>
+								</tr>
+							</tbody>
+							</table>
+						</div>
+					</div>
+
+					<h3></h3>
+					<span class="blue"></span>
+					<div class="justify">
+						<p></p>
+					</div>
+
+					<h3 class="blue">Beneficios del Enfoque Metodológico</h3>
+					<ul>
+						<li><b>Cobertura Integral —</b>Abordamos todos los vectores de ataque y fases del ciclo de amenazas, sin dejar puntos ciegos.</li>
+						<li><b>Alineación con Estándares —</b>Cumplimiento nativo con NIST CSF, ISO 27001, y marcos regulatorios sectoriales.</li>
+						<li><b>Escalabilidad —</b>La metodología se adapta a organizaciones de cualquier tamaño, desde PyMEs hasta grandes corporativos.</li>
+						<li><b>Medición de Madurez —</b>Permite evaluar el progreso y demostrar mejoras tangibles en la postura de seguridad.				</li>
+						<li><b>Optimización de Inversión —</b>Prioriza las iniciativas de mayor impacto según el perfil de riesgo específico de cada organización.</li>
+					</ul>
 			
-					<div class="clear"></div>
-<!-- -->
-
-<p class="blue"><b>Mejores Prácticas y Metodologia de Implementación</b></p>
-
-<p style="text-align: justify;">Es el conjunto de procesos, procedimientos, guías y políticas que dirigen la manera en cómo se soporta la operación en TI. Este modelo se desarrolla bajo la filosofía de que los procesos deben estar alineados a las mejores prácticas, en este caso los utilizados son PMI, SCRUM y CMMI.</p>
-
-
-
-
-<p class="blue"><b>PMI</b></p>
-
-<p style="text-align: justify;">El <b>Project Management Institute (PMI)</b> es una organización nacional sin fines de lucro que asocia a profesionales relacionados con la Gestión de Proyectos. El PMI define el proyecto como un emprendimiento temporal que se lleva a cabo para crear un producto o servicio. Es un proceso, con una duración determinada y un fin concreto, compuesto por actividades y tareas diferentes, que puede ser elaborado de manera gradual. Todo proyecto necesita ser dirigido o gestionado por un director de proyectos. La dirección de proyectos sería la aplicación de conocimientos, habilidades, herramientas y técnicas a las actividades que componen los proyectos, con el fin de satisfacer los requisitos del mismo. Según el PMI, la dirección de proyectos se logra mediante la ejecución de procesos, usando conocimientos, habilidades, herramientas y técnicas de dirección. </p>
-
-<center><p><img class="img-responsive" src="../images/met2.gif" alt="Diagrama de Implementación IT"></p></center>
-
-<p class="blue"><b>SCRUM</b></p>
-
-<p style="text-align: justify;">Scrum es el nombre con el que se denomina a los marcos de desarrollo ágiles caracterizados por:</p>
-<ul>
-	<li>Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.</li>
-	<li>Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados.</li>
-	<li>Solapamiento de las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada.</li>
-</ul>
-
-<center><p><img class="img-responsive" src="../images/met2.gif" alt="Diagrama de Implementación IT"></p></center>
-
-<p class="blue"><b>CMMI</b></p>
-
-<p style="text-align: justify;">Integración de modelos de madurez de capacidades o Capability Maturity Model Integration (CMMI) es un modelo para la mejora y evaluación de procesos para el desarrollo, mantenimiento y operación de sistemas de software.</p>
-
-<center><p><img class="img-responsive" src="../images/met2.gif" alt="Diagrama de Implementación IT"></p></center>
-
-
-
-<p>Nuestra metodología apegada a mejores prácticas está compuesta por las siguientes fases:</p>
-<center><p><img class="img-responsive" src="../images/met.jpg" alt="Diagrama de Implementación IT"></p></center>
-
-<br><br>
-
-<!-- -->
-
-
-<div class="col_full just">
-
-<p>Le invitamos a que se ponga en contacto con nuestro departamento de ventas al correo <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> ó usando nuestra forma de <a href="contacto.php">contacto en línea</a> y así permitirnos apoyarle a desarrollar una solución a la medida de sus necesidades en tecnologías de la información y comunicaciones.</p></div>
-
-<!-- -->
-				  <div class="clear"></div>
-
+				
 				</div>
 
 			</div>
