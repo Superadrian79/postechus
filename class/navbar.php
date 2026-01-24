@@ -48,7 +48,6 @@ class navbar {
 									<li><a href="assurance.php"><div><i class="icon-line-columns"></i>'.$this->lang->security_assurance.'</div></a></li>
 									<li><a href="pentest.php"><div><i class="icon-align-justify2"></i>'.$this->lang->security_pentest.'</div></a></li>
 									<li><a href="vulnerability.php"><div><i class="icon-ok-sign"></i>'.$this->lang->security_vulnerability.'</div></a></li>
-									<li><a href="SGA.php"><div><i class="icon-th"></i>'.$this->lang->security_sga.'</div></a></li>
 								</ul>
 							</li>
                             
@@ -57,31 +56,30 @@ class navbar {
 									<li><a href="monitoreo.php"><div><i class="icon-th"></i>'.$this->lang->solutions_itinsight.'</div></a></li>
 									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href="public.php"><div><i class="icon-line-columns"></i>'.$this->lang->social_osint.'</div></a></li>
-									<li><a href="reconstruction.php"><div><i class="icon-time"></i>'.$this->lang->solutions_reconstruction.'</div></a></li>
 									<li><a href="big.php"><div><i class="icon-user"></i>'.$this->lang->solutions_big.'</div></a></li>
 									<li><a href="domainwhois.php"><div><i class="icon-stack"></i>'.$this->lang->solutions_domains.'</div></a></li>
 									<li><a href="metodologia.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_methodology.'</div></a></li>
 									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
 									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cognitus.'</div></a></li>
 									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_technology.'</div></a></li>
-									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_hub.'</div></a></li>
 								</ul>
 
 								<li><a href="#"><div><i class="icon-line-monitor"></i>'.$this->lang->technologies.'</div></a><ul>
-									<li><a href=""><div><i class="icon-cogs"></i>'.$this->lang->ncsm.'</div></a></li>
+									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
+									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href=""><div><i class="icon-tasks"></i>'.$this->lang->sga_security_gateway.'</div></a></li>
 									<li><a href=""><div><i class="icon-external-link"></i>'.$this->lang->it_insight.'</div></a></li>
+									<li><a href=""><div><i class="icon-connection-25"></i>'.$this->lang->tunich_ai.'</div></a></li>
 									<li><a href=""><div><i class="icon-line-lock"></i>'.$this->lang->edr.'</div></a></li>
 									<li><a href=""><div><i class="icon-line-disc"></i>'.$this->lang->mdm.'</div></a></li>
 									<li><a href=""><div><i class="icon-line-eye"></i>'.$this->lang->siem.'</div></a></li>
 									<li><a href=""><div><i class="icon-eye-open"></i>'.$this->lang->siem_compliance.'</div></a></li>
-									<li><a href=""><div><i class="icon-connection-25"></i>'.$this->lang->tunich_ai.'</div></a></li>
 									<li><a href=""><div><i class="icon-lock"></i>'.$this->lang->soar.'</div></a></li>
 									<li><a href=""><div><i class="icon-wrench"></i>'.$this->lang->honeypot.'</div></a></li>
-									<li><a href=""><div><i class="icon-data"></i>'.$this->lang->cth.'</div></a></li>
 								</ul>
                             
-							<li><a href="https://kb.postech.us/"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
+							<li><a href="#"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
+									<li><a href="https://kb.postech.us"><div><i class="icon-stack"></i>'.$this->lang->training_kb.'</div></a></li>
 									<li><a href="incident.php"><div><i class="icon-stack"></i>'.$this->lang->training_incident.'</div></a></li>
 					                <li><a href="tecnicas.php"><div><i class="icon-umbrella"></i>'.$this->lang->training_techniques.'</div></a></li>
 									<li><a href="fundamentos.php"><div><i class="icon-line-layout"></i>'.$this->lang->training_pci.'</div></a></li>

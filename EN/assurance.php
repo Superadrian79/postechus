@@ -52,7 +52,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>assurance &amp; hardening</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions S.A de C.V.</span>
 				<ol class="breadcrumb">
 					<li><a href="seguridad.php">Security IT</a></li>
 					<li class="active">Assurance & Hardening</li>
@@ -130,7 +130,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 <div class="col_full just">
 
-<p>We invite you to contact our sales department mail <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> or using our form <a href="http://localhost/Postech%20Corp/contacto.php">contact online</a> and so allow us to support you to develop a solution tailored to their needs in information technology and communications.</p>
+<p>We invite you to contact our sales department mail <a href="mailto:ventas@postech.us">ventas@postech.us</a> or using our form <a href="http://localhost/Postech%20Corp/contacto.php">contact online</a> and so allow us to support you to develop a solution tailored to their needs in information technology and communications.</p>
 </div>
 
 <!-- -->

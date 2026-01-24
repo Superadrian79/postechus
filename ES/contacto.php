@@ -7,7 +7,7 @@
 	<meta name="robots" content="all" /><meta name="googlebot" content="index, follow" />
   	<meta name="description" content="Nuestro staff está capacitado para responder todas las dudas y sugerencias que tenga sobre su proyecto. Acerquese a nosotros!">
   	<meta name="keywords" content="información, contacto, local, localizar, cliente, correo, enviar">
-  	<meta name="author" content="Postech IT Solutions Provider">	
+  	<meta name="author" content="PostecH Cyber Security Solutions">	
 	<meta name="viewport" content="width=device-width, initial-scale=1" />	 	
 	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico" />
 
@@ -34,7 +34,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Postech: Contacto</title>
+	<title>PostecH Cyber Security Solutions</title>
 
 </head>
 
@@ -65,7 +65,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>Contacto</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions S.A de C.V.</span>
 				<ol class="breadcrumb">
 					<li><a href="index.php">Home</a></li>
 					<li class="active">Contacto</li>
@@ -104,17 +104,12 @@ $nav=new navbar($path, $lang, $path_array['filename']);
       </div>
     </div>
     
-    <div class="form-group">
-      <label class="control-label col-sm-2" for="local"><span style="color:#F00; font-size:18px;">&#8226;</span> Teléfono Local:</label>
-      <div class="col-sm-10">
-        <input name="local" type="text" class="form-control" id="local" placeholder="Ingrese su Teléfono Local" required>
-      </div>
-    </div>
+    
 
     <div class="form-group">
-      <label class="control-label col-sm-2" for="movil"><span style="color:#F00; font-size:18px;">&#8226;</span> Teléfono Móvil:</label>
+      <label class="control-label col-sm-2" for="movil"><span style="color:#F00; font-size:18px;">&#8226;</span> Teléfono:</label>
       <div class="col-sm-10">
-        <input name="movil" type="text" class="form-control" id="movil" placeholder="Ingrese su Teléfono Móvil" required>
+        <input name="movil" type="text" class="form-control" id="movil" placeholder="Ingrese su Teléfono" required>
       </div>
     </div>
     

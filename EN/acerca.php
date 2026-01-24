@@ -27,7 +27,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>About Postech</title>
+	<title>PostecH Cyber Security Solutions</title>
 
 </head>
 
@@ -52,8 +52,8 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		<section id="page-title" class="page-title-dark">
 
 			<div class="container clearfix">
-				<h1>about us</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<h1>About PostecH</h1>
+				<span>Comprehensive Protection. Actionable Intelligence. Mexican Innovation.</span>
 				<ol class="breadcrumb">
 					<li><a href="index.html">Home</a></li>
 					<li class="active">About Us</li>
@@ -70,7 +70,134 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 				<div class="container clearfix">
 
-					<div class="col_full just">We are a 100% Mexican company , our main activity is the analysis , development and commercialization of high-impact solutions and low cost, specialized in:</div>
+					<div class="col_full just">PostecH is a Mexican company specializing in cybersecurity that develops and commercializes technology solutions designed to transform the way organizations detect, prevent, and respond to digital threats.
+						We offer a complete ecosystem of products ranging from threat intelligence to human factor awareness.
+					</div>
+
+					<h2>Our Philosophy</h2>
+
+					<p>
+						We believe that effective cybersecurity is not just about acquiring tools,
+						but about turning information into action. Every solution we develop is designed
+						with a central principle: <strong>reducing the time between threat detection and effective response</strong>.
+					</p>
+
+					<p>
+						In a landscape where attackers constantly evolve, organizations need more than
+						reactive technology. They need intelligence that anticipates, automation that accelerates,
+						and visibility that empowers their security teams.
+					</p>
+
+					<hr>
+
+					<h2>Our Solutions Portfolio</h2>
+
+					<div style="overflow-x:auto;">
+						<table class="table table-bordered table-striped">
+							<thead>
+								<tr>
+									<th>Solution</th>
+									<th>Description</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><strong>Threat Intel Hub</strong></td>
+									<td>
+										Threat intelligence platform that aggregates, correlates, and operationalizes
+										information from 13+ global sources, generating contextualized alerts and
+										automatic detection rules.
+									</td>
+								</tr>
+								<tr>
+									<td><strong>CTH</strong></td>
+									<td>
+										Cyber Threat Hunter. Platform for CSOC teams delivering MDR
+										(Managed Detection and Response) services that combines AI,
+										threat intelligence, and analysts for 24/7/365 monitoring and response.
+									</td>
+								</tr>
+								<tr>
+									<td><strong>NCSM</strong></td>
+									<td>
+										Network Cyber Security Monitor, an appliance-based solution that provides
+										complete network traffic visibility to detect threats that evade perimeter defenses.
+									</td>
+								</tr>
+								<tr>
+									<td><strong>IT Insight</strong></td>
+									<td>
+										Infrastructure monitoring platform that transforms IT management with
+										automatic discovery, intelligent alerts, and real-time visibility.
+									</td>
+								</tr>
+								<tr>
+									<td><strong>Cognitus</strong></td>
+									<td>
+										Cybersecurity awareness system that turns employees into the first line of
+										defense through continuous threat training.
+									</td>
+								</tr>
+								<tr>
+									<td><strong>Tunich AI</strong></td>
+									<td>
+										SOC assistant powered by Generative Artificial Intelligence that automates
+										triage and enrichment of security tickets, 100% on-premise.
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<hr>
+
+					<h2>What Sets Us Apart</h2>
+
+					<h4>In-House Development</h4>
+					<p>
+						Our solutions are developed internally, allowing us to adapt them to the specific
+						needs of the Latin American market and evolve rapidly in response to new threats.
+					</p>
+
+					<h4>Focus on Actionable Intelligence</h4>
+					<p>
+						We don’t just collect data — we transform it into decisions. Every alert includes
+						the context needed to act: IOCs ready for blocking, MITRE ATT&CK mapping, and
+						mitigation recommendations.
+					</p>
+
+					<h4>Data Sovereignty</h4>
+					<p>
+						We understand compliance and privacy concerns. Our solutions offer on-premise
+						options to keep sensitive data within the client’s infrastructure.
+					</p>
+
+					<h4>International Standards and Framework Compliance</h4>
+					<p>
+						Content, support, and documentation in Spanish. We understand regulatory challenges
+						and design our solutions accordingly.
+					</p>
+
+					<h4>Frictionless Integration</h4>
+					<p>
+						Our products integrate natively with leading market platforms: Wazuh, Splunk,
+						CrowdStrike, Microsoft Sentinel, ServiceNow, and more than 50 additional technologies.
+					</p>
+
+					<hr>
+
+					<h2>Our Commitment</h2>
+
+					<p>
+						At PostecH, we believe that enterprise-grade cybersecurity should not be exclusive
+						to large corporations with unlimited budgets. We work to democratize access to
+						advanced detection, response, and threat intelligence capabilities.
+					</p>
+
+					<p>
+						Our commitment is to continuous innovation, service excellence, and the effective
+						protection of the organizations that trust us.
+					</p>
 			
 					<div class="clear"></div>
 <!-- -->
@@ -224,7 +351,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 <p>Our specialists have certifications in PMI , ITIL , COBIT , CMMI , CISSP , CISM , CEH , Security + , CCNA, VMWARE , Blender , UNIX , etc.</p>
 
-<p>We invite you to contact our sales department mail <a href="mailto:ventas@postech.com.mx">ventas@postech.com.mx</a> or using our form <a href="contacto.php">contact online</a> and so allow us to support you to develop a solution tailored to their needs in information technology and communications.</p></div>
+<p>We invite you to contact our sales department mail <a href="mailto:ventas@postech.us">ventas@postech.us</a> or using our form <a href="contacto.php">contact online</a> and so allow us to support you to develop a solution tailored to their needs in information technology and communications.</p></div>
 
 <!-- -->
 				  <div class="clear"></div>

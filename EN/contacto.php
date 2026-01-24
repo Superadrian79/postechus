@@ -31,7 +31,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Postech IT Solution Provider</title>
+	<title>PostecH Cyber Security Solutions</title>
 
 </head>
 
@@ -57,7 +57,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>Contact</h1>
-				<span>Postech IT Solution Provider S.A de C.V.</span>
+				<span>PostecH Cyber Security Solutions S.A de C.V.</span>
 				<ol class="breadcrumb">
 					<li><a href="index.html">Home</a></li>
 					<li class="active">Contact</li>
@@ -96,18 +96,11 @@ Please add your details in the fields below. Fields marked with red are required
         <input name="cname" type="text" class="form-control" id="cname" placeholder="Enter your name" required>
       </div>
     </div>
-    
-    <div class="form-group">
-      <label class="control-label col-sm-2" for="local"><span style="color:#F00; font-size:18px;">&#8226;</span> Local Phone:</label>
-      <div class="col-sm-10">
-        <input name="local" type="text" class="form-control" id="local" placeholder="Enter your Local Phone" required>
-      </div>
-    </div>
 
     <div class="form-group">
-      <label class="control-label col-sm-2" for="movil"><span style="color:#F00; font-size:18px;">&#8226;</span> Movil Phone:</label>
+      <label class="control-label col-sm-2" for="movil"><span style="color:#F00; font-size:18px;">&#8226;</span>Phone:</label>
       <div class="col-sm-10">
-        <input name="movil" type="text" class="form-control" id="movil" placeholder="Enter your Movil Phone" required>
+        <input name="movil" type="text" class="form-control" id="movil" placeholder="Enter your Phone" required>
       </div>
     </div>
     

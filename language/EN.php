@@ -13,21 +13,18 @@
 		var $security_assurance = 'Assurance & Hardening';
 		var $security_pentest = 'Pentest';
 		var $security_vulnerability = 'Vulnerability Assesment';
-		var $security_sga = 'Security Gateway SGA';
 
 		var $solutions = 'Solutions';
 		var $solutions_cfi = 'CFI';
 		var $solutions_itinsight = 'It Insight';
 		var $solutions_ncsm = 'NCSM';
 		var $social_osint  = 'OSINT';
-		var $solutions_reconstruction = 'Traffic Reconstruction';
 		var $solutions_big = 'Big Data Analytics';
 		var $solutions_domains = 'Domain Check';
 		var $solutions_methodology = 'Methodology';
 		var $solutions_cthmdr = 'CTH MDR';
 		var $solutions_cognitus = 'Cognitus';
-		var $solutions_technology = 'Threat Tecnology';
-		var $solutions_hub = 'Threat Intel HUB';
+		var $solutions_technology = 'Threat Intel HUB';
 
 		var $technologies = 'Technologies';
 		var $sga_security_gateway = 'SGA SECURITY GATEWAY';
@@ -42,7 +39,8 @@
 		var $ncsm = 'NCSM';
 		var $cth = 'CTH';
 
-		var $training = 'Training & KB';
+		var $training = 'Training';
+		var $training_kb = 'KB';
 		var $training_incident = 'Incident Handling';
 		var $training_techniques = 'Techniques and Tools for Vulnerability Assessment';
 		var $training_pci = 'PCI DSS Fundaments';
@@ -58,9 +56,9 @@
 		var $access_support = 'Online Support';
 		var $access_pm = 'Group Office';
 
-		var $copyright = 'Postech IT Solution Provider S.A de C.V. © 2025 All Rights Reserved';
+		var $copyright = 'PostecH Cyber Security Solutions S.A de C.V. © 2025 All Rights Reserved';
 		var $address = 'Montaña 80, Col. Los Pastores, Estado de México, C.P. 53340';
-		var $mail = 'ventas@postech.com.mx';
+		var $mail = 'ventas@postech.us';
 		var $phone = '(+52) 4125 0121';
 		var $terms = 'Terms of Use';
 		var $privacy = 'Privacy Policies';
