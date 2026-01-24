@@ -70,7 +70,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>t&eacute;cnicas para evaluaci&oacute;n de vulnerabilidad</h1>
-				<span>Postech IT Solution Provider</span>
+				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
                 	<li><a href="capacitacion.php">Capacitaci&oacute;n</a></li>
 					<li class="active">Técnicas  y Herramientas</li>

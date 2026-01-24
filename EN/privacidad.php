@@ -56,7 +56,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 			<div class="container clearfix">
 				<h1>PRIVACY POLICIES </h1>
-				<span>Postech IT Solution Provider</span>
+				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
 					<li class="active">Privacy Policies</li>
 				</ol>
@@ -81,9 +81,9 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 					<div class="clear"></div>
 <!-- -->
 
-<p>This Privacy Policy contains the Service Contract held by one hand between IT Solution Provider Postech S.A. de C.V. (Hereinafter referred to as "Postech", and other users of this website and contracting services Postech IT Solution Provider SA de CV below ( "CUSTOMER") When requesting services Postech IT Solution Provider SA CV you declare that you know and accept in full the following Services contract.</p>
+<p>This Privacy Policy contains the Service Contract held by one hand between IT Solution Provider Postech S.A. de C.V. (Hereinafter referred to as "Postech", and other users of this website and contracting services PostecH Cyber Security Solutions SA de CV below ( "CUSTOMER") When requesting services PostecH Cyber Security Solutions SA CV you declare that you know and accept in full the following Services contract.</p>
 
-<p>Postech is committed to the right to privacy of all users of the Web sites Postech IT Solution Provider S.A. de C.V. and in order to keep confidential the information collected from clients on their Web sites developed the Privacy Policy. This Postech personal information collected from customers or users, is maintained and collected when any of the forms filled online at sites Postech and when an email is sent to Postech IT Solution Provider SA de C.V.</p>
+<p>Postech is committed to the right to privacy of all users of the Web sites PostecH Cyber Security Solutions S.A. de C.V. and in order to keep confidential the information collected from clients on their Web sites developed the Privacy Policy. This Postech personal information collected from customers or users, is maintained and collected when any of the forms filled online at sites Postech and when an email is sent to PostecH Cyber Security Solutions SA de C.V.</p>
 
 <p>Personal information provided on the forms of recruitment, contact forms, phone calls, reports HelpDesk, chat rooms, Facebook and Twitter can identify the customer individually and includes the following data:</p>
 
@@ -113,7 +113,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 <p>Postech.com.mx uses cookies to store information to record some values ​​visit to our site and keep statistics that allow us to improve it. Also uses cookies to store the name of the customer or user each time you send a form on the site Postech.com.mx order to greet you by name when you return to visit the site in question.</p>
 
-<p>Postech.com.mx uses information provided by the customer to contact you in response to a request. Postech.com.mx can share the information you have provided to other companies owned by Postech IT Solution Provider S.A. de C.V.</p>
+<p>Postech.com.mx uses information provided by the customer to contact you in response to a request. Postech.com.mx can share the information you have provided to other companies owned by PostecH Cyber Security Solutions S.A. de C.V.</p>
 
 <p>Limiting use and disclosure of information</p>
 
@@ -122,19 +122,19 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 <p>Contact Person Privacy and Data Protection If you have questions regarding the handling of personal data and privacy please contact by mail to:</p>
 
 <img src="../images/arr.png" alt="."> Data Protection Manager<br>
-<img src="../images/arr.png" alt="."> Postech IT Solution Provider<br>
+<img src="../images/arr.png" alt="."> PostecH Cyber Security Solutions<br>
 <img src="../images/arr.png" alt="."> Calle Montaña 80, Col. Los Pastores.<br>
 <img src="../images/arr.png" alt="."> Naucalpan, Estado de M&eacute;xico. C.P. 53340<br><br>
 
 <p>Protection of online privacy of children in Postech.com.mx</p>
 
-<p>IT Solution Provider Postech S.A. de C.V. understands the importance of protecting the privacy of children, especially in an online environment. IT Solution Provider Postech S.A. de C.V. It is not intentionally designed for or directed to persons under 18 years. It is the policy of Postech IT Solution Provider S.A. de C.V. never intentionally collect or maintain information about persons under 18 years of age. Changes to Privacy Policy Postech IT Solution Provider S.A. de C.V. IT Solution Provider Postech S.A. de C.V. It reserves the right to modify or alter this Privacy Policy at any time. Any changes to this Privacy Policy will be preceded by a notice registered sites Postech IT Solution Provider S.A. de C.V. with at least ten days prior to the date of entry into force of the amendment in question.</p>
+<p>IT Solution Provider Postech S.A. de C.V. understands the importance of protecting the privacy of children, especially in an online environment. IT Solution Provider Postech S.A. de C.V. It is not intentionally designed for or directed to persons under 18 years. It is the policy of PostecH Cyber Security Solutions S.A. de C.V. never intentionally collect or maintain information about persons under 18 years of age. Changes to Privacy Policy PostecH Cyber Security Solutions S.A. de C.V. IT Solution Provider Postech S.A. de C.V. It reserves the right to modify or alter this Privacy Policy at any time. Any changes to this Privacy Policy will be preceded by a notice registered sites PostecH Cyber Security Solutions S.A. de C.V. with at least ten days prior to the date of entry into force of the amendment in question.</p>
 
 <p>Upgrade rights, rectification correction and opposition.</p>
 
 <p>The customer can change the information in your profile whenever you want by entering a lso different services offered through the website Postech.com.mx. Similarly, it may oppose Postech have more information and request cancellation of services and deregistration of your personal data.</p>
 
-<p>In case you do not give yourself consent to the transmission of personal data, or in case of doubt regarding the processing of personal data, please report it to contact the Customer Service Center of Postech IT Solution Provider S.A. de C.V. the phone number in the CD. of Mexico  (+52) 4125 0121</p>
+<p>In case you do not give yourself consent to the transmission of personal data, or in case of doubt regarding the processing of personal data, please report it to contact the Customer Service Center of PostecH Cyber Security Solutions S.A. de C.V. the phone number in the CD. of Mexico  (+52) 4125 0121</p>
 
 <!-- -->
 
