@@ -62,22 +62,24 @@ class navbar {
 									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
 									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cognitus.'</div></a></li>
 									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_technology.'</div></a></li>
-									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_hub.'</div></a></li>
 								</ul>
 
 								<li><a href="#"><div><i class="icon-line-monitor"></i>'.$this->lang->technologies.'</div></a><ul>
+									<li><a href="#"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
+									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href=""><div><i class="icon-tasks"></i>'.$this->lang->sga_security_gateway.'</div></a></li>
 									<li><a href=""><div><i class="icon-external-link"></i>'.$this->lang->it_insight.'</div></a></li>
+									<li><a href=""><div><i class="icon-connection-25"></i>'.$this->lang->tunich_ai.'</div></a></li>
 									<li><a href=""><div><i class="icon-line-lock"></i>'.$this->lang->edr.'</div></a></li>
 									<li><a href=""><div><i class="icon-line-disc"></i>'.$this->lang->mdm.'</div></a></li>
 									<li><a href=""><div><i class="icon-line-eye"></i>'.$this->lang->siem.'</div></a></li>
 									<li><a href=""><div><i class="icon-eye-open"></i>'.$this->lang->siem_compliance.'</div></a></li>
-									<li><a href=""><div><i class="icon-connection-25"></i>'.$this->lang->tunich_ai.'</div></a></li>
 									<li><a href=""><div><i class="icon-lock"></i>'.$this->lang->soar.'</div></a></li>
 									<li><a href=""><div><i class="icon-wrench"></i>'.$this->lang->honeypot.'</div></a></li>
 								</ul>
                             
-							<li><a href="https://kb.postech.us/"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
+							<li><a href="#"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
+									<li><a href="https://kb.postech.us"><div><i class="icon-stack"></i>'.$this->lang->training_kb.'</div></a></li>
 									<li><a href="incident.php"><div><i class="icon-stack"></i>'.$this->lang->training_incident.'</div></a></li>
 					                <li><a href="tecnicas.php"><div><i class="icon-umbrella"></i>'.$this->lang->training_techniques.'</div></a></li>
 									<li><a href="fundamentos.php"><div><i class="icon-line-layout"></i>'.$this->lang->training_pci.'</div></a></li>

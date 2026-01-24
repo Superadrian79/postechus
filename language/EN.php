@@ -24,8 +24,7 @@
 		var $solutions_methodology = 'Methodology';
 		var $solutions_cthmdr = 'CTH MDR';
 		var $solutions_cognitus = 'Cognitus';
-		var $solutions_technology = 'Threat Tecnology';
-		var $solutions_hub = 'Threat Intel HUB';
+		var $solutions_technology = 'Threat Intel HUB';
 
 		var $technologies = 'Technologies';
 		var $sga_security_gateway = 'SGA SECURITY GATEWAY';
@@ -40,7 +39,8 @@
 		var $ncsm = 'NCSM';
 		var $cth = 'CTH';
 
-		var $training = 'Training & KB';
+		var $training = 'Training';
+		var $training_kb = 'KB';
 		var $training_incident = 'Incident Handling';
 		var $training_techniques = 'Techniques and Tools for Vulnerability Assessment';
 		var $training_pci = 'PCI DSS Fundaments';
