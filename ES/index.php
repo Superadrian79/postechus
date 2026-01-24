@@ -209,12 +209,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 					<div class="col_one_third nobottommargin">
 						<div class="feature-box media-box">
-							<div class="fbox-media"> <a href="monitoreo.php"><img src="../images/imga02.jpg" alt="Monitoreo"></a>
+							<div class="fbox-media"> <a href="it_insight.php"><img src="../images/imga02.jpg" alt="Monitoreo"></a>
 							</div>
 							<div class="fbox-desc">
 								<h3>IT – INSIGHT ®<span class="subtitle">Solución integral de monitoreo de infraestructura, equipos y servicios.</span></h3>
 								<p style="text-align:justify">Su inversión en infraestructura representa un activo vital de la empresa y de la continuidad del negocio, el mantener esas aplicaciones y servicios en línea y disponibles representa cada día más ...</p>
-                                <p style="text-align:right"><a href="monitoreo.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+                                <p style="text-align:right"><a href="it_insight.php"><b>Leer más</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
 							</div>
 						</div>
 					</div>
