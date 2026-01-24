@@ -184,12 +184,12 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 	<div class="col_one_third nobottommargin">
 						<div class="feature-box media-box">
-							<div class="fbox-media"> <a href="data.php"><img src="../images/imga01.jpg" alt="Data Mining"></a>
+							<div class="fbox-media"> <a href="cth.php"><img src="../images/imga01.jpg" alt="Data Mining"></a>
 							</div>
 							<div class="fbox-desc">
-								<h3 class="blue">ADB CONNECT ®</h3>
-								<p style="text-align:justify">Extract , transform and load (ETL ) is a process that involves extracting data from multiple sources in different formats, the execution of the transformation that meets business needs and ultimately , the load on a target system.</p>
-                                <p style="text-align:right"><a href="data.php"><b>Read more</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+								<h3 class="blue">CTH<span class="subtitle">CYBER THREAT HUNTER</span></h3>
+								<p style="text-align:justify">CTH is a Managed Detection and Response (MDR) platform that combines artificial intelligence, real-time threat intelligence, and a team of expert analisis ...</p>
+                                <p style="text-align:right"><a href="cth.php"><b>Read more</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
 							</div>
 						</div>
 					</div>
@@ -208,12 +208,12 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
 					<div class="col_one_third nobottommargin col_last">
 						<div class="feature-box media-box">
-							<div class="fbox-media"> <a href="perimetral.php"><img src="../images/imga03-EN.jpg" alt="Seguridad Perimetral"></a>
+							<div class="fbox-media"> <a href="ncsm.php"><img src="../images/imga03.jpg" alt="NCSM"></a>
 							</div>
 							<div class="fbox-desc">
-								<h3>PERIMETRAL SECURITY</h3>
-								<p style="text-align:justify">Internal and external logical security are critical to consider the security of a company is paramount aspects. Network attacks and data loss cause a great disorder and affect the proper functioning and progress of the company.</p>
-                                <p style="text-align:right"><a href="perimetral.php"><b>Read more</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
+								<h3>NCSM</h3>
+								<p style="text-align:justify">NCSM is a Network Detection and Response (NDR) solution that transforms your network infrastructure into an intelligent threat sensor, detecting advanced attacks that evade traditional perimeter defenses.</p>
+                                <p style="text-align:right"><a href="ncsm.php"><b>Read more</b>&nbsp;&nbsp;&nbsp;<i class="icon-external-link"></i></a></p>
 							</div>
 						</div>
 					</div>
