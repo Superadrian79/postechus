@@ -74,7 +74,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 				<h1> Tunich</h1>
 				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
-                	<li><a href="soluciones.php">Tecnologías</a></li>
+                	<li><a href="soluciones.php">Solutions</a></li>
 					<li class="active"> Tunich</li>
 				</ol>
 			</div>
@@ -136,7 +136,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 						<br><h3 class="blue">HOW IT WORKS</h3>
 
 						<div class="center">
-							<img src="../images/tunich/diagrama-tunich.svg" alt="Tunich Diagram">
+							<img src="../images/tunich/diagrama-tunich-ing.svg" alt="Tunich Diagram">
 						</div><br>
 
 						<br><h3 class="blue">INTELLIGENT PROCESSING PIPELINE</h3>
@@ -356,7 +356,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 						</div>
 
 						<div class="center">
-							<img src="../images/tunich/cronograma-tunich.svg" alt="Tunich Cronograma">
+							<img src="../images/tunich/cronograma-tunich-ing.svg" alt="Tunich Cronograma">
 						</div><br>
 
 						<div class="justify">

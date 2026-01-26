@@ -74,7 +74,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 				<h1> EDR</h1>
 				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
-                	<li><a href="soluciones.php">Tecnologías</a></li>
+                	<li><a href="soluciones.php">Solutions</a></li>
 					<li class="active"> EDR</li>
 				</ol>
 			</div>

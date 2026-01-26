@@ -54,7 +54,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 				<h1>methodology</h1>
 				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
-                	<li><a href="soluciones.php">Solutions</a></li>
+                	<li><a href="soluciones.php">Training</a></li>
 					<li class="active">Methodology</li>
 				</ol>
 			</div>
