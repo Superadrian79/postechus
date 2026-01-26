@@ -1,0 +1,321 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" width="1400" height="900">
+  <defs>
+    <!-- Gradientes -->
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1e3a5f"/>
+      <stop offset="100%" style="stop-color:#2d5a87"/>
+    </linearGradient>
+    <linearGradient id="centerGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a202c"/>
+      <stop offset="100%" style="stop-color:#2d3748"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38a169"/>
+      <stop offset="100%" style="stop-color:#48bb78"/>
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#805ad5"/>
+      <stop offset="100%" style="stop-color:#9f7aea"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ed8936"/>
+      <stop offset="100%" style="stop-color:#f6ad55"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e53e3e"/>
+      <stop offset="100%" style="stop-color:#fc8181"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3182ce"/>
+      <stop offset="100%" style="stop-color:#63b3ed"/>
+    </linearGradient>
+    <linearGradient id="tealGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#319795"/>
+      <stop offset="100%" style="stop-color:#4fd1c5"/>
+    </linearGradient>
+    
+    <!-- Sombras -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="2" dy="3" stdDeviation="4" flood-opacity="0.15"/>
+    </filter>
+    <filter id="shadowLight" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+  
+  <!-- Fondo blanco -->
+  <rect width="1400" height="900" fill="#ffffff"/>
+  
+  <!-- Header -->
+  <rect x="0" y="0" width="1400" height="70" fill="url(#headerGrad)"/>
+  <text x="700" y="32" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">Tunich SOC AI Assistant Arquitecture</text>
+  <text x="700" y="54" font-family="Arial, sans-serif" font-size="13" fill="#cbd5e0" text-anchor="middle">Intelligent Analysis and Automated Enrichment Platform of Security Incidents</text>
+  
+  <!-- =============== FUENTES DE INGESTA (Izquierda Superior) =============== -->
+  <g transform="translate(30, 95)">
+    <!-- Header box -->
+    <rect x="0" y="0" width="180" height="32" rx="6" fill="url(#redGrad)" filter="url(#shadowLight)"/>
+    <text x="90" y="21" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">INGESTION SOURCES</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="38" width="180" height="120" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="62" r="8" fill="#e53e3e"/>
+    <text x="42" y="66" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">SIEM </text>
+    <circle cx="25" cy="88" r="8" fill="#ed8936"/>
+    <text x="42" y="92" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">Azure Sentinel</text>
+    <circle cx="25" cy="114" r="8" fill="#38a169"/>
+    <text x="42" y="118" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">Bandeja de Correo</text>
+    <circle cx="25" cy="140" r="8" fill="#3182ce"/>
+    <text x="42" y="144" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">API REST / Webhooks</text>
+    <text x="90" y="160" font-family="Arial, sans-serif" font-size="9" fill="#718096" text-anchor="middle" font-style="italic">Raw Alerts</text>
+  </g>
+  
+  <!-- =============== BASES DE CONOCIMIENTO (Izquierda Medio) =============== -->
+  <g transform="translate(30, 280)">
+    <!-- Header box -->
+    <rect x="0" y="0" width="180" height="32" rx="6" fill="url(#purpleGrad)" filter="url(#shadowLight)"/>
+    <text x="90" y="21" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">KNOWLEDGE BASES</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="38" width="180" height="145" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="62" r="8" fill="#805ad5"/>
+    <text x="42" y="66" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">MITRE ATT&amp;CK</text>
+    <text x="42" y="78" font-family="Arial, sans-serif" font-size="9" fill="#a0aec0">Tactics and Techniques</text>
+    <circle cx="25" cy="100" r="8" fill="#9f7aea"/>
+    <text x="42" y="104" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">NIST CSF 2.0</text>
+    <text x="42" y="116" font-family="Arial, sans-serif" font-size="9" fill="#a0aec0">Controls and Functions</text>
+    <circle cx="25" cy="138" r="8" fill="#b794f4"/>
+    <text x="42" y="142" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">ISO/IEC 27001</text>
+    <text x="42" y="154" font-family="Arial, sans-serif" font-size="9" fill="#a0aec0">Anex "A" - Controls</text>
+    <text x="90" y="175" font-family="Arial, sans-serif" font-size="9" fill="#718096" text-anchor="middle" font-style="italic">Compliance Context</text>
+  </g>
+  
+  <!-- =============== INFRAESTRUCTURA (Izquierda Inferior) =============== -->
+  <g transform="translate(30, 470)">
+    <!-- Header box -->
+    <rect x="0" y="0" width="180" height="32" rx="6" fill="url(#tealGrad)" filter="url(#shadowLight)"/>
+    <text x="90" y="21" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">INFRASTRUCTURE</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="38" width="180" height="120" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="25" cy="62" r="8" fill="#319795"/>
+    <text x="42" y="66" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">Docker Containers</text>
+    <circle cx="25" cy="88" r="8" fill="#38b2ac"/>
+    <text x="42" y="92" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">Ubuntu Server 24</text>
+    <circle cx="25" cy="114" r="8" fill="#4fd1c5"/>
+    <text x="42" y="118" font-family="Arial, sans-serif" font-size="11" fill="#2d3748">NVIDIA GPU</text>
+    <text x="42" y="130" font-family="Arial, sans-serif" font-size="9" fill="#a0aec0">A100 / K80 (24GB VRAM)</text>
+    <text x="90" y="155" font-family="Arial, sans-serif" font-size="9" fill="#718096" text-anchor="middle" font-style="italic">On-Premise</text>
+  </g>
+  
+  <!-- =============== NÚCLEO TUNICH (Centro) =============== -->
+  <g transform="translate(280, 130)">
+    <!-- Caja principal central -->
+    <rect x="0" y="0" width="480" height="420" rx="15" fill="url(#centerGrad)" filter="url(#shadow)"/>
+    
+    <!-- Logo/Título central -->
+    <rect x="165" y="20" width="150" height="80" rx="12" fill="#2c5282"/>
+    <rect x="175" y="30" width="130" height="35" rx="8" fill="#3182ce"/>
+    <text x="240" y="55" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle">TUNICH</text>
+    <text x="240" y="90" font-family="Arial, sans-serif" font-size="10" fill="#e2e8f0" text-anchor="middle">SOC Assistant AI</text>
+    
+    <!-- Subtítulo -->
+    <text x="240" y="125" font-family="Arial, sans-serif" font-size="12" fill="#a0aec0" text-anchor="middle">Intelligent Analysis Engine</text>
+    <text x="240" y="142" font-family="Arial, sans-serif" font-size="11" fill="#718096" text-anchor="middle">LLM + RAG Pipeline</text>
+    
+    <!-- Sección de módulos -->
+    <text x="240" y="175" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#ed8936" text-anchor="middle">PROCESSING PIPELINE</text>
+    
+    <!-- Fila 1 de módulos -->
+    <rect x="25" y="190" width="100" height="35" rx="6" fill="#3182ce"/>
+    <text x="75" y="212" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Inputs</text>
+    
+    <rect x="135" y="190" width="100" height="35" rx="6" fill="#805ad5"/>
+    <text x="185" y="212" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">LLM Analysis</text>
+    
+    <rect x="245" y="190" width="100" height="35" rx="6" fill="#38a169"/>
+    <text x="295" y="212" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">RAG Enrichment</text>
+    
+    <rect x="355" y="190" width="100" height="35" rx="6" fill="#ed8936"/>
+    <text x="405" y="212" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Risk Scoring</text>
+    
+    <!-- Fila 2 de módulos -->
+    <rect x="80" y="240" width="100" height="35" rx="6" fill="#e53e3e"/>
+    <text x="130" y="262" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">IOC Extractor</text>
+    
+    <rect x="190" y="240" width="100" height="35" rx="6" fill="#dd6b20"/>
+    <text x="240" y="262" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">TTP Mapper</text>
+    
+    <rect x="300" y="240" width="100" height="35" rx="6" fill="#319795"/>
+    <text x="350" y="262" font-family="Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">Ticket Builder</text>
+    
+    <!-- Sección de Triggers/Capacidades -->
+    <text x="240" y="305" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#48bb78" text-anchor="middle">ANALYSIS CAPABILITIES</text>
+    
+    <!-- Triggers -->
+    <rect x="25" y="320" width="135" height="30" rx="5" fill="#c53030"/>
+    <text x="92" y="340" font-family="Arial, sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">Phishing Detection</text>
+    
+    <rect x="170" y="320" width="135" height="30" rx="5" fill="#c53030"/>
+    <text x="237" y="340" font-family="Arial, sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">Malware Analysis</text>
+    
+    <rect x="315" y="320" width="140" height="30" rx="5" fill="#c53030"/>
+    <text x="385" y="340" font-family="Arial, sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">Unauthorized Access</text>
+    
+    <rect x="80" y="360" width="135" height="30" rx="5" fill="#b83280"/>
+    <text x="147" y="380" font-family="Arial, sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">MITRE Correlation</text>
+    
+    <rect x="225" y="360" width="135" height="30" rx="5" fill="#b83280"/>
+    <text x="292" y="380" font-family="Arial, sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">NIST/ISO Mapping</text>
+  </g>
+  
+  <!-- =============== TIPOS DE SALIDA (Derecha Superior) =============== -->
+  <g transform="translate(830, 95)">
+    <!-- Header box -->
+    <rect x="0" y="0" width="180" height="32" rx="6" fill="url(#greenGrad)" filter="url(#shadowLight)"/>
+    <text x="90" y="21" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ANALYSIS TYPES</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="38" width="180" height="145" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    <rect x="15" y="52" width="12" height="12" rx="2" fill="#e53e3e"/>
+    <text x="35" y="62" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">Critical Alert</text>
+    <rect x="15" y="72" width="12" height="12" rx="2" fill="#ed8936"/>
+    <text x="35" y="82" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">Threat Advisory</text>
+    <rect x="15" y="92" width="12" height="12" rx="2" fill="#ecc94b"/>
+    <text x="35" y="102" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">Risk Assessment</text>
+    <rect x="15" y="112" width="12" height="12" rx="2" fill="#48bb78"/>
+    <text x="35" y="122" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">IOC Enrichment</text>
+    <rect x="15" y="132" width="12" height="12" rx="2" fill="#4299e1"/>
+    <text x="35" y="142" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">Mitigation Actions</text>
+    <rect x="15" y="152" width="12" height="12" rx="2" fill="#9f7aea"/>
+    <text x="35" y="162" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">Compliance Mapping</text>
+  </g>
+  
+  <!-- =============== ESTADO DEL SISTEMA (Derecha) =============== -->
+  <g transform="translate(1040, 95)">
+    <!-- Header -->
+    <text x="85" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2d3748" text-anchor="middle">SYSTEM STATUS</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="25" width="170" height="150" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    
+    <circle cx="20" cy="50" r="6" fill="#48bb78"/>
+    <text x="35" y="54" font-family="Arial, sans-serif" font-size="10" fill="#4a5568">LLM Status</text>
+    <text x="150" y="54" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#38a169" text-anchor="end">Active</text>
+    
+    <circle cx="20" cy="75" r="6" fill="#48bb78"/>
+    <text x="35" y="79" font-family="Arial, sans-serif" font-size="10" fill="#4a5568">RAG Pipeline</text>
+    <text x="150" y="79" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#38a169" text-anchor="end">Ready</text>
+    
+    <circle cx="20" cy="100" r="6" fill="#4299e1"/>
+    <text x="35" y="104" font-family="Arial, sans-serif" font-size="10" fill="#4a5568">Tickets/Day</text>
+    <text x="150" y="104" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#3182ce" text-anchor="end">~120</text>
+    
+    <circle cx="20" cy="125" r="6" fill="#ed8936"/>
+    <text x="35" y="129" font-family="Arial, sans-serif" font-size="10" fill="#4a5568">LLM Latency</text>
+    <text x="150" y="129" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#dd6b20" text-anchor="end">&lt;3s</text>
+    
+    <circle cx="20" cy="150" r="6" fill="#9f7aea"/>
+    <text x="35" y="154" font-family="Arial, sans-serif" font-size="10" fill="#4a5568">Knowledge Base</text>
+    <text x="150" y="154" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="#805ad5" text-anchor="end">3 Marcos</text>
+  </g>
+  
+  <!-- =============== INTEGRACIÓN TICKETING (Derecha Medio) =============== -->
+  <g transform="translate(830, 280)">
+    <!-- Header box -->
+    <rect x="0" y="0" width="180" height="32" rx="6" fill="url(#greenGrad)" filter="url(#shadowLight)"/>
+    <text x="90" y="21" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">TICKETING SYSTEM</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="38" width="180" height="130" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    
+    <!-- ServiceNow/Jira Logo area -->
+    <rect x="50" y="52" width="80" height="35" rx="6" fill="#2d3748"/>
+    <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ITSM</text>
+    
+    <text x="90" y="105" font-family="Arial, sans-serif" font-size="9" fill="#4a5568" text-anchor="middle">▸ ServiceNow</text>
+    <text x="90" y="120" font-family="Arial, sans-serif" font-size="9" fill="#4a5568" text-anchor="middle">▸ Jira Service Desk</text>
+    <text x="90" y="135" font-family="Arial, sans-serif" font-size="9" fill="#4a5568" text-anchor="middle">▸ API REST Export</text>
+    <text x="90" y="150" font-family="Arial, sans-serif" font-size="9" fill="#4a5568" text-anchor="middle">▸ Ticket Enrichment</text>
+  </g>
+  
+  <!-- =============== NOTIFICACIONES (Derecha Inferior) =============== -->
+  <g transform="translate(830, 450)">
+    <!-- Header box -->
+    <rect x="0" y="0" width="180" height="32" rx="6" fill="url(#orangeGrad)" filter="url(#shadowLight)"/>
+    <text x="90" y="21" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">NOTIFICATIONS</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="38" width="180" height="110" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    
+    <!-- Email icon -->
+    <rect x="65" y="52" width="50" height="35" rx="4" fill="#ed8936"/>
+    <path d="M70 57 L90 72 L110 57" stroke="#ffffff" stroke-width="2" fill="none"/>
+    <rect x="70" y="57" width="40" height="25" rx="2" fill="none" stroke="#ffffff" stroke-width="2"/>
+    
+    <text x="90" y="105" font-family="Arial, sans-serif" font-size="9" fill="#4a5568" text-anchor="middle">Email sent to SOC Analyst</text>
+    <text x="90" y="118" font-family="Arial, sans-serif" font-size="9" fill="#4a5568" text-anchor="middle">+ User Communication</text>
+    <text x="90" y="131" font-family="Arial, sans-serif" font-size="8" fill="#a0aec0" text-anchor="middle">(Automated Templates)</text>
+  </g>
+  
+  <!-- =============== INTERFAZ ADMIN (Derecha Inferior 2) =============== -->
+  <g transform="translate(1040, 280)">
+    <!-- Header box -->
+    <rect x="0" y="0" width="170" height="32" rx="6" fill="url(#blueGrad)" filter="url(#shadowLight)"/>
+    <text x="85" y="21" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" text-anchor="middle">ADMINISTRATION</text>
+    
+    <!-- Content box -->
+    <rect x="0" y="38" width="170" height="130" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    <circle cx="20" cy="62" r="6" fill="#3182ce"/>
+    <text x="35" y="66" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">Frontend React</text>
+    <circle cx="20" cy="87" r="6" fill="#63b3ed"/>
+    <text x="35" y="91" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">CLI tunich-admin</text>
+    <circle cx="20" cy="112" r="6" fill="#90cdf4"/>
+    <text x="35" y="116" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">API REST (FastAPI)</text>
+    <circle cx="20" cy="137" r="6" fill="#bee3f8"/>
+    <text x="35" y="141" font-family="Arial, sans-serif" font-size="10" fill="#2d3748">RBAC / LDAP</text>
+  </g>
+  
+  <!-- =============== LEYENDA (Derecha Inferior) =============== -->
+  <g transform="translate(1040, 450)">
+    <text x="85" y="15" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#2d3748" text-anchor="middle">CAPTION</text>
+    
+    <rect x="0" y="25" width="170" height="110" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="2" filter="url(#shadow)"/>
+    
+    <!-- Línea punteada -->
+    <line x1="15" y1="45" x2="55" y2="45" stroke="#805ad5" stroke-width="2" stroke-dasharray="5,3"/>
+    <text x="65" y="49" font-family="Arial, sans-serif" font-size="9" fill="#4a5568">Data Ingestion</text>
+    
+    <!-- Línea sólida verde -->
+    <line x1="15" y1="65" x2="55" y2="65" stroke="#38a169" stroke-width="2"/>
+    <text x="65" y="69" font-family="Arial, sans-serif" font-size="9" fill="#4a5568">RAG Enrichment</text>
+    
+    <!-- Línea sólida naranja -->
+    <line x1="15" y1="85" x2="55" y2="85" stroke="#ed8936" stroke-width="2"/>
+    <text x="65" y="89" font-family="Arial, sans-serif" font-size="9" fill="#4a5568">Output / Tickets</text>
+    
+    <!-- Círculo verde -->
+    <circle cx="25" cy="105" r="6" fill="#48bb78"/>
+    <text x="65" y="109" font-family="Arial, sans-serif" font-size="9" fill="#4a5568">Active Component</text>
+    
+    <!-- Círculo rojo -->
+    <circle cx="25" cy="122" r="6" fill="#e53e3e"/>
+    <text x="65" y="126" font-family="Arial, sans-serif" font-size="9" fill="#4a5568">Alert / Detection</text>
+  </g>
+  
+  <!-- =============== FLECHAS DE CONEXIÓN =============== -->
+  <!-- Ingesta a Centro -->
+  <path d="M 210 180 Q 250 180 280 250" stroke="#805ad5" stroke-width="2" stroke-dasharray="6,4" fill="none"/>
+  <path d="M 210 350 Q 250 350 280 330" stroke="#805ad5" stroke-width="2" stroke-dasharray="6,4" fill="none"/>
+  <path d="M 210 530 Q 250 500 280 420" stroke="#319795" stroke-width="2" stroke-dasharray="6,4" fill="none"/>
+  
+  <!-- Centro a Salidas -->
+  <path d="M 760 250 Q 790 250 830 200" stroke="#38a169" stroke-width="2" fill="none"/>
+  <path d="M 760 350 Q 790 350 830 350" stroke="#ed8936" stroke-width="2" fill="none"/>
+  <path d="M 760 420 Q 790 470 830 500" stroke="#ed8936" stroke-width="2" fill="none"/>
+  
+  <!-- Footer -->
+  <rect x="0" y="860" width="1400" height="40" fill="#f7fafc"/>
+  <line x1="0" y1="860" x2="1400" y2="860" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="700" y="885" font-family="Arial, sans-serif" font-size="11" fill="#718096" text-anchor="middle">Tunich SOC Assistant AI v1.0 | PostecH Cyber Security Solutions | Postech.us | © 2025</text>
+</svg>
