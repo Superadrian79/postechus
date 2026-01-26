@@ -7,7 +7,7 @@
 		var $home_about = 'Acerca de';
 		var $home_contact= 'Contacto';
 
-		var $security = 'Ciberseguridad';
+		var $services = 'Servicios';
 		var $security_noc = 'NOC';
 		var $security_soc = 'CSOC';
 		var $security_assurance = 'Assurance & Hardening';
@@ -16,19 +16,13 @@
 
 		var $solutions = 'Soluciones';
 		var $solutions_cfi = 'CFI';
-		var $solutions_itinsight = 'Monitoreo';
+		var $solutions_itinsight = 'It Insight';
 		var $solutions_ncsm = 'Monitoreo de Sistemas y Redes - NCSM';
 		var $social_osint  = 'OSINT';
 		var $solutions_big = 'Análisis de Big Data';
 		var $solutions_domains = 'Disponibilidad de Dominios';
-		var $solutions_methodology = 'Metodología';
-		var $solutions_cthmdr = 'CTH MDR';
-		var $solutions_cognitus = 'Cognitus';
 		var $solutions_technology = 'Inteligencia de Amenazas';
-
-		var $technologies = 'Tecnologias';
 		var $sga_security_gateway = 'SGA SECURITY GATEWAY';
-		var $it_insight = 'ITINSIGHT';
 		var $edr = 'EDR';
 		var $mdm = 'MDM';
 		var $siem = 'SIEM';
@@ -47,6 +41,10 @@
 		var $training_network = 'Seguridad de Red';
 		var $training_it = 'Fundamentos de IT Management';
 		var $training_itil = 'ITIL V 3 Manejo de Servicios';
+		var $solutions_methodology = 'Metodología';
+		var $solutions_cognitus = 'Cognitus';
+
+
 
 		var $partnership = 'Alianzas';
 		var $tssc = 'TSSC';

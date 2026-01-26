@@ -42,7 +42,7 @@ class navbar {
 								</ul>
 							</li>
                             
-							<li><a href="seguridad.php"><div><i class="icon-code"></i>'.$this->lang->security.'</div></a><ul>
+							<li><a href="seguridad.php"><div><i class="icon-code"></i>'.$this->lang->services.'</div></a><ul>
 									<li><a href="NOC.php"><div><i class="icon-stack"></i>'.$this->lang->security_noc.'</div></a></li>
 									<li><a href="SOC.php"><div><i class="icon-umbrella"></i>'.$this->lang->security_soc.'</div></a></li>
 									<li><a href="assurance.php"><div><i class="icon-line-columns"></i>'.$this->lang->security_assurance.'</div></a></li>
@@ -52,23 +52,13 @@ class navbar {
 							</li>
                             
 							<li><a href="soluciones.php"><div><i class="icon-code"></i>'.$this->lang->solutions.'</div></a><ul>
-									
 									<li><a href="it_insight.php"><div><i class="icon-th"></i>'.$this->lang->solutions_itinsight.'</div></a></li>
-									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href="public.php"><div><i class="icon-line-columns"></i>'.$this->lang->social_osint.'</div></a></li>
 									<li><a href="big.php"><div><i class="icon-user"></i>'.$this->lang->solutions_big.'</div></a></li>
 									<li><a href="domainwhois.php"><div><i class="icon-stack"></i>'.$this->lang->solutions_domains.'</div></a></li>
-									<li><a href="metodologia.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_methodology.'</div></a></li>
-									<li><a href="cth.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
-									<li><a href="cognitus.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cognitus.'</div></a></li>
 									<li><a href="tihub.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_technology.'</div></a></li>
-								</ul>
-
-								<li><a href="#"><div><i class="icon-line-monitor"></i>'.$this->lang->technologies.'</div></a><ul>
-									<li><a href="cth.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
 									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href="sga.php"><div><i class="icon-tasks"></i>'.$this->lang->sga_security_gateway.'</div></a></li>
-									<li><a href="it_insight.php"><div><i class="icon-external-link"></i>'.$this->lang->it_insight.'</div></a></li>
 									<li><a href="tunich.php"><div><i class="icon-connection-25"></i>'.$this->lang->tunich_ai.'</div></a></li>
 									<li><a href="edr.php"><div><i class="icon-line-lock"></i>'.$this->lang->edr.'</div></a></li>
 									<li><a href="mdm.php"><div><i class="icon-line-disc"></i>'.$this->lang->mdm.'</div></a></li>
@@ -86,6 +76,8 @@ class navbar {
 									<li><a href="network.php"><div><i class="icon-line-columns"></i>'.$this->lang->training_network.'</div></a></li>
 									<li><a href="TI.php"><div><i class="icon-align-justify2"></i>'.$this->lang->training_it.'</div></a></li>
 									<li><a href="ITIL.php"><div><i class="icon-ok-sign"></i>'.$this->lang->training_itil.'</div></a></li>
+									<li><a href="metodologia.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_methodology.'</div></a></li>
+									<li><a href="cognitus.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cognitus.'</div></a></li>
 								</ul>
 							</li>
                             

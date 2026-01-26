@@ -7,7 +7,7 @@
 		var $home_about = 'About Us';
 		var $home_contact= 'Contact';
 
-		var $security = 'Cybersecurity';
+		var $services = 'Services';
 		var $security_noc = 'NOC';
 		var $security_soc = 'CSOC';
 		var $security_assurance = 'Assurance & Hardening';
@@ -21,14 +21,8 @@
 		var $social_osint  = 'OSINT';
 		var $solutions_big = 'Big Data Analytics';
 		var $solutions_domains = 'Domain Check';
-		var $solutions_methodology = 'Methodology';
-		var $solutions_cthmdr = 'CTH MDR';
-		var $solutions_cognitus = 'Cognitus';
 		var $solutions_technology = 'Threat Intel HUB';
-
-		var $technologies = 'Technologies';
 		var $sga_security_gateway = 'SGA SECURITY GATEWAY';
-		var $it_insight = 'ITINSIGHT';
 		var $edr = 'EDR';
 		var $mdm = 'MDM';
 		var $siem = 'SIEM';
@@ -36,7 +30,6 @@
 		var $tunich_ai = 'TUNICH AI';
 		var $soar = 'SOAR';
 		var $honeypot = 'HONEYPOT & SANDBOX';
-		var $ncsm = 'NCSM';
 		var $cth = 'CTH';
 
 		var $training = 'Training';
@@ -47,6 +40,8 @@
 		var $training_network = 'Network Security';
 		var $training_it = 'IT Management Fundamentals';
 		var $training_itil = 'ITIL V 3 Management Services';
+		var $solutions_methodology = 'Methodology';
+		var $solutions_cognitus = 'Cognitus';
 
 		var $partnership = 'Partnerships';
 		var $tssc = 'TSSC';
