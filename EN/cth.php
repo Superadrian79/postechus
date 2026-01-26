@@ -479,7 +479,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 
                         <br>
 
-                        <div class="center"><img src="../images/cth/cth-arquitectura.png"></div><br>
+                        <div class="center"><img src="../images/cth/cth-arquitectura ING.svg"></div><br>
 
 					<div class="clear"></div>			
 			    </div>

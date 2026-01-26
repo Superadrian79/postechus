@@ -387,7 +387,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 							</table>
 						</div>
 
-						<br><div class="center"><img src="../images/tunich/tunich_architecture.svg"></div>
+						<br><div class="center"><img src="../images/tunich/tunich_architecture ING.svg"></div>
 
 						<div class="clear"></div>			
 					</div>

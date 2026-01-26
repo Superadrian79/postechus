@@ -430,7 +430,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
     </div>
 </div>
 
-<br><div class="center"><img src="../images/ti_hub_architecture_white.svg"></div>
+<br><div class="center"><img src="../images/ti_hub_architecture_white ING.svg"></div>
 
 <!-- -->
 				  <div class="clear"></div>
