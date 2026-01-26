@@ -347,7 +347,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 							It also supports SNMPv3 with encryption and role-based access control (RBAC).</p>
 						</div>
 
-						<br><div class="center"><img src="../images/it_insight/diagrama_it_insight_v2.svg"></div>
+						<br><div class="center"><img src="../images/it_insight/diagrama_it_insight_v2 ING.svg"></div>
 
 						<div class="clear"></div>			
 					</div>
