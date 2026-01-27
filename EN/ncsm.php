@@ -366,7 +366,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 			</p>
 			<br>
 			<div class="center"><br>
-				<img class="img-responsive" src="../images/ncsm/NCSM-Arquitectura-Diagrama-Blanco.svg">
+				<img class="img-responsive" src="../images/ncsm/NCSM-Arquitectura-Diagrama-Blanco ING.svg">
 			</div><br>
 
 		</section><!-- #content end -->
