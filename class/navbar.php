@@ -55,7 +55,7 @@ class navbar {
 									<li><a href="it_insight.php"><div><i class="icon-th"></i>'.$this->lang->solutions_itinsight.'</div></a></li>
 									<li><a href="public.php"><div><i class="icon-line-columns"></i>'.$this->lang->social_osint.'</div></a></li>
 									<li><a href="big.php"><div><i class="icon-user"></i>'.$this->lang->solutions_big.'</div></a></li>
-									<li><a href="domainwhois.php"><div><i class="icon-stack"></i>'.$this->lang->solutions_domains.'</div></a></li>
+									<li><a href="cth.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
 									<li><a href="tihub.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_technology.'</div></a></li>
 									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
 									<li><a href="sga.php"><div><i class="icon-tasks"></i>'.$this->lang->sga_security_gateway.'</div></a></li>

@@ -15,6 +15,7 @@
 		var $security_vulnerability = 'Vulnerability Assesment';
 
 		var $solutions = 'Soluciones';
+		var $solutions_cthmdr = 'CTH';
 		var $solutions_cfi = 'CFI';
 		var $solutions_itinsight = 'It Insight';
 		var $solutions_ncsm = 'Monitoreo de Sistemas y Redes - NCSM';
