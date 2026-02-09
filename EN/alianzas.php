@@ -28,8 +28,25 @@
 
 	<!-- Document Title
 	============================================= -->
+	<title>Technology Partnerships & Strategic Alliances | PostecH</title>
 
-	<title>Postech Partnerships</title>
+	<meta name="description" content="PostecH builds strategic partnerships with leading cybersecurity and technology vendors, strengthening its enterprise solutions portfolio with globally recognized security brands." />
+
+	<meta name="keywords" content="technology partnerships, cybersecurity partners, PostecH partners, Cisco partner, Fortinet partner, Palo Alto Networks partner, Check Point partner, IBM Security partner, Splunk partner, Microsoft Security partner, AWS partner, cybersecurity vendors, enterprise security partners" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Technology Partnerships & Strategic Alliances | PostecH" />
+	<meta property="og:description" content="Strategic partnerships with leading cybersecurity and technology brands to deliver trusted enterprise security solutions." />
+	<meta property="og:url" content="https://postech.us/EN/alianzas.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

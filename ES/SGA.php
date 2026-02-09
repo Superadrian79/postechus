@@ -38,7 +38,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Postech: Security Gateway Appliance</title>
+	<title>SGA | Sistema de Gestión Ambiental | PostecH</title>
+
+	<meta name="description" content="Sistema de Gestión Ambiental (SGA) orientado a la implementación, control y mejora continua de prácticas ambientales, cumplimiento normativo y sostenibilidad en entornos empresariales." />
+
+	<meta name="keywords" content="SGA, sistema de gestión ambiental, gestión ambiental empresarial, ISO 14001, cumplimiento ambiental, sostenibilidad empresarial, gestión ambiental TI, normatividad ambiental, mejora continua ambiental" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="SGA | Sistema de Gestión Ambiental | PostecH" />
+	<meta property="og:description" content="Sistema de Gestión Ambiental para apoyar el cumplimiento normativo, la sostenibilidad y la mejora continua en organizaciones." />
+	<meta property="og:url" content="https://postech.us/ES/SGA.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

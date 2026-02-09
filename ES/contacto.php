@@ -34,7 +34,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>PostecH Cyber Security Solutions</title>
+	<title>Contacto | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="Contacta a PostecH Cyber Security Solutions para obtener información sobre servicios de ciberseguridad, soluciones TI, capacitación y soporte especializado para empresas." />
+
+	<meta name="keywords" content="contacto PostecH, ciberseguridad, soluciones TI, servicios de seguridad informática, soporte TI, consultoría en ciberseguridad, contacto empresarial, seguridad de la información" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Contacto | PostecH Cyber Security Solutions" />
+	<meta property="og:description" content="Ponte en contacto con PostecH para conocer nuestras soluciones de ciberseguridad, servicios TI y programas de capacitación profesional." />
+	<meta property="og:url" content="https://postech.us/ES/contacto.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

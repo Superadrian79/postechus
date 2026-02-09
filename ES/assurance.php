@@ -39,7 +39,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Assurance & Hardening </title>
+	<title>Assurance & Hardening | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="Servicios de aseguramiento de seguridad para evaluar, fortalecer y validar controles de TI. PostecH mejora la postura de seguridad empresarial con auditorías, pruebas y evaluaciones basadas en mejores prácticas." />
+
+	<meta name="keywords" content="aseguramiento de seguridad, evaluación de seguridad, auditorías TI, pruebas de seguridad, revisión de controles, cumplimiento de seguridad, ciberseguridad empresarial, seguridad de la información, análisis de riesgos TI" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Aseguramiento de Seguridad | PostecH Cyber Security Solutions" />
+	<meta property="og:description" content="Soluciones de aseguramiento de seguridad para validar, evaluar y reforzar controles de TI, auditorías y pruebas de seguridad para empresas." />
+	<meta property="og:url" content="https://postech.us/ES/assurance.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+
 
 </head>
 

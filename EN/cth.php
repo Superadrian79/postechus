@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> CTH</title>
+	<title>CTH – Cyber Threat Hunter | PostecH Cyber Security Solutions</title>
+
+    <meta name="description" content="CTH (Cyber Threat Hunter) by PostecH is an advanced solution for proactive threat hunting, sophisticated attack detection, and deep security event analysis across enterprise environments." />
+
+    <meta name="keywords" content="Cyber Threat Hunter, CTH, threat hunting, advanced threat detection, proactive cybersecurity, threat analysis, enterprise threat hunting, SOC advanced, cyber attack detection" />
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="CTH – Cyber Threat Hunter | PostecH" />
+    <meta property="og:description" content="Cyber Threat Hunter solution delivering proactive threat hunting and advanced detection through deep security event analysis." />
+    <meta property="og:url" content="https://postech.us/EN/cth.php" />
+    <meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+    <meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="628" />
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

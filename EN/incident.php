@@ -26,7 +26,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Incident Handling</title>
+	<title>Incident Response & Handling | Cybersecurity Incidents | PostecH</title>
+
+	<meta name="description" content="Incident Response and Handling services to detect, contain, eradicate, and recover from cybersecurity incidents. PostecH delivers rapid and effective response to minimize business impact." />
+
+	<meta name="keywords" content="incident response, incident handling, cybersecurity incident response, security incident management, breach response, incident containment, cyber incident recovery, digital forensics, enterprise incident response" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Incident Response & Handling | PostecH" />
+	<meta property="og:description" content="Professional Incident Response services for detection, containment, eradication, and recovery from cybersecurity incidents." />
+	<meta property="og:url" content="https://postech.us/EN/incident.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

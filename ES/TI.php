@@ -39,7 +39,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>TI Tecnologia Informática</title>
+	<title>Fundamentos de Gestión TI | Administración de Tecnologías de la Información | PostecH</title>
+
+	<meta name="description" content="Fundamentos de Gestión de Tecnologías de la Información orientados a la administración eficiente de servicios TI, alineación con el negocio, control operativo y mejora continua en entornos empresariales." />
+
+	<meta name="keywords" content="fundamentos de gestión TI, gestión de tecnologías de la información, administración de TI, IT management, gestión de servicios TI, gobierno de TI, operación TI empresarial, control y optimización de TI" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Fundamentos de Gestión TI | PostecH" />
+	<meta property="og:description" content="Conceptos y fundamentos de la gestión TI para administrar, optimizar y alinear los servicios de tecnologías de la información con el negocio." />
+	<meta property="og:url" content="https://postech.us/ES/TI.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

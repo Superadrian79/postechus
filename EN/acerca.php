@@ -27,7 +27,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>PostecH Cyber Security Solutions</title>
+	<title>About Us | Cybersecurity & Technology Experts | PostecH</title>
+
+	<meta name="description" content="PostecH is a cybersecurity and technology company specializing in advanced security solutions, threat detection, intelligence, and enterprise risk management, supported by a team of experienced professionals." />
+
+	<meta name="keywords" content="about PostecH, cybersecurity company, cybersecurity experts, enterprise cybersecurity solutions, information security specialists, managed security services provider, cybersecurity consulting, technology security company" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="About Us | Cybersecurity & Technology Experts | PostecH" />
+	<meta property="og:description" content="Learn about PostecH, a cybersecurity and technology company delivering advanced security, intelligence, and risk management solutions for enterprise environments." />
+	<meta property="og:url" content="https://postech.us/EN/acerca.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

@@ -26,7 +26,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Assurance & Hardening</title>
+	<title> Assurance & Hardening | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content=" Assurance & Hardening, Security Assurance services to assess, validate, and strengthen IT security controls. PostecH improves enterprise security posture with professional audits, testing, and risk evaluations based on best practices." />
+
+	<meta name="keywords" content="security assurance, IT security assessment, security audits, security testing, control validation, risk evaluation, enterprise security, assurance services, cybersecurity assessment, information security assurance" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Security Assurance | PostecH Cyber Security Solutions" />
+	<meta property="og:description" content="Professional Security Assurance services to assess and strengthen IT security controls, audit systems, and evaluate risks for enterprise environments." />
+	<meta property="og:url" content="https://postech.us/EN/assurance.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

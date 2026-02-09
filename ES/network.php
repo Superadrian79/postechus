@@ -39,7 +39,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Seguridad de Red</title>
+	<title>Seguridad de Red | Protección y Monitoreo de Redes | PostecH</title>
+
+	<meta name="description" content="Soluciones de Seguridad de Red para proteger, monitorear y asegurar infraestructuras empresariales frente a amenazas avanzadas, accesos no autorizados y ataques a nivel de red." />
+
+	<meta name="keywords" content="seguridad de red, network security, protección de redes, seguridad perimetral, monitoreo de red, detección de intrusiones, control de tráfico, seguridad de infraestructura TI, ciberseguridad de redes empresariales" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Seguridad de Red | PostecH" />
+	<meta property="og:description" content="Protección y monitoreo de redes empresariales mediante soluciones avanzadas de seguridad de red y control de tráfico." />
+	<meta property="og:url" content="https://postech.us/ES/network.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

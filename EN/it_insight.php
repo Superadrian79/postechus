@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> IT Insight</title>
+	<title>IT Insight | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="IT Insight provides advanced visibility, analytics, and monitoring of IT environments to support informed decision-making, performance optimization, and proactive risk management." />
+
+	<meta name="keywords" content="IT insight, IT analytics, IT visibility, IT monitoring, infrastructure analytics, performance monitoring, IT intelligence, enterprise IT analytics, operational insight, IT decision support" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="IT Insight | PostecH Cyber Security Solutions" />
+	<meta property="og:description" content="Advanced IT Insight solutions delivering analytics, visibility, and monitoring to optimize enterprise IT operations and decision-making." />
+	<meta property="og:url" content="https://postech.us/EN/it_insight.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

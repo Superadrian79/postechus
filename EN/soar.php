@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> SOAR</title>
+	<title>SOAR – Security Orchestration, Automation & Response | PostecH</title>
+
+	<meta name="description" content="SOAR (Security Orchestration, Automation and Response) solutions to automate incident response, orchestrate security workflows, and reduce detection and containment times across enterprise SOC environments." />
+
+	<meta name="keywords" content="SOAR, security orchestration automation and response, security automation, incident response automation, SOC automation, SOAR platform, security orchestration, automated incident response, cybersecurity automation, enterprise SOAR solutions" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="SOAR – Security Orchestration, Automation & Response | PostecH" />
+	<meta property="og:description" content="Enterprise SOAR solutions delivering automated incident response, security orchestration, and workflow automation for modern SOC operations." />
+	<meta property="og:url" content="https://postech.us/EN/soar.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/ jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

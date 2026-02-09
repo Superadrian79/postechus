@@ -40,7 +40,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>TI Tecnologia Informática</title>
+	<title>Threat Intelligence HUB | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="Threat Intelligence HUB de PostecH centraliza, analiza y correlaciona inteligencia de amenazas para anticipar ataques, mejorar la detección y fortalecer la toma de decisiones en ciberseguridad empresarial." />
+
+	<meta name="keywords" content="threat intelligence hub, inteligencia de amenazas, threat intelligence, análisis de amenazas, correlación de inteligencia, ciberinteligencia, seguridad proactiva, SOC intelligence, detección avanzada de amenazas" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Threat Intelligence HUB | PostecH" />
+	<meta property="og:description" content="Plataforma de Threat Intelligence HUB para centralizar, analizar y correlacionar inteligencia de amenazas en entornos empresariales." />
+	<meta property="og:url" content="https://postech.us/ES/tihub.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

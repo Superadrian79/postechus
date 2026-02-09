@@ -26,7 +26,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Methodology</title>
+	<title>Metodología de Ciberseguridad | Enfoque y Mejores Prácticas | PostecH</title>
+
+	<meta name="description" content="Metodología de ciberseguridad basada en mejores prácticas para la evaluación, implementación, monitoreo y mejora continua de controles de seguridad en entornos empresariales." />
+
+	<meta name="keywords" content="metodología de ciberseguridad, metodología de seguridad informática, evaluación de seguridad, gestión de riesgos TI, mejores prácticas de ciberseguridad, enfoque de seguridad empresarial, metodología de protección de la información, seguridad de la información" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Metodología de Ciberseguridad | PostecH" />
+	<meta property="og:description" content="Enfoque metodológico de ciberseguridad para evaluar riesgos, implementar controles y mejorar continuamente la postura de seguridad empresarial." />
+	<meta property="og:url" content="https://postech.us/ES/metodologia.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

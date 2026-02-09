@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> SIEM COMPLIANCE</title>
+	<title>SIEM Compliance | Security Compliance & Monitoring | PostecH</title>
+
+	<meta name="description" content="PostecH’s SIEM Compliance solution enables security monitoring, event correlation, and evidence generation to support regulatory compliance, audits, and frameworks such as ISO 27001 and PCI DSS." />
+
+	<meta name="keywords" content="SIEM compliance, security compliance, IT compliance monitoring, security audits, SIEM for compliance, regulatory compliance, ISO 27001, PCI DSS compliance, compliance reporting, security governance" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="SIEM Compliance | Security Compliance & Monitoring | PostecH" />
+	<meta property="og:description" content="SIEM Compliance solution supporting regulatory compliance, security audits, and evidence reporting through continuous monitoring and event correlation." />
+	<meta property="og:url" content="https://postech.us/EN/siem_compliance.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

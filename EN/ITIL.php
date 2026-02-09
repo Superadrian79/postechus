@@ -26,7 +26,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>ITIL v 3 Management Services</title>
+	<title>ITIL v3 | IT Service Management | PostecH</title>
+
+	<meta name="description" content="ITIL v3 focused on IT Service Management best practices to improve service delivery, operations, and continuous improvement aligned with business objectives." />
+
+	<meta name="keywords" content="ITIL v3, IT service management, ITSM, ITIL best practices, service delivery management, IT operations management, IT governance, incident management ITIL, continuous service improvement" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="ITIL v3 | IT Service Management | PostecH" />
+	<meta property="og:description" content="ITIL v3 framework for IT Service Management, enabling effective service delivery, operational efficiency, and continuous improvement." />
+	<meta property="og:url" content="https://postech.us/EN/ITIL.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

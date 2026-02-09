@@ -26,7 +26,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Network Security</title>
+	<title>Network Security | Enterprise Network Protection | PostecH</title>
+
+	<meta name="description" content="Network Security solutions designed to protect, monitor, and secure enterprise network infrastructures against advanced threats, unauthorized access, and network-level attacks." />
+
+	<meta name="keywords" content="network security, enterprise network security, network protection, network monitoring, intrusion detection, traffic control, infrastructure security, cybersecurity networks, network threat detection" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Network Security | PostecH" />
+	<meta property="og:description" content="Enterprise Network Security solutions for protecting and monitoring network infrastructures against modern cyber threats." />
+	<meta property="og:url" content="https://postech.us/EN/network.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

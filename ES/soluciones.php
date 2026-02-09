@@ -37,7 +37,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Soluciones Postech</title>
+	<title>Soluciones de Ciberseguridad y TI | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="PostecH ofrece soluciones integrales de ciberseguridad y tecnología para empresas, incluyendo monitoreo, detección de amenazas, análisis avanzado, protección de infraestructura y gestión de seguridad." />
+
+	<meta name="keywords" content="soluciones de ciberseguridad, soluciones TI, seguridad informática empresarial, detección de amenazas, monitoreo de seguridad, protección de infraestructura, análisis de seguridad, SOC, NOC, inteligencia de amenazas" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Soluciones de Ciberseguridad y TI | PostecH" />
+	<meta property="og:description" content="Soluciones empresariales de ciberseguridad y TI para proteger, monitorear y optimizar infraestructuras tecnológicas." />
+	<meta property="og:url" content="https://postech.us/ES/soluciones.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

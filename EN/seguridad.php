@@ -25,7 +25,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>PostecH Cyber Security Solutions</title>
+	<title>Security | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="PostecH provides comprehensive cybersecurity and IT security solutions to protect enterprise infrastructures, networks, systems, and critical data against advanced threats." />
+
+	<meta name="keywords" content="cybersecurity, IT security, enterprise security, network security, infrastructure protection, threat detection, security monitoring, cybersecurity services, information security" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Security | PostecH Cyber Security Solutions" />
+	<meta property="og:description" content="Enterprise cybersecurity and IT security solutions delivering protection, monitoring, and defense against advanced digital threats." />
+	<meta property="og:url" content="https://postech.us/EN/seguridad.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

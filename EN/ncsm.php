@@ -26,7 +26,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Network Cyber-Security Monitoring</title>
+	<title>NCSM – Network & Cyber Security Monitoring | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="PostecH’s NCSM delivers continuous network and cybersecurity monitoring to detect threats, anomalies, and risks in real time, protecting enterprise infrastructures." />
+
+	<meta name="keywords" content="NCSM, network security monitoring, cybersecurity monitoring, continuous monitoring, threat detection, network traffic analysis, enterprise security monitoring, infrastructure protection, cyber risk monitoring" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="NCSM – Network & Cyber Security Monitoring | PostecH" />
+	<meta property="og:description" content="Continuous Network & Cyber Security Monitoring solution designed to detect threats and protect enterprise infrastructures in real time." />
+	<meta property="og:url" content="https://postech.us/EN/ncsm.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

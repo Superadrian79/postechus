@@ -26,7 +26,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Network Operations Center</title>
+	<title>NOC – Network Operations Center | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="PostecH’s NOC (Network Operations Center) delivers 24/7 monitoring of networks and IT infrastructure, proactive issue detection, event management, and operational support to ensure high availability." />
+
+	<meta name="keywords" content="NOC, network operations center, 24/7 network monitoring, IT infrastructure monitoring, network event management, operational IT support, network availability, business continuity, enterprise NOC services" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="NOC – Network Operations Center | PostecH" />
+	<meta property="og:description" content="NOC services providing continuous monitoring of enterprise networks and IT infrastructure, proactive detection, and operational support." />
+	<meta property="og:url" content="https://postech.us/EN/NOC.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

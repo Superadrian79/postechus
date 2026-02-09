@@ -26,7 +26,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Security Operations Center</title>
+	<title>CSOC – Security Operations Center | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="PostecH’s SOC (Security Operations Center) provides 24/7 threat monitoring, advanced threat detection, incident response, and continuous protection for enterprise IT environments." />
+
+	<meta name="keywords" content="CSOC, Security Operations Center, security operations, threat monitoring, incident response, cybersecurity operations, CSOC services, advanced threat detection, enterprise CSOC solutions, 24/7 security monitoring" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="CSOC – Security Operations Center | PostecH" />
+	<meta property="og:description" content="Comprehensive SOC services with 24/7 threat monitoring, advanced detection and incident response to safeguard enterprise networks and systems." />
+	<meta property="og:url" content="https://postech.us/EN/SOC.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

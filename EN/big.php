@@ -26,7 +26,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Big Data Analytics</title>
+	<title>Big Data & Advanced Analytics | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="PostecH delivers Big Data and advanced analytics solutions to process, correlate, and analyze large volumes of data, enabling actionable intelligence and strategic decision-making." />
+
+	<meta name="keywords" content="big data, big data analytics, advanced analytics, data analytics, data intelligence, event correlation, real-time analytics, data-driven security, enterprise analytics solutions" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Big Data & Advanced Analytics | PostecH" />
+	<meta property="og:description" content="Big Data and advanced analytics solutions designed to transform large-scale data into actionable intelligence for enterprise security and operations." />
+	<meta property="og:url" content="https://postech.us/EN/big.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

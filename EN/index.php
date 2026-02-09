@@ -37,7 +37,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>PostecH Cyber Security Solutions</title>
+	<title>Cybersecurity & IT Security Solutions | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="PostecH offers comprehensive cybersecurity and IT security solutions, including monitoring, threat detection, vulnerability assessment, training, and advanced enterprise security technologies." />
+
+	<meta name="keywords" content="cybersecurity solutions, IT security, cybersecurity services, NOC, CSOC, pentesting, vulnerability assessment, SIEM, EDR, SOAR, threat intelligence, cybersecurity training, enterprise security technologies" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Cybersecurity & IT Security Solutions | PostecH" />
+	<meta property="og:description" content="Comprehensive IT and cybersecurity solutions for enterprise threat detection, vulnerability management, training, and advanced security technologies." />
+	<meta property="og:url" content="https://postech.us/EN/index.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
+
 
 </head>
 

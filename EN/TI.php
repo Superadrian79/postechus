@@ -26,7 +26,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>IT Management Fundamentals</title>
+	<title>IT Management Fundamentals | Information Technology Management | PostecH</title>
+
+	<meta name="description" content="IT Management Fundamentals focused on efficient administration of IT services, business alignment, operational control, and continuous improvement across enterprise environments." />
+
+	<meta name="keywords" content="IT management fundamentals, IT management, information technology management, IT service management, IT governance, enterprise IT operations, IT administration, technology management" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="IT Management Fundamentals | PostecH" />
+	<meta property="og:description" content="Fundamental concepts of IT Management to effectively manage, optimize, and align IT services with business objectives." />
+	<meta property="og:url" content="https://postech.us/EN/TI.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

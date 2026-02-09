@@ -40,7 +40,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Cognitus</title>
+	<title>Cognitus | PostecH</title>
+
+	<meta name="description" content="Cognitus is an advanced security intelligence and analytics solution that transforms security data into actionable insights to support strategic decision-making across enterprise cybersecurity environments." />
+
+	<meta name="keywords" content="Cognitus, security intelligence, advanced security analytics, security data analytics, actionable intelligence, data-driven security, security insight platform, cybersecurity analytics, enterprise security intelligence" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Cognitus | Security Intelligence & Advanced Analytics | PostecH" />
+	<meta property="og:description" content="Cognitus delivers advanced security intelligence and analytics to transform data into actionable insights for enterprise cybersecurity decision-making." />
+	<meta property="og:url" content="https://postech.us/EN/cognitus.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

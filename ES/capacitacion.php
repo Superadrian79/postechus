@@ -39,7 +39,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Capacitación</title>
+	<title>Capacitación en Ciberseguridad y TI | Formación Especializada | PostecH</title>
+
+	<meta name="description" content="Programas de capacitación en ciberseguridad y tecnologías de la información diseñados para fortalecer habilidades técnicas, operativas y estratégicas en entornos empresariales." />
+
+	<meta name="keywords" content="capacitación en ciberseguridad, formación en ciberseguridad, cursos de seguridad informática, capacitación TI, entrenamiento en ciberseguridad, formación profesional en TI, cursos de seguridad empresarial, capacitación para SOC, entrenamiento en seguridad de la información" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Capacitación en Ciberseguridad y TI | PostecH" />
+	<meta property="og:description" content="Capacitación especializada en ciberseguridad y TI para desarrollar competencias técnicas y fortalecer la postura de seguridad empresarial." />
+	<meta property="og:url" content="https://postech.us/ES/capacitacion.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

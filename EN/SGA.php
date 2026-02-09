@@ -26,7 +26,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>PostecH Cyber Security Solutions</title>
+	<title>EMS | Environmental Management System | PostecH</title>
+
+	<meta name="description" content="Environmental Management System (EMS) designed to support compliance, sustainability, and continuous improvement of environmental practices across enterprise environments." />
+
+	<meta name="keywords" content="EMS, environmental management system, environmental management, ISO 14001, environmental compliance, corporate sustainability, environmental governance, continuous improvement environmental management" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="EMS | Environmental Management System | PostecH" />
+	<meta property="og:description" content="Environmental Management System supporting regulatory compliance, sustainability initiatives, and continuous environmental improvement." />
+	<meta property="og:url" content="https://postech.us/EN/SGA.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

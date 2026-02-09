@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> Honeypot & Sandbox</title>
+	<title>Honeypot de Seguridad | Detección y Análisis de Ataques | PostecH</title>
+
+	<meta name="description" content="Soluciones Honeypot para la detección temprana de ataques, análisis de comportamiento malicioso y generación de inteligencia de amenazas. PostecH fortalece la seguridad empresarial mediante técnicas de engaño controlado." />
+
+	<meta name="keywords" content="honeypot, honeypots de seguridad, detección de ataques, análisis de ataques, engaño de seguridad, threat intelligence, detección temprana de amenazas, seguridad proactiva, ciberseguridad avanzada, monitoreo de ataques" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Honeypot de Seguridad | Detección y Análisis de Ataques | PostecH" />
+	<meta property="og:description" content="Honeypots de seguridad para detectar ataques, analizar comportamientos maliciosos y generar inteligencia de amenazas en tiempo real." />
+	<meta property="og:url" content="https://postech.us/ES/honeypot.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/ jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

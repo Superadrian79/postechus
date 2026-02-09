@@ -39,7 +39,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>CSOC</title>
+	<title>CSOC – Centro de Operaciones de Seguridad | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="El CSOC de PostecH ofrece monitoreo 24/7 de amenazas, detección avanzada, respuesta a incidentes y protección continua para entornos empresariales de TI." />
+
+	<meta name="keywords" content="CSOC, centro de operaciones de seguridad, monitoreo de amenazas, detección avanzada de amenazas, respuesta a incidentes, operaciones de ciberseguridad, servicios CSOC, protección empresarial, seguridad TI, SOC 24/7" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="CSOC – Centro de Operaciones de Seguridad | PostecH" />
+	<meta property="og:description" content="Servicios de CSOC con monitoreo de amenazas 24/7, detección avanzada y respuesta a incidentes para proteger redes y sistemas empresariales." />
+	<meta property="og:url" content="https://postech.us/ES/SOC.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

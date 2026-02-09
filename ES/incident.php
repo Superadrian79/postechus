@@ -39,7 +39,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Curso de manejo de incidentes de Seguridad</title>
+	<title>Manejo de Incidentes de Seguridad | Incident Response | PostecH</title>
+
+	<meta name="description" content="Servicios de Manejo de Incidentes de Seguridad para detectar, contener, erradicar y recuperar ante ciberataques. PostecH ofrece respuesta a incidentes rápida y efectiva para minimizar el impacto en el negocio." />
+
+	<meta name="keywords" content="manejo de incidentes, respuesta a incidentes, incident response, respuesta a incidentes de seguridad, gestión de incidentes de ciberseguridad, contención de incidentes, recuperación ante incidentes, forense digital, respuesta a ciberataques, seguridad empresarial" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Manejo de Incidentes de Seguridad | Incident Response | PostecH" />
+	<meta property="og:description" content="Respuesta a incidentes de ciberseguridad para detección, contención, erradicación y recuperación ante ataques y brechas de seguridad." />
+	<meta property="og:url" content="https://postech.us/ES/incident.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

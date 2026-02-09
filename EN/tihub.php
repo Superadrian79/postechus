@@ -40,7 +40,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Threat Intel HUB</title>
+	<title>Threat Intelligence HUB | PostecH Cyber Security Solutions</title>
+
+    <meta name="description" content="PostecH Threat Intelligence HUB centralizes, analyzes, and correlates threat intelligence to anticipate attacks, enhance detection, and support strategic cybersecurity decision-making." />
+
+    <meta name="keywords" content="threat intelligence hub, threat intelligence, cyber threat intelligence, threat analysis, intelligence correlation, proactive cybersecurity, SOC intelligence, advanced threat detection, security intelligence platform" />
+
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Threat Intelligence HUB | PostecH" />
+    <meta property="og:description" content="Threat Intelligence HUB platform designed to centralize and analyze cyber threat intelligence for proactive enterprise security." />
+    <meta property="og:url" content="https://postech.us/EN/tihub.php" />
+    <meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+    <meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="628" />
+    <meta property="og:image:type" content="image/jpeg" />
+
+    <meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

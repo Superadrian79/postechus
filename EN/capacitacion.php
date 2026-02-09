@@ -27,7 +27,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Training</title>
+	<title>Cybersecurity & IT Training | Professional Education | PostecH</title>
+
+	<meta name="description" content="Cybersecurity and IT training programs designed to build technical, operational, and strategic skills for enterprise security and technology teams." />
+
+	<meta name="keywords" content="cybersecurity training, IT training, cybersecurity courses, security awareness training, professional cybersecurity education, enterprise security training, SOC training, information security training, technical cybersecurity courses" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Cybersecurity & IT Training | PostecH" />
+	<meta property="og:description" content="Professional cybersecurity and IT training programs to strengthen technical skills and improve enterprise security readiness." />
+	<meta property="og:url" content="https://postech.us/EN/capacitacion.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

@@ -31,8 +31,24 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>PostecH Cyber Security Solutions</title>
+	<title>Contact | PostecH Cyber Security Solutions</title>
 
+	<meta name="description" content="Contact PostecH Cyber Security Solutions to learn more about our cybersecurity services, IT solutions, professional training, and enterprise security support." />
+
+	<meta name="keywords" content="contact PostecH, cybersecurity services, IT security solutions, enterprise security support, cybersecurity consulting, IT services contact, information security" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Contact | PostecH Cyber Security Solutions" />
+	<meta property="og:description" content="Get in touch with PostecH to explore cybersecurity solutions, IT services, professional training, and enterprise security support." />
+	<meta property="og:url" content="https://postech.us/EN/contacto.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 </head>
 
 <body class="stretched no-transition">

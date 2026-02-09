@@ -39,7 +39,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>IDS / IPS</title>
+	<title>Fundamentos de PCI DSS | Cumplimiento y Seguridad de Datos | PostecH</title>
+
+	<meta name="description" content="Fundamentos de PCI DSS orientados al cumplimiento, protección de datos de tarjetas de pago y fortalecimiento de la seguridad de la información en entornos empresariales." />
+
+	<meta name="keywords" content="fundamentos de PCI DSS, PCI DSS, cumplimiento PCI DSS, seguridad de datos de pago, normativa PCI DSS, protección de datos financieros, cumplimiento normativo en ciberseguridad, seguridad de la información, auditoría PCI DSS" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Fundamentos de PCI DSS | PostecH" />
+	<meta property="og:description" content="Conceptos y fundamentos de PCI DSS para cumplir con la normativa y proteger los datos de tarjetas de pago en organizaciones." />
+	<meta property="og:url" content="https://postech.us/ES/fundamentos.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

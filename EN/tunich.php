@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> Tunich</title>
+	<title>Tunich AI | Artificial Intelligence for Cybersecurity | PostecH</title>
+
+	<meta name="description" content="Tunich AI is PostecH’s artificial intelligence platform designed for advanced data analytics, threat detection, event correlation, and decision support in enterprise cybersecurity environments." />
+
+	<meta name="keywords" content="Tunich AI, artificial intelligence, AI for cybersecurity, machine learning, advanced analytics, threat detection, event correlation, security analytics, enterprise AI security, data-driven cybersecurity" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Tunich AI | Artificial Intelligence for Cybersecurity | PostecH" />
+	<meta property="og:description" content="Tunich AI delivers advanced analytics, threat detection, and event correlation using artificial intelligence to enhance enterprise cybersecurity." />
+	<meta property="og:url" content="https://postech.us/EN/tunich.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

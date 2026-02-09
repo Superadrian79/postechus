@@ -26,7 +26,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>IDS / IPS</title>
+	<title>PCI DSS Fundamentals | Compliance & Data Security | PostecH</title>
+
+	<meta name="description" content="PCI DSS Fundamentals focused on compliance requirements, payment card data protection, and strengthening information security across enterprise environments." />
+
+	<meta name="keywords" content="PCI DSS fundamentals, PCI DSS compliance, payment card data security, PCI DSS requirements, financial data protection, cybersecurity compliance, information security standards, PCI audit readiness" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="PCI DSS Fundamentals | PostecH" />
+	<meta property="og:description" content="PCI DSS fundamentals designed to support compliance, protect payment card data, and strengthen enterprise security controls." />
+	<meta property="og:url" content="https://postech.us/EN/fundamentos.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

@@ -26,7 +26,25 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Techniques and tools for network vulnerabilities</title>
+	<title>Techniques for Vulnerability Assessment | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="Techniques for Vulnerability Assessment focused on identifying, analyzing, and prioritizing security risks across enterprise networks, systems, and applications." />
+
+	<meta name="keywords" content="vulnerability assessment techniques, vulnerability assessment, vulnerability analysis, security risk assessment, vulnerability management, security assessment techniques, enterprise cybersecurity, threat identification, security testing methods" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Techniques for Vulnerability Assessment | PostecH" />
+	<meta property="og:description" content="Security techniques and methodologies for vulnerability assessment, risk analysis, and enterprise cybersecurity improvement." />
+	<meta property="og:url" content="https://postech.us/EN/tecnicas.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

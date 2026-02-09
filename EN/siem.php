@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> SIEM</title>
+	<title>SIEM – Security Information & Event Management | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="SIEM (Security Information and Event Management) solutions for collecting, correlating, and analyzing security events. PostecH enhances threat detection and incident response for enterprise environments." />
+
+	<meta name="keywords" content="SIEM, security information and event management, security event management, log management, event correlation, threat detection, enterprise SIEM, security monitoring, cybersecurity analytics" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="SIEM – Security Information & Event Management | PostecH" />
+	<meta property="og:description" content="Enterprise SIEM solutions delivering security event correlation, log analysis, and advanced threat detection." />
+	<meta property="og:url" content="https://postech.us/EN/siem.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

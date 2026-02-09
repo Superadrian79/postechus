@@ -39,7 +39,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Curso ITIL V3</title>
+	<title>ITIL v3 | Gestión de Servicios de TI | PostecH</title>
+
+	<meta name="description" content="ITIL v3 enfocado en la gestión de servicios de TI, mejores prácticas para la operación, entrega y mejora continua de servicios tecnológicos alineados al negocio." />
+
+	<meta name="keywords" content="ITIL v3, gestión de servicios TI, IT service management, ITSM, mejores prácticas ITIL, operación de servicios TI, gobierno de TI, gestión de incidentes ITIL, mejora continua de servicios" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="ITIL v3 | Gestión de Servicios de TI | PostecH" />
+	<meta property="og:description" content="Marco ITIL v3 para la gestión de servicios de TI, orientado a mejorar la operación, calidad y alineación de los servicios tecnológicos con el negocio." />
+	<meta property="og:url" content="https://postech.us/ES/ITIL.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

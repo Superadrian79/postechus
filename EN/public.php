@@ -26,7 +26,26 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>OSINT</title>
+	<title>OSINT | Open Source Intelligence | PostecH</title>
+
+	<meta name="description" content="OSINT (Open Source Intelligence) solutions for collecting, analyzing, and correlating publicly available information to identify threats, risks, and digital exposure across enterprise environments." />
+
+	<meta name="keywords" content="OSINT, open source intelligence, OSINT analysis, digital investigation, threat intelligence, public data monitoring, cyber intelligence, risk identification, data-driven intelligence, security OSINT" />
+
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="OSINT | Open Source Intelligence | PostecH" />
+	<meta property="og:description" content="Open Source Intelligence solutions to identify threats, risks, and digital exposure through analysis of publicly available information." />
+	<meta property="og:url" content="https://postech.us/EN/osint.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg " />
+
+	<meta name="twitter:card" content="summary_large_image" />
+
 
 </head>
 

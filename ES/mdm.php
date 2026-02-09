@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> MDM</title>
+	<title>MDM – Gestión de Dispositivos Móviles | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="Soluciones MDM (Mobile Device Management) para la gestión, control y seguridad de dispositivos móviles empresariales. PostecH protege información corporativa en smartphones, tablets y endpoints móviles." />
+
+	<meta name="keywords" content="MDM, mobile device management, gestión de dispositivos móviles, seguridad móvil empresarial, administración de dispositivos móviles, protección de dispositivos móviles, MDM empresarial, seguridad BYOD, gestión de endpoints móviles" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="MDM – Gestión de Dispositivos Móviles | PostecH" />
+	<meta property="og:description" content="Gestión y seguridad de dispositivos móviles con MDM para proteger datos corporativos y administrar smartphones y tablets empresariales." />
+	<meta property="og:url" content="https://postech.us/ES/mdm.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

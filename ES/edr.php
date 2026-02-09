@@ -41,7 +41,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title> EDR</title>
+	<title>EDR – Detección y Respuesta en Endpoints | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="Soluciones EDR (Endpoint Detection and Response) para detectar, analizar y responder a amenazas avanzadas en endpoints. PostecH protege equipos, servidores y dispositivos contra ataques sofisticados en tiempo real." />
+
+	<meta name="keywords" content="EDR, endpoint detection and response, detección y respuesta en endpoints, seguridad de endpoints, protección de endpoints, EDR empresarial, detección de amenazas en endpoints, respuesta a incidentes en endpoints, malware avanzado, ransomware protection" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="EDR – Detección y Respuesta en Endpoints | PostecH" />
+	<meta property="og:description" content="Protección avanzada de endpoints con EDR para detectar amenazas, responder a incidentes y reducir riesgos en entornos empresariales." />
+	<meta property="og:url" content="https://postech.us/ES/edr.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 

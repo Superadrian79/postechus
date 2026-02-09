@@ -38,7 +38,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>NOC</title>
+	<title>NOC – Centro de Operaciones de Red | PostecH Cyber Security Solutions</title>
+
+	<meta name="description" content="El NOC de PostecH ofrece monitoreo 24/7 de redes e infraestructura TI, detección proactiva de fallas, gestión de eventos y soporte operativo para garantizar disponibilidad y continuidad del negocio." />
+
+	<meta name="keywords" content="NOC, centro de operaciones de red, monitoreo de red 24/7, network operations center, monitoreo de infraestructura TI, gestión de eventos de red, soporte operativo TI, disponibilidad de red, continuidad del negocio" />
+
+	<meta property="og:locale" content="es_MX" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="NOC – Centro de Operaciones de Red | PostecH" />
+	<meta property="og:description" content="Servicios NOC para monitoreo continuo de redes e infraestructura TI, detección de fallas y soporte operativo especializado." />
+	<meta property="og:url" content="https://postech.us/ES/NOC.php" />
+	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
+	<meta property="og:image" content="https://www.postech.us/Facebook-Card.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+
+	<meta name="twitter:card" content="summary_large_image" />
 
 </head>
 
