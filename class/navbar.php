@@ -58,7 +58,7 @@ class navbar {
 									<li><a href="cth.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_cthmdr.'</div></a></li>
 									<li><a href="tihub.php"><div><i class="icon-calendar3"></i>'.$this->lang->solutions_technology.'</div></a></li>
 									<li><a href="ncsm.php"><div><i class="icon-th"></i>'.$this->lang->solutions_ncsm.'</div></a></li>
-									<li><a href="sga.php"><div><i class="icon-tasks"></i>'.$this->lang->sga_security_gateway.'</div></a></li>
+									<li><a href="SGA.php"><div><i class="icon-tasks"></i>'.$this->lang->sga_security_gateway.'</div></a></li>
 									<li><a href="tunich.php"><div><i class="icon-connection-25"></i>'.$this->lang->tunich_ai.'</div></a></li>
 									<li><a href="edr.php"><div><i class="icon-line-lock"></i>'.$this->lang->edr.'</div></a></li>
 									<li><a href="mdm.php"><div><i class="icon-line-disc"></i>'.$this->lang->mdm.'</div></a></li>
