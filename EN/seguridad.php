@@ -72,7 +72,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 				<h1>security it</h1>
 				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
-					<li class="active">Security IT</li>
+					<li class="active">Cyber Security</li>
 				</ol>
 			</div>
 

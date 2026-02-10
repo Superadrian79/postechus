@@ -68,7 +68,7 @@ class navbar {
 									<li><a href="honeypot.php"><div><i class="icon-wrench"></i>'.$this->lang->honeypot.'</div></a></li>
 								</ul>
                             
-							<li><a href="#"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
+							<li><a href="capacitacion.php"><div><i class="icon-line-file"></i>'.$this->lang->training.'</div></a><ul>
 									<li><a href="https://kb.postech.us" target="_blank"><div><i class="icon-stack"></i>'.$this->lang->training_kb.'</div></a></li>
 									<li><a href="incident.php"><div><i class="icon-stack"></i>'.$this->lang->training_incident.'</div></a></li>
 					                <li><a href="tecnicas.php"><div><i class="icon-umbrella"></i>'.$this->lang->training_techniques.'</div></a></li>

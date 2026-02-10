@@ -109,8 +109,8 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 						<div class="downloads-bar">
 							<div class="downloads-bar__logo"><img src="../images/it_insight/itinsight.png" alt="Logo"></div>
 							<div class="downloads-bar__actions">
-								<a href="https://postech.us/docs/folleto%20IT%20Insight_postech.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
-								<a href="https://postech.us/docs/IT%20Insight%20-%20Ficha%20tecnica%20-%20Postech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Datasheet</a>
+								<a href="https://postech.us/docs/Brochure_IT%20Insight_EN_postech.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
+								<a href="https://postech.us/docs/IT%20Insight_Technical_Specs_EN_Postech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Datasheet</a>
 							</div>
 						</div>
 

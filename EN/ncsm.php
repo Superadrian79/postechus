@@ -94,8 +94,8 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 			<div class="downloads-bar">
 				<div class="downloads-bar__logo"><img src="../images/ncsm/ncsm.png" alt="Logo"></div>
 				<div class="downloads-bar__actions">
-					<a href="https://postech.us/docs/NETWORK%20CYBER%20SECURITY%20MONITOR_FOLLETO.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
-					<a href="https://postech.us/docs/NCSM_Ficha%20tecnica-Postech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Datasheet</a>
+					<a href="https://postech.us/docs/NETWORK%20CYBER%20SECURITY%20MONITOR_BROCHURE_EN.pdf" class="btn-download btn-download--brochure" target="_blank"><i class="icon-download"></i>Brochure</a>
+					<a href="https://postech.us/docs/NCSM_Technical_Specs_EN_Postech%20Cyber%20Security.pdf" class="btn-download btn-download--ficha" target="_blank"><i class="icon-file"></i>Datasheet</a>
 				</div>
 			</div>
 			<p></p><hr class="hr1"><p></p>
