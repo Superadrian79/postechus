@@ -25,7 +25,7 @@
 
 	<!-- Document Title
 	============================================= -->
-	<title>Security | PostecH Cyber Security Solutions</title>
+	<title>Cyber Security Services | PostecH Cyber Security Solutions</title>
 
 	<meta name="description" content="PostecH provides comprehensive cybersecurity and IT security solutions to protect enterprise infrastructures, networks, systems, and critical data against advanced threats." />
 
@@ -33,7 +33,7 @@
 
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Security | PostecH Cyber Security Solutions" />
+	<meta property="og:title" content="Cyber Security Services | PostecH Cyber Security Solutions" />
 	<meta property="og:description" content="Enterprise cybersecurity and IT security solutions delivering protection, monitoring, and defense against advanced digital threats." />
 	<meta property="og:url" content="https://postech.us/EN/seguridad.php" />
 	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
@@ -69,10 +69,11 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		<section id="page-title" class="page-title-dark">
 
 			<div class="container clearfix">
-				<h1>security it</h1>
+				<h1>Cyber Security Services</h1>
 				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
-					<li class="active">Cyber Security</li>
+					<li><a href="index.php">Home</a></li>
+					<li class="active">Cyber Security Services</li>
 				</ol>
 			</div>
 

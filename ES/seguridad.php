@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<!-- Document Title
 	============================================= -->
-	<title>Seguridad | PostecH Cyber Security Solutions</title>
+	<title>Servicios de ciberseguridad | PostecH Cyber Security Solutions</title>
 
 	<meta name="description" content="PostecH ofrece soluciones integrales de seguridad informática y ciberseguridad para proteger infraestructuras, redes, sistemas y datos empresariales frente a amenazas avanzadas." />
 
@@ -46,7 +46,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 	<meta property="og:locale" content="es_MX" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Seguridad | PostecH Cyber Security Solutions" />
+	<meta property="og:title" content="Servicios de ciberseguridad | PostecH Cyber Security Solutions" />
 	<meta property="og:description" content="Soluciones de seguridad informática y ciberseguridad para empresas: protección, monitoreo y defensa frente a amenazas digitales." />
 	<meta property="og:url" content="https://postech.us/ES/seguridad.php" />
 	<meta property="og:site_name" content="PostecH Cyber Security Solutions" />
@@ -85,11 +85,11 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 		<section id="page-title" class="page-title-dark">
 
 			<div class="container clearfix">
-				<h1>seguridad it</h1>
+				<h1>Servicios de ciberseguridad</h1>
 				<span>PostecH Cyber Security Solutions</span>
 				<ol class="breadcrumb">
 					<li><a href="index.php">Home</a></li>
-					<li class="active">Seguridad IT</li>
+					<li class="active">Servicios de ciberseguridad</li>
 				</ol>
 			</div>
 
