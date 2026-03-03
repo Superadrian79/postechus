@@ -153,7 +153,7 @@ $nav=new navbar($path, $lang, $path_array['filename']);
 						<br><h3 class="blue">HOW IT WORKS</h3>
 
 						<div class="center">
-							<img src="../images/tunich/diagrama-tunich-ing.svg" alt="Tunich Diagram">
+							<img src="../images/tunich/diagrama-tunich-ING.svg" alt="Tunich Diagram">
 						</div><br>
 
 						<br><h3 class="blue">INTELLIGENT PROCESSING PIPELINE</h3>
